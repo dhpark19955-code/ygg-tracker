@@ -6,7 +6,7 @@ on:
     - cron: "0 23 * * *"
   # Manual trigger from Actions tab
   workflow_dispatch:
-  # Re-run on script/workflow edits so changes take effect immediately
+  # Re-run when fetcher logic changes
   push:
     branches: [main]
     paths:
@@ -42,6 +42,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Fetch data
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
         run: python scripts/fetch_data.py
 
       - name: Commit & push if changed
