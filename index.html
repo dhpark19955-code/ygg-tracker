@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>YGG Competitor Tracker</title>
+<meta name="description" content="YGG B2B Bed bank 경쟁사 (Web Travel Group, TBO Tek, HBX Group) 주가·밸류에이션·뉴스 트래커">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+  :root {
+    --bg: #faf9f5;
+    --bg-card: #ffffff;
+    --bg-soft: #f1efe8;
+    --bg-muted: #e8e6dd;
+    --ink: #1c1c1a;
+    --ink-2: #5f5e5a;
+    --ink-3: #888780;
+    --line: rgba(28,28,26,0.08);
+    --line-2: rgba(28,28,26,0.18);
+    --pos: #1d6b3a;
+    --pos-bg: #e6f4eb;
+    --neg: #a32d2d;
+    --neg-bg: #fbecec;
+    --info: #185fa5;
+    --info-bg: #e6f1fb;
+    --warn: #854f0b;
+    --warn-bg: #faeeda;
+    --accent-WEB: #d85a30;
+    --accent-TBO: #185fa5;
+    --accent-HBX: #1d9e75;
+    --sans: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    --serif: 'Newsreader', Georgia, serif;
+    --mono: 'JetBrains Mono', 'SF Mono', Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #161614; --bg-card: #1f1f1d; --bg-soft: #242421; --bg-muted: #2c2c29;
+      --ink: #f1efe8; --ink-2: #b4b2a9; --ink-3: #888780;
+      --line: rgba(241,239,232,0.08); --line-2: rgba(241,239,232,0.16);
+      --pos: #97c459; --pos-bg: rgba(151,196,89,0.12);
+      --neg: #f09595; --neg-bg: rgba(240,149,149,0.12);
+      --info: #85b7eb; --info-bg: rgba(133,183,235,0.12);
+      --warn: #ef9f27; --warn-bg: rgba(239,159,39,0.12);
+    }
+  }
+  * { box-sizing: border-box; }
+  body, html { margin: 0; padding: 0; }
+  body {
+    background: var(--bg); color: var(--ink);
+    font-family: var(--sans); font-size: 15px; line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 36px 28px 80px; }
+  .eyebrow {
+    font-family: var(--mono); font-size: 11px; letter-spacing: 0.12em;
+    color: var(--ink-3); text-transform: uppercase; margin-bottom: 8px;
+  }
+  h1 {
+    font-family: var(--serif); font-weight: 500; font-style: italic;
+    font-size: 36px; line-height: 1.1; margin: 0 0 10px; letter-spacing: -0.01em;
+  }
+  .subtitle { color: var(--ink-2); font-size: 14px; margin: 0; max-width: 720px; }
+  .toolbar {
+    display: flex; justify-content: space-between; align-items: center;
+    margin-top: 20px; padding: 14px 16px;
+    background: var(--bg-card); border: 0.5px solid var(--line-2); border-radius: 10px;
+  }
+  .updated { font-family: var(--mono); font-size: 12px; color: var(--ink-3); }
+  .updated b { color: var(--ink-2); font-weight: 500; }
+  .btn-refresh {
+    background: var(--ink); color: var(--bg-card);
+    border: none; padding: 9px 18px; border-radius: 8px;
+    font-family: var(--sans); font-size: 13px; font-weight: 600;
+    cursor: pointer; display: inline-flex; align-items: center; gap: 8px;
+    transition: opacity 0.15s;
+  }
+  .btn-refresh:hover { opacity: 0.88; }
+  .btn-refresh:disabled { opacity: 0.5; cursor: not-allowed; }
+  .btn-refresh .spin { display: none; }
+  .btn-refresh.loading .ico-refresh { display: none; }
+  .btn-refresh.loading .spin {
+    display: inline-block; width: 12px; height: 12px;
+    border: 1.5px solid var(--bg-card); border-top-color: transparent;
+    border-radius: 50%; animation: rot 0.8s linear infinite;
+  }
+  @keyframes rot { to { transform: rotate(360deg); } }
+  .section-h {
+    display: flex; align-items: baseline; justify-content: space-between;
+    margin: 40px 0 16px;
+  }
+  .section-h h2 {
+    font-family: var(--serif); font-style: italic; font-weight: 500;
+    font-size: 22px; margin: 0; letter-spacing: -0.005em;
+  }
+  .section-h .note { font-family: var(--mono); font-size: 11px; color: var(--ink-3); }
+  .cards { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 14px; }
+  .card {
+    background: var(--bg-card); border: 0.5px solid var(--line-2);
+    border-radius: 12px; padding: 18px 18px 16px;
+    position: relative; overflow: hidden;
+  }
+  .card::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px;
+    background: var(--accent);
+  }
+  .card.WEB { --accent: var(--accent-WEB); }
+  .card.TBO { --accent: var(--accent-TBO); }
+  .card.HBX { --accent: var(--accent-HBX); }
+  .card .ticker { display: flex; align-items: center; justify-content: space-between; margin-bottom: 4px; }
+  .card .ticker-code { font-family: var(--mono); font-size: 11px; letter-spacing: 0.05em; color: var(--ink-3); }
+  .card .ticker-flag {
+    font-family: var(--mono); font-size: 10px;
+    background: var(--bg-muted); color: var(--ink-2);
+    padding: 2px 7px; border-radius: 4px;
+  }
+  .card .name {
+    font-family: var(--serif); font-size: 19px; font-weight: 500;
+    margin: 0 0 2px; letter-spacing: -0.005em;
+  }
+  .card .biz { font-size: 11.5px; color: var(--ink-3); margin: 0 0 14px; }
+  .card .price-row { display: flex; align-items: baseline; gap: 10px; margin-bottom: 12px; flex-wrap: wrap; }
+  .card .price {
+    font-family: var(--mono); font-size: 28px; font-weight: 500;
+    color: var(--ink); letter-spacing: -0.02em;
+  }
+  .card .ccy { font-family: var(--mono); font-size: 12px; color: var(--ink-3); }
+  .card .chg {
+    font-family: var(--mono); font-size: 12px; font-weight: 500;
+    padding: 3px 8px; border-radius: 5px;
+  }
+  .chg.up { color: var(--pos); background: var(--pos-bg); }
+  .chg.down { color: var(--neg); background: var(--neg-bg); }
+  .chg.flat { color: var(--ink-3); background: var(--bg-soft); }
+  .range { margin-top: 4px; padding-top: 12px; border-top: 0.5px solid var(--line); }
+  .range-bar {
+    height: 4px; background: var(--bg-muted); border-radius: 2px;
+    position: relative; margin: 8px 0 6px;
+  }
+  .range-marker {
+    position: absolute; top: -2px; width: 2px; height: 8px;
+    background: var(--accent); border-radius: 1px;
+  }
+  .range-labels {
+    display: flex; justify-content: space-between;
+    font-family: var(--mono); font-size: 10.5px; color: var(--ink-3);
+  }
+  .range-label-title {
+    font-family: var(--mono); font-size: 10px; color: var(--ink-3);
+    text-transform: uppercase; letter-spacing: 0.08em;
+  }
+  .val-wrap {
+    background: var(--bg-card); border: 0.5px solid var(--line-2);
+    border-radius: 12px; overflow: hidden;
+  }
+  .val-table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+  .val-table thead th {
+    text-align: left; padding: 14px 16px;
+    font-family: var(--mono); font-size: 10.5px; font-weight: 500;
+    color: var(--ink-3); text-transform: uppercase; letter-spacing: 0.08em;
+    border-bottom: 0.5px solid var(--line-2);
+    background: var(--bg-soft);
+  }
+  .val-table thead th.num { text-align: right; }
+  .val-table thead th.WEB { color: var(--accent-WEB); }
+  .val-table thead th.TBO { color: var(--accent-TBO); }
+  .val-table thead th.HBX { color: var(--accent-HBX); }
+  .val-table tbody td { padding: 11px 16px; border-bottom: 0.5px solid var(--line); }
+  .val-table tbody tr:last-child td { border-bottom: none; }
+  .val-table tbody td.num {
+    text-align: right; font-family: var(--mono); font-size: 13px;
+  }
+  .val-table tbody td.metric { color: var(--ink-2); font-weight: 500; }
+  .val-table tbody td.metric .hint {
+    display: block; font-size: 10.5px; color: var(--ink-3); font-weight: 400; margin-top: 1px;
+  }
+  .val-table tbody tr.group-head td {
+    background: var(--bg-soft);
+    font-family: var(--mono); font-size: 10.5px; font-weight: 500;
+    color: var(--ink-3); text-transform: uppercase; letter-spacing: 0.08em;
+    padding: 8px 16px;
+  }
+  .val-table .pos { color: var(--pos); }
+  .val-table .neg { color: var(--neg); }
+  .val-note {
+    padding: 12px 16px; font-size: 11.5px; color: var(--ink-3);
+    background: var(--bg-soft); border-top: 0.5px solid var(--line); line-height: 1.6;
+  }
+  .news-grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 14px; }
+  .news-col {
+    background: var(--bg-card); border: 0.5px solid var(--line-2);
+    border-radius: 12px; padding: 16px 16px 6px;
+    position: relative; min-height: 200px;
+  }
+  .news-col::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px;
+    background: var(--accent);
+  }
+  .news-col.WEB { --accent: var(--accent-WEB); }
+  .news-col.TBO { --accent: var(--accent-TBO); }
+  .news-col.HBX { --accent: var(--accent-HBX); }
+  .news-col h3 {
+    font-family: var(--mono); font-size: 11px; font-weight: 500;
+    margin: 0 0 14px; color: var(--accent);
+    text-transform: uppercase; letter-spacing: 0.08em;
+  }
+  .news-item { padding: 10px 0 12px; border-bottom: 0.5px solid var(--line); }
+  .news-item:last-child { border-bottom: none; }
+  .news-date { font-family: var(--mono); font-size: 10.5px; color: var(--ink-3); margin-bottom: 3px; }
+  .news-title { font-size: 13.5px; line-height: 1.45; font-weight: 500; margin: 0 0 4px; }
+  .news-title a {
+    color: var(--ink); text-decoration: none;
+    background-image: linear-gradient(var(--line-2), var(--line-2));
+    background-position: 0 100%; background-size: 0 1px;
+    background-repeat: no-repeat; transition: background-size 0.2s;
+  }
+  .news-title a:hover { background-size: 100% 1px; }
+  .news-source { font-size: 11px; color: var(--ink-3); margin: 2px 0 0; }
+  .empty {
+    color: var(--ink-3); font-size: 12px; padding: 14px 0; text-align: center;
+  }
+  footer {
+    margin-top: 50px; padding-top: 22px;
+    border-top: 0.5px solid var(--line);
+    font-size: 11.5px; color: var(--ink-3); line-height: 1.6;
+  }
+  footer a { color: var(--ink-2); }
+  .toast {
+    position: fixed; bottom: 28px; left: 50%; transform: translateX(-50%) translateY(20px);
+    background: var(--ink); color: var(--bg-card);
+    padding: 11px 20px; border-radius: 8px;
+    font-size: 13px; font-weight: 500;
+    opacity: 0; transition: all 0.25s ease; pointer-events: none;
+    max-width: 90vw; z-index: 100;
+  }
+  .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+  .toast.err { background: var(--neg); }
+  @media (max-width: 880px) {
+    .cards, .news-grid { grid-template-columns: 1fr; }
+    .val-table { font-size: 12px; }
+    .val-table thead th, .val-table tbody td { padding: 10px 12px; }
+    h1 { font-size: 28px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="eyebrow">YGG Global Finance · Competitor Tracker</div>
+    <h1>Web Travel Group · TBO Tek · HBX Group</h1>
+    <p class="subtitle">Yanolja Go Global의 B2B 베드뱅크/유통 피어 3사 — 주가, 밸류에이션, 최근 뉴스를 한눈에. 데이터는 GitHub Actions를 통해 매일 자동 갱신됩니다.</p>
+    <div class="toolbar">
+      <div class="updated">Last updated <b id="updated-ts">—</b></div>
+      <button class="btn-refresh" id="btn-refresh" type="button">
+        <span class="ico-refresh">↻</span>
+        <span class="spin"></span>
+        <span class="btn-label">Reload</span>
+      </button>
+    </div>
+  </header>
+
+  <section>
+    <div class="section-h">
+      <h2>Quote snapshot</h2>
+      <span class="note">price · daily change · 52-week range</span>
+    </div>
+    <div class="cards" id="price-cards"></div>
+  </section>
+
+  <section>
+    <div class="section-h">
+      <h2>Valuation comparison</h2>
+      <span class="note">TTM · USD-normalized where noted</span>
+    </div>
+    <div class="val-wrap">
+      <table class="val-table">
+        <thead>
+          <tr>
+            <th>Metric</th>
+            <th class="num WEB" id="vh-WEB">WEB</th>
+            <th class="num TBO" id="vh-TBO">TBOTEK</th>
+            <th class="num HBX" id="vh-HBX">HBX</th>
+          </tr>
+        </thead>
+        <tbody id="val-body"></tbody>
+      </table>
+      <div class="val-note" id="val-note">
+        FX와 회계 환산 차이가 있어 USD 환산은 참고용입니다. 멀티플은 Yahoo Finance가 제공하는 trailing 수치 기준으로 일부 종목(인도/스페인)은 비어있을 수 있습니다.
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-h">
+      <h2>Recent headlines</h2>
+      <span class="note">Google News · auto-curated</span>
+    </div>
+    <div class="news-grid" id="news-grid"></div>
+  </section>
+
+  <footer id="footer">
+    Data: yfinance + Google News RSS · auto-refreshed daily via GitHub Actions.
+    가격/지표는 참고용이며 거래 목적의 정확성을 보장하지 않습니다.
+  </footer>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+'use strict';
+
+const TICKERS = ['WEB', 'TBO', 'HBX'];
+
+const STATIC = {
+  WEB: { exchange: 'ASX', flag: '🇦🇺 AUD', biz: 'WebBeds · B2B accommodation marketplace' },
+  TBO: { exchange: 'NSE', flag: '🇮🇳 INR', biz: 'Global B2B travel distribution platform' },
+  HBX: { exchange: 'BME', flag: '🇪🇸 EUR', biz: 'Hotelbeds · Bedsonline · Roiback' },
+};
+
+// -----------------------------------------------------------
+// Helpers
+// -----------------------------------------------------------
+function $(s, r) { return (r || document).querySelector(s); }
+
+function showToast(msg, isErr) {
+  const t = $('#toast');
+  if (!t) return;
+  t.textContent = msg;
+  t.classList.toggle('err', !!isErr);
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), isErr ? 4500 : 2500);
+}
+
+function escapeHtml(s) {
+  if (typeof s !== 'string') return '';
+  return s.replace(/[&<>"']/g, c => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]));
+}
+
+function isNum(n) { return typeof n === 'number' && isFinite(n); }
+
+function fmtNum(n, digits) {
+  if (!isNum(n)) return '—';
+  return n.toLocaleString('en-US', { minimumFractionDigits: digits ?? 2, maximumFractionDigits: digits ?? 2 });
+}
+
+function fmtMoney(n, sym) {
+  if (!isNum(n)) return '—';
+  if (sym === '₹' && Math.abs(n) >= 1e7) return `₹${(n/1e7).toLocaleString('en-IN',{maximumFractionDigits:0})} Cr`;
+  if (Math.abs(n) >= 1e9) return `${sym}${(n/1e9).toFixed(2)}B`;
+  if (Math.abs(n) >= 1e6) return `${sym}${(n/1e6).toFixed(0)}M`;
+  if (Math.abs(n) >= 1000) return `${sym}${n.toLocaleString('en-US',{maximumFractionDigits:0})}`;
+  return `${sym}${n.toFixed(2)}`;
+}
+
+function fmtUsd(n) {
+  if (!isNum(n)) return '';
+  if (Math.abs(n) >= 1e9) return `~$${(n/1e9).toFixed(2)}B`;
+  if (Math.abs(n) >= 1e6) return `~$${(n/1e6).toFixed(0)}M`;
+  return `~$${n.toFixed(0)}`;
+}
+
+function fmtPct(n, digits) {
+  if (!isNum(n)) return '—';
+  const sign = n > 0 ? '+' : '';
+  return `${sign}${(n*100).toFixed(digits ?? 2)}%`;
+}
+
+function fmtMult(n) {
+  if (!isNum(n)) return '—';
+  return `${n.toFixed(1)}x`;
+}
+
+function fmtTsKST(iso) {
+  if (!iso) return '—';
+  try {
+    return new Intl.DateTimeFormat('ko-KR', {
+      year:'numeric', month:'2-digit', day:'2-digit',
+      hour:'2-digit', minute:'2-digit', hour12:false,
+      timeZone:'Asia/Seoul'
+    }).format(new Date(iso)).replace(/\. /g,'.').replace(/\.$/,'') + ' KST';
+  } catch (e) {
+    return iso;
+  }
+}
+
+// -----------------------------------------------------------
+// Renderers
+// -----------------------------------------------------------
+function renderCards(payload) {
+  const root = $('#price-cards');
+  const html = TICKERS.map(key => {
+    const ent = payload.tickers[key];
+    if (!ent) return '';
+    const q = ent.quote || {};
+    const sym = ent.ccy_symbol || '';
+    const dir = q.direction || 'flat';
+    const chgTxt = isNum(q.change) && isNum(q.change_pct)
+      ? `${q.change > 0 ? '+' : ''}${q.change.toFixed(2)} (${fmtPct(q.change_pct, 2)})`
+      : '—';
+
+    let markerPct = 50;
+    if (isNum(q.price) && isNum(q.wk52_low) && isNum(q.wk52_high) && q.wk52_high > q.wk52_low) {
+      markerPct = Math.max(0, Math.min(100,
+        ((q.price - q.wk52_low) / (q.wk52_high - q.wk52_low)) * 100));
+    }
+
+    return `
+      <div class="card ${key}">
+        <div class="ticker">
+          <span class="ticker-code">${escapeHtml(ent.exchange)} : ${escapeHtml((ent.yf_symbol||'').split('.')[0])}</span>
+          <span class="ticker-flag">${STATIC[key].flag}</span>
+        </div>
+        <p class="name">${escapeHtml(ent.name)}</p>
+        <p class="biz">${STATIC[key].biz}</p>
+        <div class="price-row">
+          <span class="price">${isNum(q.price) ? fmtNum(q.price, q.price < 100 ? 2 : 0) : '—'}</span>
+          <span class="ccy">${escapeHtml(ent.ccy)}</span>
+          <span class="chg ${dir}">${escapeHtml(chgTxt)}</span>
+        </div>
+        <div class="range">
+          <div class="range-label-title">52W range</div>
+          <div class="range-bar">
+            <div class="range-marker" style="left:${markerPct}%;"></div>
+          </div>
+          <div class="range-labels">
+            <span>${isNum(q.wk52_low) ? fmtMoney(q.wk52_low, sym) : '—'}</span>
+            <span>${isNum(q.wk52_high) ? fmtMoney(q.wk52_high, sym) : '—'}</span>
+          </div>
+        </div>
+      </div>
+    `;
+  }).join('');
+  root.innerHTML = html;
+}
+
+function renderValuation(payload) {
+  const body = $('#val-body');
+  TICKERS.forEach(t => {
+    const ent = payload.tickers[t];
+    if (ent) $(`#vh-${t}`).textContent = `${(ent.yf_symbol||'').split('.')[0]} (${ent.ccy})`;
+  });
+
+  function cell(t, fn) {
+    const ent = payload.tickers[t];
+    const q = ent && ent.quote;
+    if (!q || !q.ok) return '<td class="num">—</td>';
+    try {
+      return `<td class="num">${fn(q, ent)}</td>`;
+    } catch (e) {
+      console.warn(`Cell render failed for ${t}:`, e);
+      return '<td class="num">—</td>';
+    }
+  }
+
+  function rowFn(label, hint, fn) {
+    const cells = TICKERS.map(t => cell(t, fn)).join('');
+    const hintHtml = hint ? `<span class="hint">${escapeHtml(hint)}</span>` : '';
+    return `<tr><td class="metric">${escapeHtml(label)}${hintHtml}</td>${cells}</tr>`;
+  }
+
+  function group(label) {
+    return `<tr class="group-head"><td colspan="4">${escapeHtml(label)}</td></tr>`;
+  }
+
+  const sections = [
+    group('Market'),
+    rowFn('Price', null, (q, ent) =>
+      `${fmtMoney(q.price, ent.ccy_symbol)}`),
+    rowFn('Market Cap', 'USD-normalized', (q, ent) => {
+      const local = fmtMoney(q.market_cap, ent.ccy_symbol);
+      const usd = isNum(ent.usd_market_cap) ? `<br><span style="color:var(--ink-3);font-size:11px;">${fmtUsd(ent.usd_market_cap)}</span>` : '';
+      return `${local}${usd}`;
+    }),
+    rowFn('Enterprise Value', null, (q, ent) => fmtMoney(q.enterprise_value, ent.ccy_symbol)),
+    rowFn('52W High / Low', null, (q, ent) =>
+      `${fmtMoney(q.wk52_high, ent.ccy_symbol)} / ${fmtMoney(q.wk52_low, ent.ccy_symbol)}`),
+
+    group('Operating scale'),
+    rowFn('Revenue (TTM)', null, (q, ent) => fmtMoney(q.revenue, ent.ccy_symbol)),
+    rowFn('EBITDA', null, (q, ent) => fmtMoney(q.ebitda, ent.ccy_symbol)),
+    rowFn('EBITDA Margin', null, (q) => isNum(q.ebitda_margin) ? `${(q.ebitda_margin*100).toFixed(1)}%` : '—'),
+
+    group('Valuation multiples'),
+    rowFn('P/E (TTM)', null, (q) => fmtMult(q.pe)),
+    rowFn('EV / EBITDA', null, (q) => fmtMult(q.ev_ebitda)),
+    rowFn('EV / Revenue', null, (q) => fmtMult(q.ev_revenue)),
+    rowFn('P / S', null, (q) => fmtMult(q.ps)),
+    rowFn('P / B', null, (q) => fmtMult(q.pb)),
+
+    group('Analyst view'),
+    rowFn('12M Target', 'mean consensus', (q, ent) => {
+      const tgt = fmtMoney(q.target_mean, ent.ccy_symbol);
+      if (!isNum(q.target_upside)) return tgt;
+      const cls = q.target_upside > 0 ? 'pos' : 'neg';
+      return `${tgt} <span class="${cls}" style="font-size:11px;">(${fmtPct(q.target_upside, 0)})</span>`;
+    }),
+  ];
+
+  body.innerHTML = sections.join('');
+}
+
+function renderNews(payload) {
+  const root = $('#news-grid');
+  const html = TICKERS.map(key => {
+    const ent = payload.tickers[key];
+    if (!ent) return '';
+    const items = ent.news || [];
+    const listHtml = items.length
+      ? items.map(it => {
+          const link = it.url
+            ? `<a href="${escapeHtml(it.url)}" target="_blank" rel="noopener">${escapeHtml(it.title)}</a>`
+            : escapeHtml(it.title || '—');
+          const source = it.source ? `<p class="news-source">${escapeHtml(it.source)}</p>` : '';
+          return `
+            <div class="news-item">
+              <div class="news-date">${escapeHtml(it.date || '')}</div>
+              <p class="news-title">${link}</p>
+              ${source}
+            </div>
+          `;
+        }).join('')
+      : '<p class="empty">No recent headlines.</p>';
+
+    return `
+      <div class="news-col ${key}">
+        <h3>${escapeHtml(ent.name)}</h3>
+        ${listHtml}
+      </div>
+    `;
+  }).join('');
+  root.innerHTML = html;
+}
+
+// -----------------------------------------------------------
+// Load
+// -----------------------------------------------------------
+async function loadData() {
+  const btn = $('#btn-refresh');
+  const label = $('.btn-label', btn);
+  btn.classList.add('loading');
+  btn.disabled = true;
+  label.textContent = '불러오는 중...';
+
+  // Cache bust by query string — ensures we get freshly committed data.json
+  const url = `./data.json?ts=${Date.now()}`;
+
+  try {
+    const resp = await fetch(url, { cache: 'no-store' });
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const payload = await resp.json();
+    if (!payload || !payload.tickers) throw new Error('Invalid data.json structure');
+
+    renderCards(payload);
+    renderValuation(payload);
+    renderNews(payload);
+
+    $('#updated-ts').textContent = fmtTsKST(payload.generated_at_utc);
+    showToast('데이터 로드 완료');
+  } catch (e) {
+    console.error('Load failed:', e);
+    showToast(`데이터 로드 실패: ${e.message}`, true);
+    $('#updated-ts').textContent = '로드 실패';
+  } finally {
+    btn.classList.remove('loading');
+    btn.disabled = false;
+    label.textContent = 'Reload';
+  }
+}
+
+$('#btn-refresh').addEventListener('click', loadData);
+loadData();
+</script>
+</body>
+</html>
