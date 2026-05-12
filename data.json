@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-12T08:04:39+00:00",
+  "generated_at_utc": "2026-05-12T08:26:43+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -9,12 +9,12 @@
     "WEB": {
       "name": "Web Travel Group",
       "exchange": "ASX",
-      "yf_symbol": "WEB.AX",
+      "yf_symbol": "WEB:ASX",
       "ccy": "AUD",
       "ccy_symbol": "A$",
       "quote": {
         "ok": false,
-        "symbol": "WEB.AX",
+        "symbol": "WEB:ASX",
         "price": null,
         "prev_close": null,
         "change": null,
@@ -35,24 +35,51 @@
         "target_mean": null,
         "target_upside": null,
         "errors": [
-          "quote: GET /quote failed after 3 attempts: 403 Client Error: Forbidden for url: https://finnhub.io/api/v1/quote?symbol=WEB.AX&token=d7gaaa9r01qqb8ritfr0d7gaaa9r01qqb8ritfrg",
-          "profile: GET /stock/profile2 failed after 3 attempts: 403 Client Error: Forbidden for url: https://finnhub.io/api/v1/stock/profile2?symbol=WEB.AX&token=d7gaaa9r01qqb8ritfr0d7gaaa9r01qqb8ritfrg",
-          "metrics: GET /stock/metric failed after 3 attempts: 403 Client Error: Forbidden for url: https://finnhub.io/api/v1/stock/metric?symbol=WEB.AX&metric=all&token=d7gaaa9r01qqb8ritfr0d7gaaa9r01qqb8ritfrg",
-          "news: GET /company-news failed after 3 attempts: 403 Client Error: Forbidden for url: https://finnhub.io/api/v1/company-news?symbol=WEB.AX&from=2026-04-12&to=2026-05-12&token=d7gaaa9r01qqb8ritfr0d7gaaa9r01qqb8ritfrg"
+          "quote: API error code=404 on /quote: This symbol is available starting with the Pro or Venture plan. Consider upgrading now at https://twelvedata.com/pricing",
+          "statistics: API error code=403 on /statistics: /statistics is available exclusively with pro or ultra or venture or enterprise plans. Consider upgrading your API Key now at https://twelvedata.com/pricing"
         ]
       },
       "usd_market_cap": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026.05.09",
+          "title": "Free cash flow per share of WEB Travel Group limited – HAM:WBJ",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzZNN0tKc1VHR0NpVUkyTHQ3OW9HVVUwdTFVbS03dTJSeE5CWElZVm1SZFFsNl9WZ1Q4Mnc4SDUxNktpZEtlbk1Zb1cxUEtuM0pVZjVJdXlQcDZRRE9JT0l1bGVYODI0NnJkM1NXTWg0Rko4Z1ZyaEpRR1F4bEtUT3JlbGxkRG85cmNQUW9GNF9SVHYzZmkzbmZwM0kwMEtXQWdTOQ?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.04.29",
+          "title": "Builders and Backers: The Tech Innovations Asia Needs Next",
+          "source": "Skift",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRThVUFU4TXBFclRQVXM3alpGRDdoLXE3eHZjMG8xdEZOS1A0WS0tMHZZQW82QnFEZGwwVHN5MmU4VmM1VDF6dTk4VnB2SThHN1VHbmZVU2ljRVlHQmxXWlBmVjVTZUVFMUhvSTZSVHVLUzJFN3RFNGRtVHJwTndHV0V2N1c3WGlCZ09vUUUyM05uQVBvMlh5MFNaSzBubHo1MHBVNHNQbVVVbjZ0TW9TSENSdVhBQk9tbldZTDdkSUhiUk9aTWJCSHZtNlg3aTh1OUJLc3dzNEdYS3ItNDE1UlNzNHdNZjU0SFcw?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.02.09",
+          "title": "Web Travel Group (ASX:WEB) Valuation After Audit Notice Call And Trading Update",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUh3U0JJOGwxT1VYbzI3dWZ5WUFYa2luYnZLbS10bE1NRm1lb3duWi1fOUVkY2JzcDNzZWk4MGRzSHRyMVB0bFJETUk2dlN1cUZfY09Oem5Rb3h6VzE1Y3lKemFiVk9FYzgtQWpkRkJEQUU1akVuaVhia0gweC1FekJHU1k?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.05.07",
+          "title": "Morgan Stanley Maintains WEB TRAVEL GROUP LTD(WEBJF.US) With Hold Rating, Cuts Target Price to $2.7",
+          "source": "富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQelU2NkdUM2dWcUdsTDVQOXNfNnVlODhJVU1wTmZxeHZWanpuSldYRWZJdC1Ka3A2QmVyU3NucEV4dnFYYUN6dHhiMlFBMmNNZTNpMDFGMFJCYjNlUU5KT19jSGVxZHZQQzF0SUZjUG96ZUdjSGNoVGhwWGRkU0xaYVFXSzFzWUlSS3JySzRXcW5YZDZFNmUwY2JLMWl5WE5GTVVJeTJqRQ?oc=5",
+          "summary": ""
+        }
+      ]
     },
     "TBO": {
       "name": "TBO Tek",
       "exchange": "NSE",
-      "yf_symbol": "TBOTEK.NS",
+      "yf_symbol": "TBOTEK:NSE",
       "ccy": "INR",
       "ccy_symbol": "₹",
       "quote": {
         "ok": false,
-        "symbol": "TBOTEK.NS",
+        "symbol": "TBOTEK:NSE",
         "price": null,
         "prev_close": null,
         "change": null,
@@ -73,24 +100,51 @@
         "target_mean": null,
         "target_upside": null,
         "errors": [
-          "quote: GET /quote failed after 3 attempts: 403 Client Error: Forbidden for url: https://finnhub.io/api/v1/quote?symbol=TBOTEK.NS&token=d7gaaa9r01qqb8ritfr0d7gaaa9r01qqb8ritfrg",
-          "profile: GET /stock/profile2 failed after 3 attempts: 403 Client Error: Forbidden for url: https://finnhub.io/api/v1/stock/profile2?symbol=TBOTEK.NS&token=d7gaaa9r01qqb8ritfr0d7gaaa9r01qqb8ritfrg",
-          "metrics: GET /stock/metric failed after 3 attempts: 403 Client Error: Forbidden for url: https://finnhub.io/api/v1/stock/metric?symbol=TBOTEK.NS&metric=all&token=d7gaaa9r01qqb8ritfr0d7gaaa9r01qqb8ritfrg",
-          "news: GET /company-news failed after 3 attempts: 403 Client Error: Forbidden for url: https://finnhub.io/api/v1/company-news?symbol=TBOTEK.NS&from=2026-04-12&to=2026-05-12&token=d7gaaa9r01qqb8ritfr0d7gaaa9r01qqb8ritfrg"
+          "quote: API error code=404 on /quote: This symbol is available starting with the Grow or Venture plan. Consider upgrading now at https://twelvedata.com/pricing",
+          "statistics: API error code=403 on /statistics: /statistics is available exclusively with pro or ultra or venture or enterprise plans. Consider upgrading your API Key now at https://twelvedata.com/pricing"
         ]
       },
       "usd_market_cap": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026.05.10",
+          "title": "Number of shareholders of TBO Tek Ltd. – NSE:TBOTEK",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1FlNXNxVXF1ejFSQUlDRFhzRVhDTWlYekx0WVY1RjBrYmdkNUczSkVYSWxHZkQ3TUZDazMtdldwTVpzalZ5elFqMDBuRS1tY1V1VFU0ZHA3UkxRZmNsSmtjOEd0dDBHWFN2V2dhdF9BUk82M3ZyX1pRbl9LRHZlN1FSaW1wTTdoMWhBbzlvTTNhTUJCOF9GNzlLVUpkRXVXX0JjeTFR?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.05.12",
+          "title": "TBO Tek Ltd is Rated Sell by MarketsMOJO",
+          "source": "Markets Mojo",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblUyNVBKSUQzbDhKS1lhb1dTZEJha0M5S1UxLTRFOHBXZmhMcUxFLW9jRHZuZVR2UXhhc291NlF2b1hlNWdjdGlBLWh5b2xvdDJNaUlfR2paRHQ1WnZ1Skp4LUVFRUYwTWNrTDRiYUVTZVp0ZGJWVlVnV2V2a3BDX2FlZVZvYTRZTlMzVXA1cjE5NzE3aXBOdDVhM1ZHQXVSSE05Xw?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.04.23",
+          "title": "Why TBO Tek shares rallied 12% today",
+          "source": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPZjhkQWpGOUtOb2Q0TGw4YnF5OWJodlNncTBaX2xsbWJxX3dVZ0phNHJxZkEydE9CNm95TGpnXzBMWmJvSlJXLTMtSUQzRnctcWZDdkdOenZRN2JIRlRYWGRrVkJXOTVaRzJTZHFTTnpaOXdrcGFzOG5qeWozaWNHbTZWOTMzeHhCYnBBVS1ubjJrX0tCME9FOW95NGRhUGxYdm05QVRTOHZFMUI2LUVXV3hPLWJQUjRuRWI0YzVIWUd4RGpzc1ByT3A2MVZ6XzlMSHd6UTh5OUxMbzBJUFVsQjQxNXNscjJfbG1obGl3OGdyeW1pRWx1WEkydWUyc1RWUnJxQUVCLUZNY0dlR1EtTUJzNmlnbTBheGlTcTlZeV8zQjVucnQ0eU5Zb3V6bWFvcUJDdkN5dy1SQnVuT1dEOGp1cjZvc3NFVEVnUFMwOWs2aUdVaWs3dnVYTnpVTzRjNGlTZFpQd3A2MFdZNk9sbDctTHp5ZDQ?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.02.23",
+          "title": "TBO Tek appoints Aditi Madhok-Naarden as Global CHRO",
+          "source": "People Matters Global",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWF4T1Q1bjhSYVlNRC1mbmZQU21FRkJ1Nm1sZzYtbkpmRXptQTZqNmU0b0NLbVlCYjhXRm95T2xYVzA0THhlZ09RMmx2UTBMdk1wZmhIU2ZhWHVFa1MxWk1GQ1VGdzUyVjd0T2RucWJQWmUtcUpwcmFfVzVoX3Q1ZzJNNWdyck10ODJ3NkNBOE9YYUNiWk1jMGN0TWFHeGZUSnZVbFVyeHFHdXQ2RHhSWjJB?oc=5",
+          "summary": ""
+        }
+      ]
     },
     "HBX": {
       "name": "HBX Group",
       "exchange": "BME",
-      "yf_symbol": "HBX.MC",
+      "yf_symbol": "HBX:BME",
       "ccy": "EUR",
       "ccy_symbol": "€",
       "quote": {
         "ok": false,
-        "symbol": "HBX.MC",
+        "symbol": "HBX:BME",
         "price": null,
         "prev_close": null,
         "change": null,
@@ -111,16 +165,43 @@
         "target_mean": null,
         "target_upside": null,
         "errors": [
-          "quote: GET /quote failed after 3 attempts: 403 Client Error: Forbidden for url: https://finnhub.io/api/v1/quote?symbol=HBX.MC&token=d7gaaa9r01qqb8ritfr0d7gaaa9r01qqb8ritfrg",
-          "profile: GET /stock/profile2 failed after 3 attempts: 403 Client Error: Forbidden for url: https://finnhub.io/api/v1/stock/profile2?symbol=HBX.MC&token=d7gaaa9r01qqb8ritfr0d7gaaa9r01qqb8ritfrg",
-          "metrics: GET /stock/metric failed after 3 attempts: 403 Client Error: Forbidden for url: https://finnhub.io/api/v1/stock/metric?symbol=HBX.MC&metric=all&token=d7gaaa9r01qqb8ritfr0d7gaaa9r01qqb8ritfrg",
-          "news: GET /company-news failed after 3 attempts: 403 Client Error: Forbidden for url: https://finnhub.io/api/v1/company-news?symbol=HBX.MC&from=2026-04-12&to=2026-05-12&token=d7gaaa9r01qqb8ritfr0d7gaaa9r01qqb8ritfrg"
+          "quote: API error code=404 on /quote: This symbol is available starting with the Pro or Venture plan. Consider upgrading now at https://twelvedata.com/pricing",
+          "statistics: API error code=403 on /statistics: /statistics is available exclusively with pro or ultra or venture or enterprise plans. Consider upgrading your API Key now at https://twelvedata.com/pricing"
         ]
       },
       "usd_market_cap": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026.05.07",
+          "title": "HBX Group: AI adoption grows, scaling remains a hurdle",
+          "source": "Travolution",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMnF5VlhZZzdsMERGbHM5NHdPeDRlS2lTN1pwNHVmUi1NVElaMTJfeUJNX195R0pyVEZmdDBuNjhOR2RYU3d4VDh2TWRTT1lVdks0MTlETEROWEZWLU5JaDdxR09zQlJleUFBS05zYkdHSHFCY0RIdWtXVDhiRVVhYWJ3S3RiWHVqejlHV1JhRQ?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.05.07",
+          "title": "HBX Group’s H1 2026 Preliminary Results: excluding costs related to IPO, company to return to a net profit of €58 million",
+          "source": "The Corner .eu",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQS1VKVTFoc2FTR2xCVHEycXRwRWh6QzB5dVlQV0F2WG1MbGk5M1QxSnNKVmtudk1vTFdJQUpud0FZaUtrclRjOU5VeGtrblZkZEtkLUxXYzNISWVTdllpb21BUUJaRkpMNll2SkE3Y3ltVmZ6b2lwY0k4OVVrZEF3VEphM2NJMU9TeW5MYmFIUDk4RHQzSEIxbmZUYmNUNmV6OS1lUzhlZW5mLUJmanhGckt6RjhZUFJFcFFqbzFVUHJpZU1wcjFBTGd5MlBveEZvMFFuYjlZWlBEelBpZ0NSY3EyQTRNMmpMRHdqanNR?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.05.07",
+          "title": "HBX Group study finds AI adoption rising across travel distribution",
+          "source": "ET TravelWorld",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYXBfaTVTRmdyMFctQXdGeTNvSENPMW1DMWthOWliNnFaTWpTZ19ST3A5SkxHYkl3T3NHUElKak5FSXRlRVVXVjduZnh0M2I4amVuUUxLaXZmZGNld0puUlpaTi1XenJUTF9mSFZFUldSNTl5OWR5VFFpVkktSXkycHJGbk1YTEV4Q0tjQ3pJZWM5TDBtbFB6emNEQ1I1elRLOWRpbHAzdWpfVlpLNlZidGVGWUdheFVCbi05SE5LMnBEZkw4VVM2UUJoWkZ0UUZLLWd5bTZlaXZIX2lOc2p3akh2NlHSAeoBQVVfeXFMTXVNYkxoWG50UmxiN1lobnlsMjhQMHJIWFhXazcwNmpaUmtXNkRqVTVvRUhJWFdZeGdLSnR0QUpRQVJPZ3gzYWJLNFRYM3dlaGRiazkxRXVvUk4zOHF3ZHFFZkJBZFVyeVlwZUU2NHBneVhMc2JSSWVVZTdnSWtqd0hkNkhXR1RYWVlJV0JQTWUxM2R1T0ZURjcycnRSanM3eHZBd01uaTBMb2RPM0R4Vng0Ui1qZC1PN0FYQ1Y4MTl3XzdzNGlXcklENmQ4NTlWWW0yX0VtcUNYTTRHVmlmdktxOHNtUnZFUy1B?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.04.29",
+          "title": "HBX Group reveals how the travel industry is adapting to volatility at MarketHub Europe",
+          "source": "Hospitality Net",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQjVra19oXzJnbnQydTRGZXhkWno3TWZZYzFYWE01SG9RTHJiZXhFYnpTLXhKNG1acEZ1b0NYTzVUNC1WU3I0QnF0aDJ0WV9WZ2RPME1CRjNzSWJ5bjZLcXV6OUI0ZVR1dVRXUTZTTFhHUmxoREtwUVFNUnZqVkJwcFlCVFBtMThpOUxYVDZkblRtVTFJczM3YzROajF1ZnYxbDVHVGpkVzBxcndjT1pRVElxX2lYWUgtNGE4dFNrWk01M3FUSlJGRTRwUQ?oc=5",
+          "summary": ""
+        }
+      ]
     }
   },
-  "schema_version": 2,
-  "data_source": "finnhub.io"
+  "schema_version": 3,
+  "data_source": "twelvedata.com + google news rss"
 }
