@@ -1,26 +1,24 @@
 #!/usr/bin/env python3
 """
-YGG Competitor Tracker — Data fetcher
-=====================================
-Fetches latest quote + valuation + news for WEB.AX / TBOTEK.NS / HBX.MC
-and writes everything to data.json at the repo root.
+YGG Competitor Tracker — Data fetcher (Finnhub edition)
+=======================================================
+Pulls quotes / company profile / fundamentals / news for the 3 peers via
+the Finnhub.io REST API. Free tier (60 calls/min) is more than enough.
 
-Designed to run on GitHub Actions (no credentials required).
+Requires env: FINNHUB_API_KEY  (set via GitHub Secrets)
 """
 from __future__ import annotations
 
 import json
 import logging
+import os
 import sys
-import urllib.parse
-import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+import time
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
-import feedparser
 import requests
-import yfinance as yf
 
 # ---------------------------------------------------------------------------
 # Config
@@ -29,41 +27,43 @@ import yfinance as yf
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT = ROOT / "data.json"
 
-# Ticker registry — (yfinance symbol, display ccy, search query for news)
+API_BASE = "https://finnhub.io/api/v1"
+API_KEY = os.environ.get("FINNHUB_API_KEY", "").strip()
+HTTP_TIMEOUT = 15
+RETRY_MAX = 3
+RETRY_BACKOFF_SEC = 2
+RATE_LIMIT_SLEEP_SEC = 1.2  # stay under free tier 60/min comfortably
+NEWS_LOOKBACK_DAYS = 30
+NEWS_MAX = 4
+
+# Ticker registry. Finnhub uses Yahoo-style exchange suffixes.
 TICKERS: dict[str, dict[str, str]] = {
     "WEB": {
-        "yf": "WEB.AX",
+        "symbol": "WEB.AX",
         "ccy": "AUD",
         "ccy_symbol": "A$",
-        "news_q": '"Web Travel Group" OR WebBeds',
         "name": "Web Travel Group",
         "exchange": "ASX",
     },
     "TBO": {
-        "yf": "TBOTEK.NS",
+        "symbol": "TBOTEK.NS",
         "ccy": "INR",
         "ccy_symbol": "₹",
-        "news_q": '"TBO Tek"',
         "name": "TBO Tek",
         "exchange": "NSE",
     },
     "HBX": {
-        "yf": "HBX.MC",
+        "symbol": "HBX.MC",
         "ccy": "EUR",
         "ccy_symbol": "€",
-        "news_q": '"HBX Group" OR Hotelbeds',
         "name": "HBX Group",
         "exchange": "BME",
     },
 }
 
-# FX fallbacks — used only if yfinance can't provide a fresh rate
+# Approx FX (USD per 1 unit of local currency). Used for USD-normalized
+# market cap display only — a few percent off is acceptable.
 FX_FALLBACK = {"AUD": 0.65, "INR": 0.012, "EUR": 1.08}
-
-# Google News RSS endpoint
-NEWS_RSS = "https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
-NEWS_MAX = 4
-NEWS_TIMEOUT_SEC = 15
 
 logging.basicConfig(
     level=logging.INFO,
@@ -73,184 +73,235 @@ log = logging.getLogger("fetcher")
 
 
 # ---------------------------------------------------------------------------
-# Helpers
+# HTTP helpers
 # ---------------------------------------------------------------------------
 
-def safe_get(d: dict[str, Any] | None, key: str, default: Any = None) -> Any:
-    """Defensive .get() that survives None and missing keys."""
-    if not isinstance(d, dict):
-        return default
-    val = d.get(key)
-    return default if val is None else val
+class FinnhubError(Exception):
+    """Raised when the Finnhub API call fails after retries."""
 
 
-def fmt_money(n: float | int | None, ccy_symbol: str, scale_b: bool = False) -> str:
-    """Format a numeric value with currency prefix."""
-    if n is None or not isinstance(n, (int, float)):
-        return "—"
+def _api_get(path: str, params: dict[str, Any]) -> Any:
+    """GET wrapper with retry/backoff. Returns parsed JSON or raises."""
+    if not API_KEY:
+        raise FinnhubError("FINNHUB_API_KEY env var is empty")
+
+    url = f"{API_BASE}{path}"
+    full_params = dict(params)
+    full_params["token"] = API_KEY
+
+    last_err: Exception | None = None
+    for attempt in range(1, RETRY_MAX + 1):
+        try:
+            resp = requests.get(url, params=full_params, timeout=HTTP_TIMEOUT)
+            if resp.status_code == 429:
+                wait = RETRY_BACKOFF_SEC * attempt
+                log.warning("429 rate-limited on %s, sleeping %ds", path, wait)
+                time.sleep(wait)
+                continue
+            resp.raise_for_status()
+            return resp.json()
+        except (requests.RequestException, ValueError) as e:
+            last_err = e
+            log.warning("API %s attempt %d/%d failed: %s",
+                        path, attempt, RETRY_MAX, e)
+            if attempt < RETRY_MAX:
+                time.sleep(RETRY_BACKOFF_SEC * attempt)
+
+    raise FinnhubError(f"GET {path} failed after {RETRY_MAX} attempts: {last_err}")
+
+
+def _safe_call(fn, *args, **kwargs) -> tuple[Any, str | None]:
+    """Run a fetch fn, return (result, error_msg). Never raises."""
     try:
-        if scale_b:
-            if abs(n) >= 1e9:
-                return f"{ccy_symbol}{n/1e9:.2f}B"
-            if abs(n) >= 1e6:
-                return f"{ccy_symbol}{n/1e6:.0f}M"
-        # Indian style for large INR amounts (Crores)
-        if ccy_symbol == "₹" and abs(n) >= 1e7:
-            return f"₹{n/1e7:,.0f} Cr"
-        if abs(n) >= 1e3:
-            return f"{ccy_symbol}{n:,.0f}"
-        return f"{ccy_symbol}{n:,.2f}"
-    except (TypeError, ValueError):
-        return "—"
-
-
-def fmt_pct(n: float | None, digits: int = 2) -> str:
-    if n is None or not isinstance(n, (int, float)):
-        return "—"
-    return f"{n*100:+.{digits}f}%"
-
-
-def get_fx_to_usd(ccy: str) -> float:
-    """Try yfinance FX, fall back to the constant table."""
-    if ccy == "USD":
-        return 1.0
-    pair = f"{ccy}USD=X"
-    try:
-        t = yf.Ticker(pair)
-        # `fast_info` is the lightest path; .info is slow + sometimes blocked
-        fi = getattr(t, "fast_info", None)
-        if fi is not None:
-            rate = getattr(fi, "last_price", None) or fi.get("last_price")  # type: ignore[union-attr]
-            if rate and rate > 0:
-                return float(rate)
+        return fn(*args, **kwargs), None
     except Exception as e:
-        log.warning("FX fetch failed for %s: %s — using fallback", ccy, e)
-    return FX_FALLBACK.get(ccy, 1.0)
+        log.warning("Sub-fetch failed: %s", e)
+        return None, str(e)
+
+
+def _num(v: Any) -> float | None:
+    """Coerce to float; None for missing/invalid."""
+    if v is None or v == "":
+        return None
+    try:
+        return float(v)
+    except (TypeError, ValueError):
+        return None
 
 
 # ---------------------------------------------------------------------------
-# Quote fetching
+# Endpoint wrappers
 # ---------------------------------------------------------------------------
 
 def fetch_quote(symbol: str) -> dict[str, Any]:
-    """Pull the snapshot Yahoo Finance has for a single ticker.
+    """GET /quote → current price + day's change."""
+    j = _api_get("/quote", {"symbol": symbol})
+    return {
+        "price": _num(j.get("c")),
+        "change": _num(j.get("d")),
+        "change_pct_raw": _num(j.get("dp")),
+        "prev_close": _num(j.get("pc")),
+        "high": _num(j.get("h")),
+        "low": _num(j.get("l")),
+        "open": _num(j.get("o")),
+    }
 
-    Returns a normalized dict. On total failure, returns a stub with `ok=False`.
-    """
-    try:
-        t = yf.Ticker(symbol)
 
-        # fast_info: price, market cap, 52w range (cheap)
-        fi = getattr(t, "fast_info", None) or {}
-        price = safe_get(fi, "last_price") or safe_get(fi, "lastPrice")
-        prev = safe_get(fi, "previous_close") or safe_get(fi, "previousClose")
-        mcap = safe_get(fi, "market_cap") or safe_get(fi, "marketCap")
-        wk_high = safe_get(fi, "year_high") or safe_get(fi, "yearHigh")
-        wk_low = safe_get(fi, "year_low") or safe_get(fi, "yearLow")
+def fetch_profile(symbol: str) -> dict[str, Any]:
+    """GET /stock/profile2 → company name, market cap (millions of local ccy)."""
+    j = _api_get("/stock/profile2", {"symbol": symbol})
+    if not isinstance(j, dict) or not j:
+        return {}
+    mcap_m = _num(j.get("marketCapitalization"))
+    shares_m = _num(j.get("shareOutstanding"))
+    return {
+        "country": j.get("country"),
+        "currency": j.get("currency"),
+        "exchange": j.get("exchange"),
+        "name": j.get("name"),
+        "ipo": j.get("ipo"),
+        "weburl": j.get("weburl"),
+        "market_cap": mcap_m * 1e6 if mcap_m is not None else None,
+        "shares_outstanding": shares_m * 1e6 if shares_m is not None else None,
+    }
 
-        # info: fundamentals (slow, sometimes 404s — wrap separately)
-        info: dict[str, Any] = {}
+
+def fetch_metrics(symbol: str) -> dict[str, Any]:
+    """GET /stock/metric → fundamentals: P/E, P/B, P/S, EV/EBITDA, 52W H/L."""
+    j = _api_get("/stock/metric", {"symbol": symbol, "metric": "all"})
+    m = (j or {}).get("metric") or {}
+    if not isinstance(m, dict):
+        return {}
+
+    def pick(*keys: str) -> float | None:
+        for k in keys:
+            v = _num(m.get(k))
+            if v is not None:
+                return v
+        return None
+
+    return {
+        "wk52_high": pick("52WeekHigh"),
+        "wk52_low": pick("52WeekLow"),
+        "pe": pick("peTTM", "peAnnual", "peExclExtraTTM",
+                   "peNormalizedAnnual", "peExclExtraAnnual"),
+        "pb": pick("pbAnnual", "pbQuarterly"),
+        "ps": pick("psTTM", "psAnnual"),
+        "ev_ebitda": pick("evToEbitdaAnnual", "currentEv/freeCashFlowTTM"),
+        "ev_revenue": pick("evToRevenueAnnual"),
+        "ebitda_margin": pick("ebitdaMargin5Y", "ebitdaMarginAnnual",
+                              "ebitdaMarginTTM"),
+        "operating_margin": pick("operatingMarginTTM", "operatingMarginAnnual"),
+        "roe": pick("roeTTM", "roeRfy"),
+        "revenue_growth": pick("revenueGrowthTTMYoy", "revenueGrowth3Y"),
+        "beta": pick("beta"),
+    }
+
+
+def fetch_news(symbol: str) -> list[dict[str, str]]:
+    """GET /company-news → recent headlines."""
+    today = datetime.now(timezone.utc).date()
+    start = today - timedelta(days=NEWS_LOOKBACK_DAYS)
+    items_raw = _api_get("/company-news", {
+        "symbol": symbol,
+        "from": start.isoformat(),
+        "to": today.isoformat(),
+    })
+    if not isinstance(items_raw, list):
+        return []
+
+    items_raw.sort(key=lambda x: x.get("datetime", 0), reverse=True)
+    out: list[dict[str, str]] = []
+    for it in items_raw[:NEWS_MAX]:
         try:
-            info = t.get_info() if hasattr(t, "get_info") else (t.info or {})
-        except Exception as e:
-            log.warning("%s .info unavailable: %s", symbol, e)
-
-        revenue = safe_get(info, "totalRevenue")
-        ebitda = safe_get(info, "ebitda")
-        ev = safe_get(info, "enterpriseValue")
-        pe = safe_get(info, "trailingPE")
-        pb = safe_get(info, "priceToBook")
-        ps = safe_get(info, "priceToSalesTrailing12Months")
-        ev_rev = safe_get(info, "enterpriseToRevenue")
-        ev_ebitda = safe_get(info, "enterpriseToEbitda")
-        target = safe_get(info, "targetMeanPrice")
-        ebitda_margin = (
-            (ebitda / revenue) if (isinstance(ebitda, (int, float)) and isinstance(revenue, (int, float)) and revenue) else None
-        )
-
-        change = (price - prev) if (isinstance(price, (int, float)) and isinstance(prev, (int, float))) else None
-        change_pct = (change / prev) if (change is not None and prev) else None
-        direction = "up" if (change or 0) > 0 else "down" if (change or 0) < 0 else "flat"
-
-        target_upside = (
-            (target / price - 1) if (isinstance(target, (int, float)) and isinstance(price, (int, float)) and price)
-            else None
-        )
-
-        return {
-            "ok": True,
-            "symbol": symbol,
-            "price": price,
-            "prev_close": prev,
-            "change": change,
-            "change_pct": change_pct,
-            "direction": direction,
-            "market_cap": mcap,
-            "enterprise_value": ev,
-            "wk52_high": wk_high,
-            "wk52_low": wk_low,
-            "revenue": revenue,
-            "ebitda": ebitda,
-            "ebitda_margin": ebitda_margin,
-            "pe": pe,
-            "pb": pb,
-            "ps": ps,
-            "ev_revenue": ev_rev,
-            "ev_ebitda": ev_ebitda,
-            "target_mean": target,
-            "target_upside": target_upside,
-        }
-    except Exception as e:
-        log.error("Quote fetch failed for %s: %s", symbol, e, exc_info=True)
-        return {"ok": False, "symbol": symbol, "error": str(e)}
-
-
-# ---------------------------------------------------------------------------
-# News fetching
-# ---------------------------------------------------------------------------
-
-def fetch_news(query: str) -> list[dict[str, str]]:
-    """Pull recent headlines from Google News RSS. Returns up to NEWS_MAX items."""
-    url = NEWS_RSS.format(q=urllib.parse.quote_plus(query))
-    try:
-        resp = requests.get(
-            url,
-            headers={"User-Agent": "Mozilla/5.0 (ygg-tracker)"},
-            timeout=NEWS_TIMEOUT_SEC,
-        )
-        resp.raise_for_status()
-    except requests.RequestException as e:
-        log.warning("News RSS request failed for %r: %s", query, e)
-        return []
-
-    try:
-        feed = feedparser.parse(resp.content)
-    except Exception as e:
-        log.warning("News RSS parse failed for %r: %s", query, e)
-        return []
-
-    items: list[dict[str, str]] = []
-    for entry in (feed.entries or [])[:NEWS_MAX]:
-        published = ""
-        if getattr(entry, "published_parsed", None):
-            try:
-                published = datetime(*entry.published_parsed[:6]).strftime("%Y.%m.%d")
-            except (TypeError, ValueError):
-                published = ""
-
-        title = (getattr(entry, "title", "") or "").strip()
-        # Google News titles end with " - Publisher"; strip the publisher
-        source = ""
-        if " - " in title:
-            title, source = title.rsplit(" - ", 1)
-
-        items.append({
-            "date": published,
-            "title": title.strip(),
-            "source": source.strip(),
-            "url": getattr(entry, "link", ""),
+            ts = int(it.get("datetime") or 0)
+            date_str = datetime.fromtimestamp(ts, timezone.utc).strftime("%Y.%m.%d") if ts else ""
+        except (TypeError, ValueError, OSError):
+            date_str = ""
+        out.append({
+            "date": date_str,
+            "title": (it.get("headline") or "").strip(),
+            "source": (it.get("source") or "").strip(),
+            "url": it.get("url") or "",
+            "summary": (it.get("summary") or "")[:280],
         })
-    return items
+    return out
+
+
+# ---------------------------------------------------------------------------
+# Per-ticker assembly
+# ---------------------------------------------------------------------------
+
+def fetch_one(meta: dict[str, str]) -> dict[str, Any]:
+    """Pull quote + profile + metrics + news for a single ticker."""
+    symbol = meta["symbol"]
+    errors: list[str] = []
+
+    quote, err = _safe_call(fetch_quote, symbol)
+    if err: errors.append(f"quote: {err}")
+    time.sleep(RATE_LIMIT_SLEEP_SEC)
+
+    profile, err = _safe_call(fetch_profile, symbol)
+    if err: errors.append(f"profile: {err}")
+    time.sleep(RATE_LIMIT_SLEEP_SEC)
+
+    metrics, err = _safe_call(fetch_metrics, symbol)
+    if err: errors.append(f"metrics: {err}")
+    time.sleep(RATE_LIMIT_SLEEP_SEC)
+
+    news, err = _safe_call(fetch_news, symbol)
+    if err: errors.append(f"news: {err}")
+    time.sleep(RATE_LIMIT_SLEEP_SEC)
+
+    quote = quote or {}
+    profile = profile or {}
+    metrics = metrics or {}
+    news = news or []
+
+    price = quote.get("price")
+    change = quote.get("change")
+    change_pct_raw = quote.get("change_pct_raw")  # already in percent
+    direction = "up" if (change or 0) > 0 else "down" if (change or 0) < 0 else "flat"
+
+    # Normalize percent → fraction for HTML formatter
+    change_pct = (
+        change_pct_raw / 100
+        if isinstance(change_pct_raw, (int, float))
+        else None
+    )
+
+    ebitda_margin_raw = metrics.get("ebitda_margin")
+    ebitda_margin = (
+        ebitda_margin_raw / 100
+        if isinstance(ebitda_margin_raw, (int, float))
+        else None
+    )
+
+    return {
+        "ok": price is not None,
+        "symbol": symbol,
+        "price": price,
+        "prev_close": quote.get("prev_close"),
+        "change": change,
+        "change_pct": change_pct,
+        "direction": direction,
+        "market_cap": profile.get("market_cap"),
+        "enterprise_value": None,  # Free tier doesn't expose EV directly
+        "wk52_high": metrics.get("wk52_high"),
+        "wk52_low": metrics.get("wk52_low"),
+        "revenue": None,
+        "ebitda": None,
+        "ebitda_margin": ebitda_margin,
+        "pe": metrics.get("pe"),
+        "pb": metrics.get("pb"),
+        "ps": metrics.get("ps"),
+        "ev_revenue": metrics.get("ev_revenue"),
+        "ev_ebitda": metrics.get("ev_ebitda"),
+        "target_mean": None,
+        "target_upside": None,
+        "errors": errors,
+        "_news": news,
+    }
 
 
 # ---------------------------------------------------------------------------
@@ -258,26 +309,23 @@ def fetch_news(query: str) -> list[dict[str, str]]:
 # ---------------------------------------------------------------------------
 
 def build_payload() -> dict[str, Any]:
-    fx = {ccy: get_fx_to_usd(ccy) for ccy in {meta["ccy"] for meta in TICKERS.values()}}
-    log.info("FX rates (to USD): %s", fx)
-
     tickers_out: dict[str, Any] = {}
 
     for key, meta in TICKERS.items():
-        log.info("Fetching %s (%s) …", key, meta["yf"])
-        q = fetch_quote(meta["yf"])
-        news = fetch_news(meta["news_q"])
-
+        log.info("Fetching %s (%s) …", key, meta["symbol"])
+        q = fetch_one(meta)
+        news = q.pop("_news", [])
+        fx = FX_FALLBACK.get(meta["ccy"], 1.0)
         usd_mcap = (
-            q["market_cap"] * fx.get(meta["ccy"], 1.0)
-            if q.get("ok") and isinstance(q.get("market_cap"), (int, float))
+            q["market_cap"] * fx
+            if isinstance(q.get("market_cap"), (int, float))
             else None
         )
 
         tickers_out[key] = {
             "name": meta["name"],
             "exchange": meta["exchange"],
-            "yf_symbol": meta["yf"],
+            "yf_symbol": meta["symbol"],  # keep this field name for HTML compatibility
             "ccy": meta["ccy"],
             "ccy_symbol": meta["ccy_symbol"],
             "quote": q,
@@ -285,39 +333,47 @@ def build_payload() -> dict[str, Any]:
             "news": news,
         }
 
+        if q.get("ok"):
+            log.info("  ✓ %s: price=%s, mcap=%s, news=%d, errors=%d",
+                     meta["symbol"], q.get("price"), q.get("market_cap"),
+                     len(news), len(q.get("errors", [])))
+        else:
+            log.warning("  ✗ %s: price missing. errors=%s",
+                        meta["symbol"], q.get("errors"))
+
     return {
         "generated_at_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "fx_to_usd": fx,
+        "fx_to_usd": FX_FALLBACK,
         "tickers": tickers_out,
-        "schema_version": 1,
+        "schema_version": 2,
+        "data_source": "finnhub.io",
     }
 
 
 def main() -> int:
-    log.info("Starting fetch …")
+    if not API_KEY:
+        log.error("FINNHUB_API_KEY env var is missing. "
+                  "Set it in Settings → Secrets and variables → Actions.")
+        return 3
+
+    log.info("Starting fetch (Finnhub) …")
     try:
         payload = build_payload()
+    except FinnhubError as e:
+        log.error("Build payload failed: %s", e)
+        return 1
     except Exception as e:
-        log.error("Build payload failed: %s", e, exc_info=True)
+        log.error("Unexpected error: %s", e, exc_info=True)
         return 1
 
     try:
-        OUTPUT.write_text(json.dumps(payload, indent=2, default=str, ensure_ascii=False))
+        OUTPUT.write_text(
+            json.dumps(payload, indent=2, default=str, ensure_ascii=False)
+        )
         log.info("Wrote %s (%d bytes)", OUTPUT, OUTPUT.stat().st_size)
     except OSError as e:
         log.error("Write failed: %s", e)
         return 2
-
-    # Quick visibility in CI logs
-    for k, v in payload["tickers"].items():
-        q = v["quote"]
-        if q.get("ok"):
-            log.info("  %s %s: %s %s  (mcap=%s, news=%d)",
-                     k, v["yf_symbol"],
-                     v["ccy_symbol"], q.get("price"),
-                     q.get("market_cap"), len(v["news"]))
-        else:
-            log.warning("  %s %s: FAILED — %s", k, v["yf_symbol"], q.get("error"))
 
     return 0
 
