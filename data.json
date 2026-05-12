@@ -1,6 +1,10 @@
 {
-  "generated_at_utc": "2026-05-12T00:00:00+00:00",
-  "fx_to_usd": {"AUD": 0.65, "INR": 0.012, "EUR": 1.08},
+  "generated_at_utc": "2026-05-12T07:45:12+00:00",
+  "fx_to_usd": {
+    "EUR": 1.1752262115478516,
+    "AUD": 0.7223345637321472,
+    "INR": 0.010450194589793682
+  },
   "tickers": {
     "WEB": {
       "name": "Web Travel Group",
@@ -11,28 +15,53 @@
       "quote": {
         "ok": true,
         "symbol": "WEB.AX",
-        "price": 2.80,
-        "prev_close": 2.80,
-        "change": 0.0,
-        "change_pct": 0.0,
+        "price": null,
+        "prev_close": null,
+        "change": null,
+        "change_pct": null,
         "direction": "flat",
-        "market_cap": 1020000000,
-        "enterprise_value": null,
-        "wk52_high": 5.49,
-        "wk52_low": 2.48,
-        "revenue": 409000000,
-        "ebitda": 138800000,
-        "ebitda_margin": 0.339,
-        "pe": null,
-        "pb": null,
-        "ps": 2.5,
-        "ev_revenue": 2.1,
-        "ev_ebitda": 6.1,
-        "target_mean": 5.71,
-        "target_upside": 1.04
+        "market_cap": null,
+        "enterprise_value": 681535104,
+        "wk52_high": null,
+        "wk52_low": null,
+        "revenue": 362600000,
+        "ebitda": 99800000,
+        "ebitda_margin": 0.27523441809156096,
+        "pe": 259.0,
+        "pb": 1.560241,
+        "ps": 2.585058,
+        "ev_revenue": 1.88,
+        "ev_ebitda": 6.829,
+        "target_mean": 5.35846,
+        "target_upside": null
       },
-      "usd_market_cap": 663000000,
-      "news": []
+      "usd_market_cap": null,
+      "news": [
+        {
+          "date": "2026.05.09",
+          "title": "Free cash flow per share of WEB Travel Group limited – HAM:WBJ",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzZNN0tKc1VHR0NpVUkyTHQ3OW9HVVUwdTFVbS03dTJSeE5CWElZVm1SZFFsNl9WZ1Q4Mnc4SDUxNktpZEtlbk1Zb1cxUEtuM0pVZjVJdXlQcDZRRE9JT0l1bGVYODI0NnJkM1NXTWg0Rko4Z1ZyaEpRR1F4bEtUT3JlbGxkRG85cmNQUW9GNF9SVHYzZmkzbmZwM0kwMEtXQWdTOQ?oc=5"
+        },
+        {
+          "date": "2026.04.29",
+          "title": "Builders and Backers: The Tech Innovations Asia Needs Next",
+          "source": "Skift",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRThVUFU4TXBFclRQVXM3alpGRDdoLXE3eHZjMG8xdEZOS1A0WS0tMHZZQW82QnFEZGwwVHN5MmU4VmM1VDF6dTk4VnB2SThHN1VHbmZVU2ljRVlHQmxXWlBmVjVTZUVFMUhvSTZSVHVLUzJFN3RFNGRtVHJwTndHV0V2N1c3WGlCZ09vUUUyM05uQVBvMlh5MFNaSzBubHo1MHBVNHNQbVVVbjZ0TW9TSENSdVhBQk9tbldZTDdkSUhiUk9aTWJCSHZtNlg3aTh1OUJLc3dzNEdYS3ItNDE1UlNzNHdNZjU0SFcw?oc=5"
+        },
+        {
+          "date": "2026.02.09",
+          "title": "Web Travel Group (ASX:WEB) Valuation After Audit Notice Call And Trading Update",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUh3U0JJOGwxT1VYbzI3dWZ5WUFYa2luYnZLbS10bE1NRm1lb3duWi1fOUVkY2JzcDNzZWk4MGRzSHRyMVB0bFJETUk2dlN1cUZfY09Oem5Rb3h6VzE1Y3lKemFiVk9FYzgtQWpkRkJEQUU1akVuaVhia0gweC1FekJHU1k?oc=5"
+        },
+        {
+          "date": "2026.05.11",
+          "title": "WEB Travel Group (ASX:WEB) Slips as ASX Growth Names Face Heavy Selling Pressure",
+          "source": "Kalkine",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVVNSaWFMSk9Ia1YxTnU2XzgxUVFyVjNrNFRBeHpsc3c5M2F5by0zbkxnUy1tRjhIYl9SbFRocGNUdTEwQXpDM1lPN0l6NENoQ1dlYU5TVFZhcEpfSmpwRnBMWW9YYllvcjNYUHVRMWNtbHFTOHBsUzE0NGNHVXB6RzVBRkRzN3hrYUlkbTVNQkJFS3dXQmdUZVotVE5qZ0JLN1dLZHlEWlc3RFk1bUxfanZKQV8?oc=5"
+        }
+      ]
     },
     "TBO": {
       "name": "TBO Tek",
@@ -43,28 +72,53 @@
       "quote": {
         "ok": true,
         "symbol": "TBOTEK.NS",
-        "price": 1281,
-        "prev_close": 1281,
-        "change": 0.0,
-        "change_pct": 0.0,
+        "price": null,
+        "prev_close": null,
+        "change": null,
+        "change_pct": null,
         "direction": "flat",
-        "market_cap": 139540000000,
-        "enterprise_value": null,
-        "wk52_high": 1764.80,
-        "wk52_low": 1004.20,
-        "revenue": 19470000000,
-        "ebitda": null,
-        "ebitda_margin": null,
-        "pe": 47.18,
-        "pb": 9.99,
-        "ps": null,
-        "ev_revenue": null,
-        "ev_ebitda": null,
-        "target_mean": 1971,
-        "target_upside": 0.54
+        "market_cap": null,
+        "enterprise_value": 115024060416,
+        "wk52_high": null,
+        "wk52_low": null,
+        "revenue": 23092490240,
+        "ebitda": 3388907520,
+        "ebitda_margin": 0.14675366254479794,
+        "pe": 52.585068,
+        "pb": 9.1764345,
+        "ps": 5.5027823,
+        "ev_revenue": 4.981,
+        "ev_ebitda": 33.941,
+        "target_mean": 1719.2,
+        "target_upside": null
       },
-      "usd_market_cap": 1674000000,
-      "news": []
+      "usd_market_cap": null,
+      "news": [
+        {
+          "date": "2026.05.10",
+          "title": "Number of shareholders of TBO Tek Ltd. – NSE:TBOTEK",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1FlNXNxVXF1ejFSQUlDRFhzRVhDTWlYekx0WVY1RjBrYmdkNUczSkVYSWxHZkQ3TUZDazMtdldwTVpzalZ5elFqMDBuRS1tY1V1VFU0ZHA3UkxRZmNsSmtjOEd0dDBHWFN2V2dhdF9BUk82M3ZyX1pRbl9LRHZlN1FSaW1wTTdoMWhBbzlvTTNhTUJCOF9GNzlLVUpkRXVXX0JjeTFR?oc=5"
+        },
+        {
+          "date": "2026.05.12",
+          "title": "TBO Tek Ltd is Rated Sell by MarketsMOJO",
+          "source": "Markets Mojo",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblUyNVBKSUQzbDhKS1lhb1dTZEJha0M5S1UxLTRFOHBXZmhMcUxFLW9jRHZuZVR2UXhhc291NlF2b1hlNWdjdGlBLWh5b2xvdDJNaUlfR2paRHQ1WnZ1Skp4LUVFRUYwTWNrTDRiYUVTZVp0ZGJWVlVnV2V2a3BDX2FlZVZvYTRZTlMzVXA1cjE5NzE3aXBOdDVhM1ZHQXVSSE05Xw?oc=5"
+        },
+        {
+          "date": "2026.04.23",
+          "title": "Why TBO Tek shares rallied 12% today",
+          "source": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPZjhkQWpGOUtOb2Q0TGw4YnF5OWJodlNncTBaX2xsbWJxX3dVZ0phNHJxZkEydE9CNm95TGpnXzBMWmJvSlJXLTMtSUQzRnctcWZDdkdOenZRN2JIRlRYWGRrVkJXOTVaRzJTZHFTTnpaOXdrcGFzOG5qeWozaWNHbTZWOTMzeHhCYnBBVS1ubjJrX0tCME9FOW95NGRhUGxYdm05QVRTOHZFMUI2LUVXV3hPLWJQUjRuRWI0YzVIWUd4RGpzc1ByT3A2MVZ6XzlMSHd6UTh5OUxMbzBJUFVsQjQxNXNscjJfbG1obGl3OGdyeW1pRWx1WEkydWUyc1RWUnJxQUVCLUZNY0dlR1EtTUJzNmlnbTBheGlTcTlZeV8zQjVucnQ0eU5Zb3V6bWFvcUJDdkN5dy1SQnVuT1dEOGp1cjZvc3NFVEVnUFMwOWs2aUdVaWs3dnVYTnpVTzRjNGlTZFpQd3A2MFdZNk9sbDctTHp5ZDQ?oc=5"
+        },
+        {
+          "date": "2026.02.23",
+          "title": "TBO Tek appoints Aditi Madhok-Naarden as Global CHRO",
+          "source": "People Matters Global",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWF4T1Q1bjhSYVlNRC1mbmZQU21FRkJ1Nm1sZzYtbkpmRXptQTZqNmU0b0NLbVlCYjhXRm95T2xYVzA0THhlZ09RMmx2UTBMdk1wZmhIU2ZhWHVFa1MxWk1GQ1VGdzUyVjd0T2RucWJQWmUtcUpwcmFfVzVoX3Q1ZzJNNWdyck10ODJ3NkNBOE9YYUNiWk1jMGN0TWFHeGZUSnZVbFVyeHFHdXQ2RHhSWjJB?oc=5"
+        }
+      ]
     },
     "HBX": {
       "name": "HBX Group",
@@ -75,28 +129,53 @@
       "quote": {
         "ok": true,
         "symbol": "HBX.MC",
-        "price": 6.89,
-        "prev_close": 6.89,
-        "change": 0.0,
-        "change_pct": 0.0,
+        "price": null,
+        "prev_close": null,
+        "change": null,
+        "change_pct": null,
         "direction": "flat",
-        "market_cap": 1703000000,
-        "enterprise_value": 2110000000,
-        "wk52_high": 11.68,
-        "wk52_low": 5.62,
-        "revenue": 780000000,
-        "ebitda": 195000000,
-        "ebitda_margin": 0.25,
+        "market_cap": null,
+        "enterprise_value": null,
+        "wk52_high": null,
+        "wk52_low": null,
+        "revenue": null,
+        "ebitda": null,
+        "ebitda_margin": null,
         "pe": null,
-        "pb": 2.16,
-        "ps": 1.99,
-        "ev_revenue": 2.71,
-        "ev_ebitda": 10.81,
-        "target_mean": 12.80,
-        "target_upside": 0.86
+        "pb": 2.0187793,
+        "ps": null,
+        "ev_revenue": null,
+        "ev_ebitda": null,
+        "target_mean": null,
+        "target_upside": null
       },
-      "usd_market_cap": 1839000000,
-      "news": []
+      "usd_market_cap": null,
+      "news": [
+        {
+          "date": "2026.05.07",
+          "title": "HBX Group’s H1 2026 Preliminary Results: excluding costs related to IPO, company to return to a net profit of €58 million",
+          "source": "The Corner .eu",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQS1VKVTFoc2FTR2xCVHEycXRwRWh6QzB5dVlQV0F2WG1MbGk5M1QxSnNKVmtudk1vTFdJQUpud0FZaUtrclRjOU5VeGtrblZkZEtkLUxXYzNISWVTdllpb21BUUJaRkpMNll2SkE3Y3ltVmZ6b2lwY0k4OVVrZEF3VEphM2NJMU9TeW5MYmFIUDk4RHQzSEIxbmZUYmNUNmV6OS1lUzhlZW5mLUJmanhGckt6RjhZUFJFcFFqbzFVUHJpZU1wcjFBTGd5MlBveEZvMFFuYjlZWlBEelBpZ0NSY3EyQTRNMmpMRHdqanNR?oc=5"
+        },
+        {
+          "date": "2026.05.07",
+          "title": "HBX Group: AI adoption grows, scaling remains a hurdle",
+          "source": "Travolution",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMnF5VlhZZzdsMERGbHM5NHdPeDRlS2lTN1pwNHVmUi1NVElaMTJfeUJNX195R0pyVEZmdDBuNjhOR2RYU3d4VDh2TWRTT1lVdks0MTlETEROWEZWLU5JaDdxR09zQlJleUFBS05zYkdHSHFCY0RIdWtXVDhiRVVhYWJ3S3RiWHVqejlHV1JhRQ?oc=5"
+        },
+        {
+          "date": "2026.05.07",
+          "title": "HBX Group study finds AI adoption rising across travel distribution",
+          "source": "ET TravelWorld",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYXBfaTVTRmdyMFctQXdGeTNvSENPMW1DMWthOWliNnFaTWpTZ19ST3A5SkxHYkl3T3NHUElKak5FSXRlRVVXVjduZnh0M2I4amVuUUxLaXZmZGNld0puUlpaTi1XenJUTF9mSFZFUldSNTl5OWR5VFFpVkktSXkycHJGbk1YTEV4Q0tjQ3pJZWM5TDBtbFB6emNEQ1I1elRLOWRpbHAzdWpfVlpLNlZidGVGWUdheFVCbi05SE5LMnBEZkw4VVM2UUJoWkZ0UUZLLWd5bTZlaXZIX2lOc2p3akh2NlHSAeoBQVVfeXFMTXVNYkxoWG50UmxiN1lobnlsMjhQMHJIWFhXazcwNmpaUmtXNkRqVTVvRUhJWFdZeGdLSnR0QUpRQVJPZ3gzYWJLNFRYM3dlaGRiazkxRXVvUk4zOHF3ZHFFZkJBZFVyeVlwZUU2NHBneVhMc2JSSWVVZTdnSWtqd0hkNkhXR1RYWVlJV0JQTWUxM2R1T0ZURjcycnRSanM3eHZBd01uaTBMb2RPM0R4Vng0Ui1qZC1PN0FYQ1Y4MTl3XzdzNGlXcklENmQ4NTlWWW0yX0VtcUNYTTRHVmlmdktxOHNtUnZFUy1B?oc=5"
+        },
+        {
+          "date": "2026.04.29",
+          "title": "HBX Group reveals how the travel industry is adapting to volatility at MarketHub Europe",
+          "source": "Hospitality Net",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQjVra19oXzJnbnQydTRGZXhkWno3TWZZYzFYWE01SG9RTHJiZXhFYnpTLXhKNG1acEZ1b0NYTzVUNC1WU3I0QnF0aDJ0WV9WZ2RPME1CRjNzSWJ5bjZLcXV6OUI0ZVR1dVRXUTZTTFhHUmxoREtwUVFNUnZqVkJwcFlCVFBtMThpOUxYVDZkblRtVTFJczM3YzROajF1ZnYxbDVHVGpkVzBxcndjT1pRVElxX2lYWUgtNGE4dFNrWk01M3FUSlJGRTRwUQ?oc=5"
+        }
+      ]
     }
   },
   "schema_version": 1
