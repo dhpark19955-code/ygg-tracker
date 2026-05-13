@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-12T08:26:43+00:00",
+  "generated_at_utc": "2026-05-13T00:08:01+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,10 +42,10 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.05.09",
-          "title": "Free cash flow per share of WEB Travel Group limited – HAM:WBJ",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzZNN0tKc1VHR0NpVUkyTHQ3OW9HVVUwdTFVbS03dTJSeE5CWElZVm1SZFFsNl9WZ1Q4Mnc4SDUxNktpZEtlbk1Zb1cxUEtuM0pVZjVJdXlQcDZRRE9JT0l1bGVYODI0NnJkM1NXTWg0Rko4Z1ZyaEpRR1F4bEtUT3JlbGxkRG85cmNQUW9GNF9SVHYzZmkzbmZwM0kwMEtXQWdTOQ?oc=5",
+          "date": "2026.05.12",
+          "title": "UBS Maintains WEB TRAVEL GROUP LTD(WEBJF.US) With Buy Rating, Cuts Target Price to $3.8",
+          "source": "富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT1NLYVlJd01fNUxHMmtWN2xuWEUybVBROXltdWxweExTTEgzYTF6aU5YMkVjRHVDVFhsR19lNFFWZDhueG9uYlpza0ZCWDdRT0FETUVuV0pVVnRCRy1wdld4YnpSbXd3T0RDTjFGYWg4TWFHVDJhSVNNd0ZUNlQyR3oxS0RoSVpFbHFnREd4NHh5TVQtQldhZ2NYbFpRUzAy?oc=5",
           "summary": ""
         },
         {
@@ -63,10 +63,10 @@
           "summary": ""
         },
         {
-          "date": "2026.05.07",
-          "title": "Morgan Stanley Maintains WEB TRAVEL GROUP LTD(WEBJF.US) With Hold Rating, Cuts Target Price to $2.7",
-          "source": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQelU2NkdUM2dWcUdsTDVQOXNfNnVlODhJVU1wTmZxeHZWanpuSldYRWZJdC1Ka3A2QmVyU3NucEV4dnFYYUN6dHhiMlFBMmNNZTNpMDFGMFJCYjNlUU5KT19jSGVxZHZQQzF0SUZjUG96ZUdjSGNoVGhwWGRkU0xaYVFXSzFzWUlSS3JySzRXcW5YZDZFNmUwY2JLMWl5WE5GTVVJeTJqRQ?oc=5",
+          "date": "2026.05.10",
+          "title": "Web Travel Group Ltd stock (AU000000WEB7): Focus on digital travel growth in Australia and Asia-Paci",
+          "source": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMHdpeUVTMXF2ODR5V3BhMEtOSE80anpEaVhIUUduWE4xMnctVldObVRrRmp5MFFjNDlPZDJORTZoa19QdS1PWmNTOHljRWZSYTVIYjl2RG90cDZRS3QtOXpjNG5iazdpd1dQUHQzZ3dyOS1jOEhaRDRqXzdyeFVoQnFYRWxabXd1ajlfYzJrM2VwTWpjVkxaaFpEeU0xRTVXNy03eTlxYTVqeUVoc2Y4UFkwZ19mZkVPZl9VT0R2QTFlX29GbnUwZw?oc=5",
           "summary": ""
         }
       ]
@@ -114,13 +114,6 @@
           "summary": ""
         },
         {
-          "date": "2026.05.12",
-          "title": "TBO Tek Ltd is Rated Sell by MarketsMOJO",
-          "source": "Markets Mojo",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblUyNVBKSUQzbDhKS1lhb1dTZEJha0M5S1UxLTRFOHBXZmhMcUxFLW9jRHZuZVR2UXhhc291NlF2b1hlNWdjdGlBLWh5b2xvdDJNaUlfR2paRHQ1WnZ1Skp4LUVFRUYwTWNrTDRiYUVTZVp0ZGJWVlVnV2V2a3BDX2FlZVZvYTRZTlMzVXA1cjE5NzE3aXBOdDVhM1ZHQXVSSE05Xw?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.04.23",
           "title": "Why TBO Tek shares rallied 12% today",
           "source": "MSN",
@@ -132,6 +125,13 @@
           "title": "TBO Tek appoints Aditi Madhok-Naarden as Global CHRO",
           "source": "People Matters Global",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWF4T1Q1bjhSYVlNRC1mbmZQU21FRkJ1Nm1sZzYtbkpmRXptQTZqNmU0b0NLbVlCYjhXRm95T2xYVzA0THhlZ09RMmx2UTBMdk1wZmhIU2ZhWHVFa1MxWk1GQ1VGdzUyVjd0T2RucWJQWmUtcUpwcmFfVzVoX3Q1ZzJNNWdyck10ODJ3NkNBOE9YYUNiWk1jMGN0TWFHeGZUSnZVbFVyeHFHdXQ2RHhSWjJB?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.05.12",
+          "title": "TBO Tek Ltd is Rated Sell by MarketsMOJO",
+          "source": "Markets Mojo",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblUyNVBKSUQzbDhKS1lhb1dTZEJha0M5S1UxLTRFOHBXZmhMcUxFLW9jRHZuZVR2UXhhc291NlF2b1hlNWdjdGlBLWh5b2xvdDJNaUlfR2paRHQ1WnZ1Skp4LUVFRUYwTWNrTDRiYUVTZVp0ZGJWVlVnV2V2a3BDX2FlZVZvYTRZTlMzVXA1cjE5NzE3aXBOdDVhM1ZHQXVSSE05Xw?oc=5",
           "summary": ""
         }
       ]
@@ -173,13 +173,6 @@
       "news": [
         {
           "date": "2026.05.07",
-          "title": "HBX Group: AI adoption grows, scaling remains a hurdle",
-          "source": "Travolution",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMnF5VlhZZzdsMERGbHM5NHdPeDRlS2lTN1pwNHVmUi1NVElaMTJfeUJNX195R0pyVEZmdDBuNjhOR2RYU3d4VDh2TWRTT1lVdks0MTlETEROWEZWLU5JaDdxR09zQlJleUFBS05zYkdHSHFCY0RIdWtXVDhiRVVhYWJ3S3RiWHVqejlHV1JhRQ?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.05.07",
           "title": "HBX Group’s H1 2026 Preliminary Results: excluding costs related to IPO, company to return to a net profit of €58 million",
           "source": "The Corner .eu",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQS1VKVTFoc2FTR2xCVHEycXRwRWh6QzB5dVlQV0F2WG1MbGk5M1QxSnNKVmtudk1vTFdJQUpud0FZaUtrclRjOU5VeGtrblZkZEtkLUxXYzNISWVTdllpb21BUUJaRkpMNll2SkE3Y3ltVmZ6b2lwY0k4OVVrZEF3VEphM2NJMU9TeW5MYmFIUDk4RHQzSEIxbmZUYmNUNmV6OS1lUzhlZW5mLUJmanhGckt6RjhZUFJFcFFqbzFVUHJpZU1wcjFBTGd5MlBveEZvMFFuYjlZWlBEelBpZ0NSY3EyQTRNMmpMRHdqanNR?oc=5",
@@ -187,16 +180,23 @@
         },
         {
           "date": "2026.05.07",
-          "title": "HBX Group study finds AI adoption rising across travel distribution",
-          "source": "ET TravelWorld",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYXBfaTVTRmdyMFctQXdGeTNvSENPMW1DMWthOWliNnFaTWpTZ19ST3A5SkxHYkl3T3NHUElKak5FSXRlRVVXVjduZnh0M2I4amVuUUxLaXZmZGNld0puUlpaTi1XenJUTF9mSFZFUldSNTl5OWR5VFFpVkktSXkycHJGbk1YTEV4Q0tjQ3pJZWM5TDBtbFB6emNEQ1I1elRLOWRpbHAzdWpfVlpLNlZidGVGWUdheFVCbi05SE5LMnBEZkw4VVM2UUJoWkZ0UUZLLWd5bTZlaXZIX2lOc2p3akh2NlHSAeoBQVVfeXFMTXVNYkxoWG50UmxiN1lobnlsMjhQMHJIWFhXazcwNmpaUmtXNkRqVTVvRUhJWFdZeGdLSnR0QUpRQVJPZ3gzYWJLNFRYM3dlaGRiazkxRXVvUk4zOHF3ZHFFZkJBZFVyeVlwZUU2NHBneVhMc2JSSWVVZTdnSWtqd0hkNkhXR1RYWVlJV0JQTWUxM2R1T0ZURjcycnRSanM3eHZBd01uaTBMb2RPM0R4Vng0Ui1qZC1PN0FYQ1Y4MTl3XzdzNGlXcklENmQ4NTlWWW0yX0VtcUNYTTRHVmlmdktxOHNtUnZFUy1B?oc=5",
+          "title": "HBX Group: AI adoption grows, scaling remains a hurdle",
+          "source": "Travolution",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMnF5VlhZZzdsMERGbHM5NHdPeDRlS2lTN1pwNHVmUi1NVElaMTJfeUJNX195R0pyVEZmdDBuNjhOR2RYU3d4VDh2TWRTT1lVdks0MTlETEROWEZWLU5JaDdxR09zQlJleUFBS05zYkdHSHFCY0RIdWtXVDhiRVVhYWJ3S3RiWHVqejlHV1JhRQ?oc=5",
           "summary": ""
         },
         {
-          "date": "2026.04.29",
-          "title": "HBX Group reveals how the travel industry is adapting to volatility at MarketHub Europe",
-          "source": "Hospitality Net",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQjVra19oXzJnbnQydTRGZXhkWno3TWZZYzFYWE01SG9RTHJiZXhFYnpTLXhKNG1acEZ1b0NYTzVUNC1WU3I0QnF0aDJ0WV9WZ2RPME1CRjNzSWJ5bjZLcXV6OUI0ZVR1dVRXUTZTTFhHUmxoREtwUVFNUnZqVkJwcFlCVFBtMThpOUxYVDZkblRtVTFJczM3YzROajF1ZnYxbDVHVGpkVzBxcndjT1pRVElxX2lYWUgtNGE4dFNrWk01M3FUSlJGRTRwUQ?oc=5",
+          "date": "2026.04.20",
+          "title": "Former Virtuoso Executive Una O’Leary Joins HBX Group’s The Luxurist",
+          "source": "Travel Market Report",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcWJtc0VaM29QM3k1OUR5eXlfZVlUempKbW5Rc2tucDgxYlI0UUtWM0xWOW11VkMzRkVOa1pCZTBwZS15TXg4bi1SWlJROHlZWmhXcHJfbG1KVzNvU1FXYnpwX05kUU5RM3RUT3I1TmIyZENpOWcxR1FnbmVlcVRWdG5kM2hBLWRORmdaZWg0MDY5NmtYZFlGVkxTczhDdklpaFBocnliMVB3ZFpQdXpSanJLcFJ2bG96dkhaOTZUTk84bzIxMXNN?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.05.07",
+          "title": "HBX Group study finds AI adoption rising across travel distribution",
+          "source": "ET TravelWorld",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYXBfaTVTRmdyMFctQXdGeTNvSENPMW1DMWthOWliNnFaTWpTZ19ST3A5SkxHYkl3T3NHUElKak5FSXRlRVVXVjduZnh0M2I4amVuUUxLaXZmZGNld0puUlpaTi1XenJUTF9mSFZFUldSNTl5OWR5VFFpVkktSXkycHJGbk1YTEV4Q0tjQ3pJZWM5TDBtbFB6emNEQ1I1elRLOWRpbHAzdWpfVlpLNlZidGVGWUdheFVCbi05SE5LMnBEZkw4VVM2UUJoWkZ0UUZLLWd5bTZlaXZIX2lOc2p3akh2NlHSAeoBQVVfeXFMTXVNYkxoWG50UmxiN1lobnlsMjhQMHJIWFhXazcwNmpaUmtXNkRqVTVvRUhJWFdZeGdLSnR0QUpRQVJPZ3gzYWJLNFRYM3dlaGRiazkxRXVvUk4zOHF3ZHFFZkJBZFVyeVlwZUU2NHBneVhMc2JSSWVVZTdnSWtqd0hkNkhXR1RYWVlJV0JQTWUxM2R1T0ZURjcycnRSanM3eHZBd01uaTBMb2RPM0R4Vng0Ui1qZC1PN0FYQ1Y4MTl3XzdzNGlXcklENmQ4NTlWWW0yX0VtcUNYTTRHVmlmdktxOHNtUnZFUy1B?oc=5",
           "summary": ""
         }
       ]
