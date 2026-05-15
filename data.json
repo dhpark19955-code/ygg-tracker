@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-15T00:03:17+00:00",
+  "generated_at_utc": "2026-05-15T23:59:55+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,17 +42,17 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.05.12",
-          "title": "UBS Maintains WEB TRAVEL GROUP LTD(WEBJF.US) With Buy Rating, Cuts Target Price to $3.8",
-          "source": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT1NLYVlJd01fNUxHMmtWN2xuWEUybVBROXltdWxweExTTEgzYTF6aU5YMkVjRHVDVFhsR19lNFFWZDhueG9uYlpza0ZCWDdRT0FETUVuV0pVVnRCRy1wdld4YnpSbXd3T0RDTjFGYWg4TWFHVDJhSVNNd0ZUNlQyR3oxS0RoSVpFbHFnREd4NHh5TVQtQldhZ2NYbFpRUzAy?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.02.09",
           "title": "Web Travel Group (ASX:WEB) Valuation After Audit Notice Call And Trading Update",
           "source": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUh3U0JJOGwxT1VYbzI3dWZ5WUFYa2luYnZLbS10bE1NRm1lb3duWi1fOUVkY2JzcDNzZWk4MGRzSHRyMVB0bFJETUk2dlN1cUZfY09Oem5Rb3h6VzE1Y3lKemFiVk9FYzgtQWpkRkJEQUU1akVuaVhia0gweC1FekJHU1k?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.05.12",
+          "title": "UBS Maintains WEB TRAVEL GROUP LTD(WEBJF.US) With Buy Rating, Cuts Target Price to $3.8",
+          "source": "富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT1NLYVlJd01fNUxHMmtWN2xuWEUybVBROXltdWxweExTTEgzYTF6aU5YMkVjRHVDVFhsR19lNFFWZDhueG9uYlpza0ZCWDdRT0FETUVuV0pVVnRCRy1wdld4YnpSbXd3T0RDTjFGYWg4TWFHVDJhSVNNd0ZUNlQyR3oxS0RoSVpFbHFnREd4NHh5TVQtQldhZ2NYbFpRUzAy?oc=5",
           "summary": ""
         },
         {
@@ -116,7 +116,7 @@
         {
           "date": "2026.02.23",
           "title": "TBO Tek appoints Aditi Madhok-Naarden as Global CHRO",
-          "source": "People Matters Global",
+          "source": "People Matters Media",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWF4T1Q1bjhSYVlNRC1mbmZQU21FRkJ1Nm1sZzYtbkpmRXptQTZqNmU0b0NLbVlCYjhXRm95T2xYVzA0THhlZ09RMmx2UTBMdk1wZmhIU2ZhWHVFa1MxWk1GQ1VGdzUyVjd0T2RucWJQWmUtcUpwcmFfVzVoX3Q1ZzJNNWdyck10ODJ3NkNBOE9YYUNiWk1jMGN0TWFHeGZUSnZVbFVyeHFHdXQ2RHhSWjJB?oc=5",
           "summary": ""
         },
@@ -128,10 +128,10 @@
           "summary": ""
         },
         {
-          "date": "2025.12.15",
-          "title": "TBO Tek stock price target raised by Jefferies to INR1,950 from INR1,800",
-          "source": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQak5VWXVhSUtOLUIxMkx1VHVhTl8taGZLbTdKeHlHTEc0TDZ6R0h3SW4zZEtXdm5fZFNMSFFvbWs5UVFtVDFFUVdKWUx5bTBhNzU4dnY3OHhacTJ0QlRjQnJrdkJKUm4tZEJVQXRqWGthSHJJZl9QeU5oNkE2VEJrVFBuUEJZbjR0Mm1MUUtBNHQtdFp6Y1hPNUtWMWNkTHgyRGh4YmpWcW54X1JnUk53bUIxcVpxT2tnVDZueUp5RTBZMFJ1UDduLTln?oc=5",
+          "date": "2026.05.12",
+          "title": "TBO Tek Ltd is Rated Sell by MarketsMOJO",
+          "source": "Markets Mojo",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblUyNVBKSUQzbDhKS1lhb1dTZEJha0M5S1UxLTRFOHBXZmhMcUxFLW9jRHZuZVR2UXhhc291NlF2b1hlNWdjdGlBLWh5b2xvdDJNaUlfR2paRHQ1WnZ1Skp4LUVFRUYwTWNrTDRiYUVTZVp0ZGJWVlVnV2V2a3BDX2FlZVZvYTRZTlMzVXA1cjE5NzE3aXBOdDVhM1ZHQXVSSE05Xw?oc=5",
           "summary": ""
         }
       ]
@@ -172,13 +172,6 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.05.14",
-          "title": "HBX Group acquires Bridgify",
-          "source": "hotelbusiness.com",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VVG9YMFFhWmpqX1FXLThKZlN3blA3RlFOVDdTYnp4aEV3T2V2WnRkZjF0MTUxNFJMdDd1UHctVHJDRlAyTnJDeFpvM3d2Qjl4dzZzNGRSelJXc2xlX1J3TFAwMlY?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.05.13",
           "title": "HBX Group to Buy Bridgify as Part of Broader AI Push",
           "source": "Skift",
@@ -186,17 +179,24 @@
           "summary": ""
         },
         {
-          "date": "2026.05.14",
-          "title": "HBX Group Acquires Bridgify To Expand Experiences Ecosystem",
-          "source": "Pulse 2.0",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkRxYXJZWDRJTmlrZHNaZFVpd0ctZGdXUUVrRGstaENUYk1PQ2dxVmlyY0oxb2RLdnFiMkg4b3pDNjlsbTEzc3RKb2FOM0h5Z1k3b01TVHhNd0FqSVFLaUc5VFRtTTdjcVFtZXpIRWpaRV8zdHZjay1EejRqY3NFMjdIMWN5QdIBiwFBVV95cUxQODM2OVpwVkR1Y053dkRUR3dya3ZoeEF5V29BaVVvN09pZzE1QkM5OFl5cnB5RUJOYkIzUzhPb3NkWXdvWS1jbVY2NXpIYjFMZlNPQzdLLXdKQlJ5WmhOWWxDejVrRHBSSGtrVkw2VHJUOE5SamRwU0JCeFU5ei1JeTFscEh0bERVNTlj?oc=5",
+          "date": "2026.05.15",
+          "title": "Fandom Travel: Travel Trend Shaped by Passion and Experience Led Tourism",
+          "source": "Hospitality Net",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPekZvOFJBTUNveDRmdjlkX19RV2FuNEEtWm5BWWhaM1RpQlMyVVlkQnJvVlJzbmVrVUp3emVJcDViQWJ5YXJmbmVaTDFsUkp1VTAtQm1WVENTUVVNZENLaTlocHRybUY3NGhUN0dDdjFXMUdOb05RX1dTeHM4UmpwSlVTUGlZTHVMVU0yX2o5R2tSdDNXaTFhaTlHbHl0QUhBbXMza050RG01WGltWXd0WXpGQzlxYjhybFE?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.05.15",
+          "title": "HBX Group acquires Bridgify to expand experiences platform",
+          "source": "TTG Asia",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV0p2MEh1c3hzVlhXanhCTVF4NC1pS3R4TkxlUDdnQzNOUFZZc3J6UU1ZaUJBYVJtSEd6NUg2S0RzWGRDYzhNZlJBMlFoOG5ldzVNd1BidmQxMnpvNy1ILUNBa1pBVWtMSUNIeGtYMEN5THY4dEczZGdhc2cybFdBcW5BVVNsOXpJLWxnUXRtMkhSc2RTeFh5M21n?oc=5",
           "summary": ""
         },
         {
           "date": "2026.05.14",
-          "title": "Analysts Are Optimistic We'll See A Profit From HBX Group International plc (BME:HBX)",
-          "source": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPa2VyRVo3WHBkWl8weGJEY0VSOFdtQzNWeUtrZmY4cWt2bFZhTnZPZUdBUFBQT2REcmVKX2dPOUt1alJKVks3OWc0ZV91dVVLLWxvb1hfWG1SLUgzUm12QXFrZk9CWU5KX2Nha0hPbWxNZWRMLTNWaGgzMFkwbS1wczVnQ1VFc1BMRldKY3J6am1mbzlueHlfY0stcWZfbWUxVHRyZjBtVGFfX3F2Y3ZnLWVVQldlQktYVERWeUd3aEpjcGZpaEtHR1ZfbTV0VWZ0Ym1HT1RKMHNrZm9WN3ZRVnRaMWZBcERMVUHSAe8BQVVfeXFMT0wyREZTQlV1REZOb3BzdE8yb3NRYTRGdElwNmc3ZWtGT3NOQjdzU3JSVV9jX2JJYjlYZTZWenNRRElkOUJsYzBCSXdZd2RzSnFzSTNZcDFOQVF6SU1oN0w0MWRSUENnZnZJaFRYWDVEVFVTNmg5UURlaklxSnNIQVo4c254UEN2emJzNGNWN2E1Tnd0VHM3U09hR3J4MHYxbDRMaVM0VnFlVXk1Z1FTN051eWQ1a0d0ZGpmSGVjM2ZieHVQTzJ2MlNtbzQ2MUNkNjlaaTV1aENLTk1UTlY2X2tYbXU5dmQ5c2tqMGotNmc?oc=5",
+          "title": "HBX Group Acquires Bridgify To Expand Experiences Ecosystem",
+          "source": "Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkRxYXJZWDRJTmlrZHNaZFVpd0ctZGdXUUVrRGstaENUYk1PQ2dxVmlyY0oxb2RLdnFiMkg4b3pDNjlsbTEzc3RKb2FOM0h5Z1k3b01TVHhNd0FqSVFLaUc5VFRtTTdjcVFtZXpIRWpaRV8zdHZjay1EejRqY3NFMjdIMWN5QdIBiwFBVV95cUxQODM2OVpwVkR1Y053dkRUR3dya3ZoeEF5V29BaVVvN09pZzE1QkM5OFl5cnB5RUJOYkIzUzhPb3NkWXdvWS1jbVY2NXpIYjFMZlNPQzdLLXdKQlJ5WmhOWWxDejVrRHBSSGtrVkw2VHJUOE5SamRwU0JCeFU5ei1JeTFscEh0bERVNTlj?oc=5",
           "summary": ""
         }
       ]
