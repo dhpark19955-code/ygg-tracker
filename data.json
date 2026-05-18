@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-17T00:00:13+00:00",
+  "generated_at_utc": "2026-05-18T00:03:48+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,6 +42,13 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.05.17",
+          "title": "Web Travel Group Shares Fall to Multi-Year Lows, As Pressure Mounts",
+          "source": "thebull.com.au",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTk5xc3V1Y2ZZTENZWjFhX2dRYldyY2xrNmZjVU03WjBKTTRjSDEtTU5YR1pfNUhtaGJMbVZDVjY4bWhLVXhTWDlneTNDTzJ4cE45QW1jeWlTWDlpdFE4QnBXck5tTkl6YTIzc2h4QmdtLVJpMGlJbXM0SXpjdHhneWs2SXFRY2FsWndfcG12YVM2ZUpzSTh3blRtcw?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.02.09",
           "title": "Web Travel Group (ASX:WEB) Valuation After Audit Notice Call And Trading Update",
           "source": "Yahoo Finance",
@@ -57,16 +64,9 @@
         },
         {
           "date": "2026.05.12",
-          "title": "UBS Maintains WEB TRAVEL GROUP LTD(WEBJF.US) With Buy Rating, Cuts Target Price to $3.8",
+          "title": "UBS Maintains WEB TRAVEL GROUP LTD(WEBJF.US) With Buy Rating, Cuts Target Price to $3.76",
           "source": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT1NLYVlJd01fNUxHMmtWN2xuWEUybVBROXltdWxweExTTEgzYTF6aU5YMkVjRHVDVFhsR19lNFFWZDhueG9uYlpza0ZCWDdRT0FETUVuV0pVVnRCRy1wdld4YnpSbXd3T0RDTjFGYWg4TWFHVDJhSVNNd0ZUNlQyR3oxS0RoSVpFbHFnREd4NHh5TVQtQldhZ2NYbFpRUzAy?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.05.13",
-          "title": "Web Travel Group Ltd stock (AU000000WEB7): Travel tech firm expands Asia-Pacific operations",
-          "source": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSG84Tmg5S0hVNTNicGR3OGc0Y09NNjI5VWNPcDU3cW53UWZIMnhXSmFTTU5OOV9vd0luaG4wXzZBcmZRZ0M3MGZFSEpSMU1md2JGYlN5QnlEX3JJOW1Id0pLeENHRFBNTHhzWi1yVlhXZEstNExDb1ItZm1od1REWS1oWnNrLV8zYzR5QlpUWW5yOF9FbmIyNmpUNTZrcTNTSXNMUlJVVjBfcWtMd2tuRlFUOVN3OExySkJEclBHMTY?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeHQ5TVhZWnBubmt3YW5SMUZLLTNVYktEYmRXSGgxUGtHc3BfQllpUURpSGFOTGJOUTFfWTVjcUZibEtlQzlSMXBLUUNRaDZET2RmajBrTGYtUjFXeHVYZ0d6ZUNBUE8tZm9YT28xTjdZY3R0TmlBekV4LWlxQVFzYjhRaEJ0UjdoWVAyRzFxd29BR09zV2lGMndjMDV1Y2dO?oc=5",
           "summary": ""
         }
       ]
@@ -107,7 +107,7 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.05.16",
+          "date": "2026.05.17",
           "title": "TBO Tek Ltd is Rated Sell by MarketsMOJO",
           "source": "Markets Mojo",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblUyNVBKSUQzbDhKS1lhb1dTZEJha0M5S1UxLTRFOHBXZmhMcUxFLW9jRHZuZVR2UXhhc291NlF2b1hlNWdjdGlBLWh5b2xvdDJNaUlfR2paRHQ1WnZ1Skp4LUVFRUYwTWNrTDRiYUVTZVp0ZGJWVlVnV2V2a3BDX2FlZVZvYTRZTlMzVXA1cjE5NzE3aXBOdDVhM1ZHQXVSSE05Xw?oc=5",
@@ -193,10 +193,10 @@
           "summary": ""
         },
         {
-          "date": "2026.05.13",
-          "title": "HBX GROUP ANNOUNCES HALF YEAR 2026 FINANCIAL RESULTS",
-          "source": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0dzVG5rRnM0b0lWTmJFbEpqMzV2TE9TejdDcm5vSnBjX0VPRkRDUGRuYzcxZHJ6SnhadnRKYnlfXzJ5S3BTZFczNk1ybUZOSkRQT3ZyckwxZ1dES0J5RDUzbUxRSUtvTmNmRHlWczc3bTFRaUpBWkhmZ0xhbmo2QXZSX1NTbVBVcFhLSDFrZTgyazQ0aDFOUkFpRGttT1Y0d3hDc0l1SkpiaS1N?oc=5",
+          "date": "2026.05.15",
+          "title": "HBX Group acquires Bridgify to expand experiences platform",
+          "source": "TTG Asia",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV0p2MEh1c3hzVlhXanhCTVF4NC1pS3R4TkxlUDdnQzNOUFZZc3J6UU1ZaUJBYVJtSEd6NUg2S0RzWGRDYzhNZlJBMlFoOG5ldzVNd1BidmQxMnpvNy1ILUNBa1pBVWtMSUNIeGtYMEN5THY4dEczZGdhc2cybFdBcW5BVVNsOXpJLWxnUXRtMkhSc2RTeFh5M21n?oc=5",
           "summary": ""
         }
       ]
