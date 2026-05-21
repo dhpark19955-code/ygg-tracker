@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-20T00:14:30+00:00",
+  "generated_at_utc": "2026-05-21T00:14:39+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,6 +42,13 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.05.20",
+          "title": "Why Is Web Travel Group (ASX:WEB) Down 8% Today? Key Drivers Explained",
+          "source": "Kalkine",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR0d1QkFNbEprSElOMnJFd3QxQllROGgzMHpZX01PdG9zdVVDVGZPVFdxbXBzajNVd3R4TnVMWjlUZ1lzM19KZXBfWGtCZ21MTFBNei1WUDlQNXA2R1Uza0N2NlppTUtzT3dHbTBRb0xLbUVKT01kcVFleXdzQmxaZElrSW84LUhMYmhjRlA4UlRlak9LalFrY21vZEhqVk5SLTRkVg?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.02.09",
           "title": "Web Travel Group (ASX:WEB) Valuation After Audit Notice Call And Trading Update",
           "source": "Yahoo Finance",
@@ -60,13 +67,6 @@
           "title": "Web Travel Group Shares Fall to Multi-Year Lows, As Pressure Mounts",
           "source": "thebull.com.au",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTk5xc3V1Y2ZZTENZWjFhX2dRYldyY2xrNmZjVU03WjBKTTRjSDEtTU5YR1pfNUhtaGJMbVZDVjY4bWhLVXhTWDlneTNDTzJ4cE45QW1jeWlTWDlpdFE4QnBXck5tTkl6YTIzc2h4QmdtLVJpMGlJbXM0SXpjdHhneWs2SXFRY2FsWndfcG12YVM2ZUpzSTh3blRtcw?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.05.11",
-          "title": "UBS Maintains WEB TRAVEL GROUP LTD(WEBJF.US) With Buy Rating, Cuts Target Price to $3.8",
-          "source": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT1NLYVlJd01fNUxHMmtWN2xuWEUybVBROXltdWxweExTTEgzYTF6aU5YMkVjRHVDVFhsR19lNFFWZDhueG9uYlpza0ZCWDdRT0FETUVuV0pVVnRCRy1wdld4YnpSbXd3T0RDTjFGYWg4TWFHVDJhSVNNd0ZUNlQyR3oxS0RoSVpFbHFnREd4NHh5TVQtQldhZ2NYbFpRUzAy?oc=5",
           "summary": ""
         }
       ]
@@ -107,13 +107,6 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.05.19",
-          "title": "TBO Tek Ltd is Rated Sell by MarketsMOJO",
-          "source": "Markets Mojo",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblUyNVBKSUQzbDhKS1lhb1dTZEJha0M5S1UxLTRFOHBXZmhMcUxFLW9jRHZuZVR2UXhhc291NlF2b1hlNWdjdGlBLWh5b2xvdDJNaUlfR2paRHQ1WnZ1Skp4LUVFRUYwTWNrTDRiYUVTZVp0ZGJWVlVnV2V2a3BDX2FlZVZvYTRZTlMzVXA1cjE5NzE3aXBOdDVhM1ZHQXVSSE05Xw?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.02.23",
           "title": "TBO Tek appoints Aditi Madhok-Naarden as Global CHRO",
           "source": "People Matters Global",
@@ -125,6 +118,13 @@
           "title": "TBO’s North America Deal Begins to Show Up in the Numbers",
           "source": "Skift",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ21qWTBvNnlKUzFzUFRYdVE5Z1BGbGwybFl2d19ocUwyM3JNdzRiWF82amdNa19mYkpfUHdSY2poSi03Wkt2amxvc1JNN1Y2endGVDk1MmZEeWNRdWFNSXhxZGNNUmNnb0xZNmdzU21iQkFSWFVkQldGYWlwWGJVMEZaRE9zT0V1Z21LSXU4Yw?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.05.19",
+          "title": "TBO Tek Ltd is Rated Sell by MarketsMOJO",
+          "source": "Markets Mojo",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblUyNVBKSUQzbDhKS1lhb1dTZEJha0M5S1UxLTRFOHBXZmhMcUxFLW9jRHZuZVR2UXhhc291NlF2b1hlNWdjdGlBLWh5b2xvdDJNaUlfR2paRHQ1WnZ1Skp4LUVFRUYwTWNrTDRiYUVTZVp0ZGJWVlVnV2V2a3BDX2FlZVZvYTRZTlMzVXA1cjE5NzE3aXBOdDVhM1ZHQXVSSE05Xw?oc=5",
           "summary": ""
         },
         {
@@ -172,17 +172,10 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.05.19",
-          "title": "Tourists in Europe and Americas Benefit from New Partnership by HBX Group: Seamless Multi-Destination Booking and Personalised Travel Packages, Everything You Need to Know",
-          "source": "Travel And Tour World",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYMXZoVWs4bU50VnM1RFV6T0xUTUkwN1FOdDk5Q3ZiM2JMcUFXNjVMczJXcTQyR3dDQ0FCWUlralhwbHJJdHBRdTR5U2hTUldIb0lMR3E4S09wRHk4QzNMQ25EeXB4U1NnTkR3d1dn?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.05.19",
-          "title": "HBX Group and lastminute.com deepen partnership for dynamic packaging growth",
-          "source": "Travel Daily News International",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzM1U1BQSlcxVXNYUlNYckJOX1JJTzF5NlRZLV9ybjJLZWVkeDdOQWJPTTIyRWxjWXVvVnAxVmtObnJVem9TZ00tMDZZOEVHMG9HQV9OanJMaVp6QUFkbmhlQmt5UVVERXJlMG9VU1k4TUd2ekRKQ0hDTkNDanRJMHNmS3VoMENncmVSMkFqTU9feWNRQ2FSU0o0em50ODVTcGZJNmVCdnlNUUxPRGtya2NzZThTQS1BVEh3QQ?oc=5",
+          "date": "2026.05.15",
+          "title": "Fandom Travel: Travel Trend Shaped by Passion and Experience Led Tourism",
+          "source": "Hospitality Net",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPekZvOFJBTUNveDRmdjlkX19RV2FuNEEtWm5BWWhaM1RpQlMyVVlkQnJvVlJzbmVrVUp3emVJcDViQWJ5YXJmbmVaTDFsUkp1VTAtQm1WVENTUVVNZENLaTlocHRybUY3NGhUN0dDdjFXMUdOb05RX1dTeHM4UmpwSlVTUGlZTHVMVU0yX2o5R2tSdDNXaTFhaTlHbHl0QUhBbXMza050RG01WGltWXd0WXpGQzlxYjhybFE?oc=5",
           "summary": ""
         },
         {
@@ -193,10 +186,17 @@
           "summary": ""
         },
         {
+          "date": "2026.05.20",
+          "title": "HBX Group and lastminute.com Enter New Strategic Phase to Transform Global Travel Through Real-Time AI-Powered Holiday Packaging Systems",
+          "source": "Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52aUx5bkZKalBXTV8tU0FiUmluSVJ5LVI0eHRFenY4VVh3VUtVY1AxekJlNUN2MXZPNFl0eDJ3VkRINnZLQ3ItOEdJdVhaYkZuajNESHE5R1dqR2oxbUNNREloTzB0c0tEWE9LMDR3?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.05.15",
-          "title": "Fandom Travel: Travel Trend Shaped by Passion and Experience Led Tourism",
-          "source": "Hospitality Net",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPekZvOFJBTUNveDRmdjlkX19RV2FuNEEtWm5BWWhaM1RpQlMyVVlkQnJvVlJzbmVrVUp3emVJcDViQWJ5YXJmbmVaTDFsUkp1VTAtQm1WVENTUVVNZENLaTlocHRybUY3NGhUN0dDdjFXMUdOb05RX1dTeHM4UmpwSlVTUGlZTHVMVU0yX2o5R2tSdDNXaTFhaTlHbHl0QUhBbXMza050RG01WGltWXd0WXpGQzlxYjhybFE?oc=5",
+          "title": "HBX Group acquires Bridgify to expand experiences platform",
+          "source": "TTG Asia",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV0p2MEh1c3hzVlhXanhCTVF4NC1pS3R4TkxlUDdnQzNOUFZZc3J6UU1ZaUJBYVJtSEd6NUg2S0RzWGRDYzhNZlJBMlFoOG5ldzVNd1BidmQxMnpvNy1ILUNBa1pBVWtMSUNIeGtYMEN5THY4dEczZGdhc2cybFdBcW5BVVNsOXpJLWxnUXRtMkhSc2RTeFh5M21n?oc=5",
           "summary": ""
         }
       ]
