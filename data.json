@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-25T00:07:40+00:00",
+  "generated_at_utc": "2026-05-26T00:13:01+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,6 +42,20 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.05.21",
+          "title": "Analysts Offer Insights on Consumer Cyclical Companies: WEB Travel Group (OtherWEBJF) and ACV Auctions (ACVA)",
+          "source": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOeXptTkJMdE1QdHkzMzJsS0VQMUFZbF9IbG1tOGNxSEhsdDU0enpLVlZUOHZvUkdRY3VONjk5Rm1TeEpSS0VrT2tjUDd4MzI1eW1VVGpmS0JRbDBVNUdkSWZSSWRseWNoSVc5RnFFSzFreVMtdm92TkFxRkFjM05nYjB1c0VRelhmSUZnaEJzZ3hIR1Q1WS1lWkxrMThkam5PVEJIZ2pCc0kxTVdTUUxTSUpCMzJ4VzVFZ2lUSHVWMUNqT0kxa244dEpNanBQcW1DY1YyYkQxV1hXME84TFNKb0RzUXlhV2ZBajFiTXUtX2lRLTJkLWxEZE81N0xmZGRjVVBjcmU1NjdRcVhDX1Z0TlJXYw?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.04.09",
+          "title": "How many employees work at WEB Travel Group?",
+          "source": "Revelio Labs",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNVdGWlNqd2RkZGY3WWJ4bUpSU2M4ZVBiaVhLN0xqZi1PR2hUX01PY1c2X25FSklvVzV1QTRDdjJxeS1BbmZCM2Fld1BCbEQtcmtSTmJrQk51b05fWEtSSlAzNExlY1E0ZHB3SE1QMVZ6bmc?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.02.09",
           "title": "Web Travel Group (ASX:WEB) Valuation After Audit Notice Call And Trading Update",
           "source": "Yahoo Finance",
@@ -53,20 +67,6 @@
           "title": "WebBeds strengthens partnership with Archipelago Hotels",
           "source": "Travel Daily Media",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZEtlWjdFZmlBYVZtd0JGbWZ5ZktIbjJsbEtldks4NzA5YllaVEFycVN0REQwcERoQzkxZTd5QTRfcy0yUFdLWEp4MXplcnlYMm43ZGFreGQ2YzB1S3VKaVlyRjNCdFFNZFNudjJuMkJOMnlCZTFkVmlKN1hGMTA0MUNUZHV3dTA3eGJNa012VXl5OFk?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.04.29",
-          "title": "Builders and Backers: The Tech Innovations Asia Needs Next",
-          "source": "Skift",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRThVUFU4TXBFclRQVXM3alpGRDdoLXE3eHZjMG8xdEZOS1A0WS0tMHZZQW82QnFEZGwwVHN5MmU4VmM1VDF6dTk4VnB2SThHN1VHbmZVU2ljRVlHQmxXWlBmVjVTZUVFMUhvSTZSVHVLUzJFN3RFNGRtVHJwTndHV0V2N1c3WGlCZ09vUUUyM05uQVBvMlh5MFNaSzBubHo1MHBVNHNQbVVVbjZ0TW9TSENSdVhBQk9tbldZTDdkSUhiUk9aTWJCSHZtNlg3aTh1OUJLc3dzNEdYS3ItNDE1UlNzNHdNZjU0SFcw?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.05.20",
-          "title": "Why Is Web Travel Group (ASX:WEB) Down 8% Today? Key Drivers Explained",
-          "source": "Kalkine",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR0d1QkFNbEprSElOMnJFd3QxQllROGgzMHpZX01PdG9zdVVDVGZPVFdxbXBzajNVd3R4TnVMWjlUZ1lzM19KZXBfWGtCZ21MTFBNei1WUDlQNXA2R1Uza0N2NlppTUtzT3dHbTBRb0xLbUVKT01kcVFleXdzQmxaZElrSW84LUhMYmhjRlA4UlRlak9LalFrY21vZEhqVk5SLTRkVg?oc=5",
           "summary": ""
         }
       ]
@@ -107,6 +107,20 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.05.25",
+          "title": "TBO Tek schedules Q4FY26 earnings call on May 29",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWHg4TGVydUNrZEtqN2lZZERGQXZsU3kyMWNnQjNVVlFjQjg4THlzXy1OQlA2U1hfWVprVGVJdC1tWk1jOV9oZE05Uml3bFFCZElwVldrNFVPSjZYdEhkZEI0MnRUcVhPLURzRnpmY0RiOHg4aEUydV9kbTJJV0tfVzYtYzdQMnl6LVMtUHI4OXpxZjJkeVJSSFprcEpSYUExdnA1YjFMMXE?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.05.25",
+          "title": "Half Yearly Results, Half yearly Earnings for TBO Tek",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaHcyZHlLZDctNkRicDRKRnlmMkFBZGI3dm9wdDE0NnUtWWJ3QmRON1VtSEJoMWxGejIzSTlOYmtZYlBXSlUzdXZNMGN0VkkxM2p6N3hheFpZVW1IamRkMXl0R1RRXy1xZlNOSjlJNnNIbzhvclBjSWp4RWNVSGRuSkhYb1BJTkRqdGw4?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.02.11",
           "title": "TBO’s North America Deal Begins to Show Up in the Numbers",
           "source": "Skift",
@@ -118,20 +132,6 @@
           "title": "Buy TBO Tek; target of Rs 1360: Motilal Oswal",
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYmMxSzFNRHBrNTdHN2xzVTl5WjZvU0M3TVd0S3FFU0hlSUhQWmNLa2dqeFY3LXRCb1U0cEdHVUVTX1Q3SmdhZTZaZXJneWpYcjhWaWRhSXBfMGUwTEZ6RndHWWdZNUhhb0gyZlRuRmlBT1otdC1vbkFsWEdtSjAwUnJnWkVhUXVjaVNsRWM3Y3lORGxFYm1ERzZUTTkyY2Q3cW5rTThWNV96dw?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.05.21",
-          "title": "TBO Tek Ltd is Rated Sell by MarketsMOJO",
-          "source": "Markets Mojo",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblUyNVBKSUQzbDhKS1lhb1dTZEJha0M5S1UxLTRFOHBXZmhMcUxFLW9jRHZuZVR2UXhhc291NlF2b1hlNWdjdGlBLWh5b2xvdDJNaUlfR2paRHQ1WnZ1Skp4LUVFRUYwTWNrTDRiYUVTZVp0ZGJWVlVnV2V2a3BDX2FlZVZvYTRZTlMzVXA1cjE5NzE3aXBOdDVhM1ZHQXVSSE05Xw?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2025.12.15",
-          "title": "TBO Tek stock price target raised by Jefferies to INR1,950 from INR1,800",
-          "source": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQak5VWXVhSUtOLUIxMkx1VHVhTl8taGZLbTdKeHlHTEc0TDZ6R0h3SW4zZEtXdm5fZFNMSFFvbWs5UVFtVDFFUVdKWUx5bTBhNzU4dnY3OHhacTJ0QlRjQnJrdkJKUm4tZEJVQXRqWGthSHJJZl9QeU5oNkE2VEJrVFBuUEJZbjR0Mm1MUUtBNHQtdFp6Y1hPNUtWMWNkTHgyRGh4YmpWcW54X1JnUk53bUIxcVpxT2tnVDZueUp5RTBZMFJ1UDduLTln?oc=5",
           "summary": ""
         }
       ]
@@ -172,17 +172,17 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.05.21",
-          "title": "We Think HBX Group International's (BME:HBX) Healthy Earnings Might Be Conservative",
-          "source": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVFQ2ai1FZXItTVBJZDB3a1NNeVFhd0VCYkZDNkE0bVlWY0pITF9HZkxiWmdJel9lVUhFTldBdk03eHJxZHIxMUZDMXRuVWd0LVptdjFFbjE2YjRhVWRCbkF6a2ZLa01iMHJpbmVnalFKbllFbDFxcFcwNjU3NjJmMnFxSEs5QjUzUnRudjhibWZiX0FOb09IVk1BNFJhOWE0TzdnRmNoSGxoZmdJWGVGQVpoVTA3M0dpNXpBS0pMdXhCLVp6LVNXYkhyTU9oMjNZRjBXSGE0Z2ZCU09FNERrQXpUbUxOSkV1eHhybVFIb9IB7wFBVV95cUxNVFQ2ai1FZXItTVBJZDB3a1NNeVFhd0VCYkZDNkE0bVlWY0pITF9HZkxiWmdJel9lVUhFTldBdk03eHJxZHIxMUZDMXRuVWd0LVptdjFFbjE2YjRhVWRCbkF6a2ZLa01iMHJpbmVnalFKbllFbDFxcFcwNjU3NjJmMnFxSEs5QjUzUnRudjhibWZiX0FOb09IVk1BNFJhOWE0TzdnRmNoSGxoZmdJWGVGQVpoVTA3M0dpNXpBS0pMdXhCLVp6LVNXYkhyTU9oMjNZRjBXSGE0Z2ZCU09FNERrQXpUbUxOSkV1eHhybVFIbw?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.05.14",
           "title": "HBX Group acquires Bridgify",
           "source": "hotelbusiness.com",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VVG9YMFFhWmpqX1FXLThKZlN3blA3RlFOVDdTYnp4aEV3T2V2WnRkZjF0MTUxNFJMdDd1UHctVHJDRlAyTnJDeFpvM3d2Qjl4dzZzNGRSelJXc2xlX1J3TFAwMlY?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.05.21",
+          "title": "We Think HBX Group International's (BME:HBX) Healthy Earnings Might Be Conservative",
+          "source": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbFVRRzZUUHFEd3JVUGFGSGhwYlVyTkpMUjA3aVdBWTNCdTQtODlfeUZxTjVDU1pJZVBIZUNkMng5WkhtV3gxLXFaOUN4TUJ2cHdMNDFQcGh4R1VzTE43NjRYaGNzc3FjTWVneDZEczdETGFKUVRGajdSTGxuRzBPc3VCdzZDUFEwMUZsRFlMNFYwc1hKeXRRaVNMbXdsZm5jaW9UTGFpblFlYXEwZU9MNmxBUVNIOEZ2c1BlZ3hXdEMtMlBRWTFoQkczQUhiNWxKZ0FfaFo0XzcxaVZEQkxlc0V2WmJYRnpJN3fSAe8BQVVfeXFMTVRUNmotRWVyLU1QSWQwd2tTTXlRYXdFQmJGQzZBNG1ZVmNKSExfR2ZMYlpnSXpfZVVIRU5XQXZNN3hycWRyMTFGQzF0blVndC1abXYxRW4xNmI0YVVkQm5BemtmS2tNYjByaW5lZ2pRSm5ZRWwxcXBXMDY1NzYyZjJxcUhLOUI1M1J0bnY4Ym1mYl9BTm9PSFZNQTRSYTlhNE83Z0ZjaEhsaGZnSVhlRkFaaFUwNzNHaTV6QUtKTHV4Qi1aei1TV2JIck1PaDIzWUYwV0hhNGdmQlNPRTREa0F6VG1MTkpFdXh4cm1RSG8?oc=5",
           "summary": ""
         },
         {
