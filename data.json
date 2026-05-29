@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-28T00:05:50+00:00",
+  "generated_at_utc": "2026-05-29T00:16:29+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -35,12 +35,19 @@
         "target_mean": null,
         "target_upside": null,
         "errors": [
-          "quote: API error code=404 on /quote: This symbol is available starting with the Pro or Venture plan. Consider upgrading now at https://twelvedata.com/pricing",
-          "statistics: API error code=403 on /statistics: /statistics is available exclusively with pro or ultra or venture or enterprise plans. Consider upgrading your API Key now at https://twelvedata.com/pricing"
+          "quote: HTTP 404 on /quote: {\"code\":404,\"message\":\"This symbol is available starting with the Pro or Venture plan. Consider upgrading now at https://twelvedata.com/pricing\",\"status\":\"error\"}",
+          "statistics: HTTP 403 on /statistics: {\"code\":403,\"message\":\"/statistics is available exclusively with pro or ultra or venture or enterprise plans. Consider upgrading your API Key now at https://twelvedata.com/pricing\",\"status\":\"error\"}"
         ]
       },
       "usd_market_cap": null,
       "news": [
+        {
+          "date": "2026.05.28",
+          "title": "Web Travel Group Early Fiscal 2027 Trading 'Weak' Due to Middle East Conflict, Jefferies Says",
+          "source": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNG1kR09GQXJteHlfdG5SQVZqY0V3ZVNjNjBpcUExNUI2U1hlUHlLMHYzS0tpeGlCMS1rWjZ4Nm12dS03RFQtNFVtbUl3Zzh0MVNnYm9pVzg4MTFPOUhSamh6UmszdU9xWWtxczh1VjVnUlVfZERNaElZbXo4Nk1NN1BLQ2FodXc3bXRBc3pmRlVPQWotWXl1TmE2UFI?oc=5",
+          "summary": ""
+        },
         {
           "date": "2026.05.27",
           "title": "Web Travel Group Delivers Solid Results, Despite Middle East Uncertainty",
@@ -60,13 +67,6 @@
           "title": "Web Travel Group Limited 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:WEJTY) 2026-05-26",
           "source": "Seeking Alpha",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTJ6R3pLejc0aXMzeUV5NWdvN0NJSnBWZnU5ZFlxeURDVnZ1Rm1Jd3dXQ3l4TGgtQlpHUXlla3J4RlFlTnVoVmZ6MG9CZG40U3BES3Z1dnoyVHZKTk9nelZZc1lNYUxCcmJGWmxTcWlYZWt4NC1XVFJoeEg3ZzhLYUZyYzRBaWFEXy1tRWFtMkdsTTRDSUVjYVhWSFoyQk4zRFdqQ1dES1VhbXJ3?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.05.27",
-          "title": "Web Travel Group Posts FY EBITDA A$172.7 Million",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYWVwWWs0ZmpfdTlKZWtDa2VNcjF2NXZtd0RiWm82RllHSldNSk4wN01WZE5MbzdDd3NKb1pSQllsNnVqX1pJVTFIY05tLU5adjZfN1BOU2ZNd0pfdHRLb1B5OUFaZ2JpWFRyRlYyZWtEeERfM1VCS2R1TzFUVzB2Nl9Ydkw5MVZ6aGd4TzhyZ1pFSF9YQ3ljLXZvdWczR2pPZE5KSEVwVjRwTk9NSURRT1R6RnVwMVliVEE?oc=5",
           "summary": ""
         }
       ]
@@ -100,38 +100,38 @@
         "target_mean": null,
         "target_upside": null,
         "errors": [
-          "quote: API error code=404 on /quote: This symbol is available starting with the Grow or Venture plan. Consider upgrading now at https://twelvedata.com/pricing",
-          "statistics: API error code=403 on /statistics: /statistics is available exclusively with pro or ultra or venture or enterprise plans. Consider upgrading your API Key now at https://twelvedata.com/pricing"
+          "quote: HTTP 404 on /quote: {\"code\":404,\"message\":\"This symbol is available starting with the Grow or Venture plan. Consider upgrading now at https://twelvedata.com/pricing\",\"status\":\"error\"}",
+          "statistics: HTTP 403 on /statistics: {\"code\":403,\"message\":\"/statistics is available exclusively with pro or ultra or venture or enterprise plans. Consider upgrading your API Key now at https://twelvedata.com/pricing\",\"status\":\"error\"}"
         ]
       },
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.05.26",
-          "title": "TBO Tek schedules Q4FY26 earnings call on May 29",
+          "date": "2026.05.28",
+          "title": "TBO Tek Limited Reports Earnings Results for the Fourth Quarter and Full Year Ended March 31, 2026",
+          "source": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRndwcDI4UFM3eWQwa2g4NnRZTHlRVWNJd21ta3k4cGNKbnJyTi1wdW1HdzctVC1rMDloQU5MMHpzbXRVR3hDOXlVS3VvYS01dkhwTDJaNWxUckV6TjlGTUlQYXE5dVhrUWNsSzBPclE4YzNIRml2QVI3NnFqcEFqeU5JOElUSkEwVm1DTVU5LV9EdXNNT0VmQkRDQ3hJWlhteEQ2YVhHdS1xSzg0RS01aFhaY1FQSTdrTXhqVjRYQzZrWnkwbXRIWFVHUW16d3VSZzlmdjdUMHRXM2hLczJvMFhnWnY?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.05.28",
+          "title": "TBO Tek reports ₹10,079 Crore GTV in Q4 FY26; revenue surges 83 per cent YoY, Adjusted EBITDA at ₹111 Crore",
+          "source": "Travel Trade Journal",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYWNQZU9uN25yLWM1VGtzdU5FZ2l0dnBzS0pCalZ6V0dwSUdacTdpSGV3NF9kWTJZV2x6YmtpblEtU2ZGclJGdjVBOUpDNzYwTFJrTWpRQkMxMlZfVVBqRG5WdVl5QTNpUWlRRDJPUWhFM1N3Mk02MGEzNHpScnhvank4cDZhbzJsOFpWbXJJMnZNUWRncEdFWkh5cXlIT1pDRzlldGpJMjdrcVU0b0FBZWdkZVMtQ3NPVmVQVlBsT0xpb2NSc3B6em5yMG1Yd2Q5X0V5Rl8xT0htckRBSmExUDQ5OEhDRzg?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.05.28",
+          "title": "TBO Tek Q4: Profit Almost Flat At ₹60.1 Cr, Revenue Up 82.6% YoY",
+          "source": "Inc42",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRldjU0JYY1czZ0VONkhJRWhvYmUxcmxCNVdSakVNYy11bURVNHpQNTBlbm9WaS02d2xMVUtXQlBMQXdCVHU0NzZnd1lnV3FYZS1VaVRfZzlFWVRyMEJpLTFsbWdkUWQ4bUlFN3NiSHdVRE42WW5xMDF0QXo4MUVkWmRyMWRmUzlDMGJGLXNKTklNQmJ4SVJPNA?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.05.28",
+          "title": "TBO Tek Q4FY26 revenue rises 83% to ₹814 Cr, GTV up 29%",
           "source": "scanx.trade",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWHg4TGVydUNrZEtqN2lZZERGQXZsU3kyMWNnQjNVVlFjQjg4THlzXy1OQlA2U1hfWVprVGVJdC1tWk1jOV9oZE05Uml3bFFCZElwVldrNFVPSjZYdEhkZEI0MnRUcVhPLURzRnpmY0RiOHg4aEUydV9kbTJJV0tfVzYtYzdQMnl6LVMtUHI4OXpxZjJkeVJSSFprcEpSYUExdnA1YjFMMXE?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.02.11",
-          "title": "TBO’s North America Deal Begins to Show Up in the Numbers",
-          "source": "Skift",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ21qWTBvNnlKUzFzUFRYdVE5Z1BGbGwybFl2d19ocUwyM3JNdzRiWF82amdNa19mYkpfUHdSY2poSi03Wkt2amxvc1JNN1Y2endGVDk1MmZEeWNRdWFNSXhxZGNNUmNnb0xZNmdzU21iQkFSWFVkQldGYWlwWGJVMEZaRE9zT0V1Z21LSXU4Yw?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.03.23",
-          "title": "Buy TBO Tek; target of Rs 1360: Motilal Oswal",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYmMxSzFNRHBrNTdHN2xzVTl5WjZvU0M3TVd0S3FFU0hlSUhQWmNLa2dqeFY3LXRCb1U0cEdHVUVTX1Q3SmdhZTZaZXJneWpYcjhWaWRhSXBfMGUwTEZ6RndHWWdZNUhhb0gyZlRuRmlBT1otdC1vbkFsWEdtSjAwUnJnWkVhUXVjaVNsRWM3Y3lORGxFYm1ERzZUTTkyY2Q3cW5rTThWNV96dw?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.02.24",
-          "title": "TBO Names Aditi Madhok-Naarden as Global Chief Human Resources Officer",
-          "source": "Travel Market Report",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVXp4dU1Ia3F4anZHdUlnTFpZQTZGOHBQZ09ZcDVYYk51ZlVoQ1M5ZUZQbFV1X3NvcnM3czJhOC1nVVBqSjJPQ21RR0wxNVdFb18ydkQ1OTBqS2s5dnRMS1NvMC1tcmhNdHlaWWt5M2l0SnhGekVJTTRKdFg3cmk2dnJzUnAybEp6THdEeTBENGg4dEQxM0RIUi0wbGx1NUNQMU5NeDJNTmlNVWdWVXUyNnp3UUFLODFIY0V1MjRZMVZ3TWJwSTNmUQ?oc=5",
           "summary": ""
         }
       ]
@@ -165,8 +165,8 @@
         "target_mean": null,
         "target_upside": null,
         "errors": [
-          "quote: API error code=404 on /quote: This symbol is available starting with the Pro or Venture plan. Consider upgrading now at https://twelvedata.com/pricing",
-          "statistics: API error code=403 on /statistics: /statistics is available exclusively with pro or ultra or venture or enterprise plans. Consider upgrading your API Key now at https://twelvedata.com/pricing"
+          "quote: HTTP 404 on /quote: {\"code\":404,\"message\":\"This symbol is available starting with the Pro or Venture plan. Consider upgrading now at https://twelvedata.com/pricing\",\"status\":\"error\"}",
+          "statistics: HTTP 403 on /statistics: {\"code\":403,\"message\":\"/statistics is available exclusively with pro or ultra or venture or enterprise plans. Consider upgrading your API Key now at https://twelvedata.com/pricing\",\"status\":\"error\"}"
         ]
       },
       "usd_market_cap": null,
@@ -180,16 +180,16 @@
         },
         {
           "date": "2026.05.13",
-          "title": "HBX Group to Buy Bridgify as Part of Broader AI Push",
-          "source": "Skift",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY2hSS3ZtTmtSa2tpdlZUOTN0eE9iSTZxRmpKcUNhZ0FCR0JhSm5FVG9WUVIyMi1GTGRwMDFEQjRPRnM2VmdORk13T19nMXNJeWpZRG1rZ1BYN2pWbnJwclFFbVZnMWczbUhYZDRDR3Q1NkhDYzhBWkd0NGtydXltczZTLWdlQW9HdEE?oc=5",
+          "title": "HBX Group Acquires Bridgify To Expand Experiences Ecosystem",
+          "source": "Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkRxYXJZWDRJTmlrZHNaZFVpd0ctZGdXUUVrRGstaENUYk1PQ2dxVmlyY0oxb2RLdnFiMkg4b3pDNjlsbTEzc3RKb2FOM0h5Z1k3b01TVHhNd0FqSVFLaUc5VFRtTTdjcVFtZXpIRWpaRV8zdHZjay1EejRqY3NFMjdIMWN5QdIBiwFBVV95cUxQODM2OVpwVkR1Y053dkRUR3dya3ZoeEF5V29BaVVvN09pZzE1QkM5OFl5cnB5RUJOYkIzUzhPb3NkWXdvWS1jbVY2NXpIYjFMZlNPQzdLLXdKQlJ5WmhOWWxDejVrRHBSSGtrVkw2VHJUOE5SamRwU0JCeFU5ei1JeTFscEh0bERVNTlj?oc=5",
           "summary": ""
         },
         {
           "date": "2026.05.13",
-          "title": "HBX Group Acquires Bridgify To Expand Experiences Ecosystem",
-          "source": "Pulse 2.0",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkRxYXJZWDRJTmlrZHNaZFVpd0ctZGdXUUVrRGstaENUYk1PQ2dxVmlyY0oxb2RLdnFiMkg4b3pDNjlsbTEzc3RKb2FOM0h5Z1k3b01TVHhNd0FqSVFLaUc5VFRtTTdjcVFtZXpIRWpaRV8zdHZjay1EejRqY3NFMjdIMWN5QdIBiwFBVV95cUxQODM2OVpwVkR1Y053dkRUR3dya3ZoeEF5V29BaVVvN09pZzE1QkM5OFl5cnB5RUJOYkIzUzhPb3NkWXdvWS1jbVY2NXpIYjFMZlNPQzdLLXdKQlJ5WmhOWWxDejVrRHBSSGtrVkw2VHJUOE5SamRwU0JCeFU5ei1JeTFscEh0bERVNTlj?oc=5",
+          "title": "HBX Group to Buy Bridgify as Part of Broader AI Push",
+          "source": "Skift",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY2hSS3ZtTmtSa2tpdlZUOTN0eE9iSTZxRmpKcUNhZ0FCR0JhSm5FVG9WUVIyMi1GTGRwMDFEQjRPRnM2VmdORk13T19nMXNJeWpZRG1rZ1BYN2pWbnJwclFFbVZnMWczbUhYZDRDR3Q1NkhDYzhBWkd0NGtydXltczZTLWdlQW9HdEE?oc=5",
           "summary": ""
         },
         {
