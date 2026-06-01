@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-31T00:07:44+00:00",
+  "generated_at_utc": "2026-06-01T00:12:13+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,6 +42,13 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.05.31",
+          "title": "Trade Alert: MD & Executive Director Of Web Travel Group John Guscic Has Sold Stock",
+          "source": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdEtJZmNTUl8wTklydzY5cEVLVkpLUFBmczBCWERtSWptVF9QMGRwUFFSZHdaQ19ySnBjQW5FaFlLLWV1ckoxaUZXMm5uT0gyOWpKOFJXMGVXb2pYNzFVeWpqUU50cVlfeGdWOGlrTXY2X3JsNzdSYkVKajFrelhTeFd6UmZ4SWc2VXRNTVlRUXhGQmd0Nk5TUTQ5SUpkNVRDazFTOW0xRmJzZHVET3E4dnZfQ1BJamlqblNQdThnajVZbnEyeE5XS3Z3bjhqd3hHT18zcF8ySU05a1AzTlNPMdIB5gFBVV95cUxPdzV2c1RVcHdVOWpXTU5HS0EwbWI5MW5xamh3NkxxTXZiRHJ6THJhNG1KRmp0Q3RIVGNQci1TOTFGVHQwWC1UQlNxRUcyT05TVTRLM0l0V0VKTkJmeFVaQmV2NTFOSzI2NXltclBTeW10ai1GOFJYWDY4YzRqUFRJTGtlOE84ODVCSDBWcFNpWkNjMTNkVmVvTDVTNHg3WFFLRFdKSFJrd0RXckhvWGgzTjFGeWdkeDdWaGM1ZDVIMHNGRU1BaDlJVVlubEVFdzlROFdKcTJmVlZfVkR2aXFMMlZwZ01ZUQ?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.05.29",
           "title": "WebBeds, Archipelago Hotels to strengthen global distribution",
           "source": "TTG Asia",
@@ -60,13 +67,6 @@
           "title": "Web Travel Group Delivers Solid Results, Despite Middle East Uncertainty",
           "source": "Morningstar",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ052N054Y1MzWjlsMGd1UUpjbEFNd29rcS1DOTBXRWF3bnVpNG9tLUNZM25ZMGFBbHNsM05PUWVlLXliOGdmdkxha3B2SmhrMWZfQkpEZmNfaTFjcUl0NzRmb0xKWThzQzBCVEpyVThKeS1UcWxiZGpEd0lUd1ZRaTNxN1ZEaVN4dGRfbzRMMHZmTVc0Zms4TUR1Q1loUjFSSjl0OENjbmNyeHkwSElCckplU0RpLUlfYW0tUFJod0w?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.05.27",
-          "title": "Web Travel Group Limited 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:WEJTY) 2026-05-26",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTJ6R3pLejc0aXMzeUV5NWdvN0NJSnBWZnU5ZFlxeURDVnZ1Rm1Jd3dXQ3l4TGgtQlpHUXlla3J4RlFlTnVoVmZ6MG9CZG40U3BES3Z1dnoyVHZKTk9nelZZc1lNYUxCcmJGWmxTcWlYZWt4NC1XVFJoeEg3ZzhLYUZyYzRBaWFEXy1tRWFtMkdsTTRDSUVjYVhWSFoyQk4zRFdqQ1dES1VhbXJ3?oc=5",
           "summary": ""
         }
       ]
@@ -128,10 +128,10 @@
           "summary": ""
         },
         {
-          "date": "2026.05.28",
-          "title": "TBO Tek Q4: Profit Almost Flat At ₹60.1 Cr, Revenue Up 82.6% YoY",
-          "source": "Inc42",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRldjU0JYY1czZ0VONkhJRWhvYmUxcmxCNVdSakVNYy11bURVNHpQNTBlbm9WaS02d2xMVUtXQlBMQXdCVHU0NzZnd1lnV3FYZS1VaVRfZzlFWVRyMEJpLTFsbWdkUWQ4bUlFN3NiSHdVRE42WW5xMDF0QXo4MUVkWmRyMWRmUzlDMGJGLXNKTklNQmJ4SVJPNA?oc=5",
+          "date": "2026.05.31",
+          "title": "TBO Tek FY26 revenue rises 83% to ₹814 Cr, EBITDA up 40%",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWHg4TGVydUNrZEtqN2lZZERGQXZsU3kyMWNnQjNVVlFjQjg4THlzXy1OQlA2U1hfWVprVGVJdC1tWk1jOV9oZE05Uml3bFFCZElwVldrNFVPSjZYdEhkZEI0MnRUcVhPLURzRnpmY0RiOHg4aEUydV9kbTJJV0tfVzYtYzdQMnl6LVMtUHI4OXpxZjJkeVJSSFprcEpSYUExdnA1YjFMMXE?oc=5",
           "summary": ""
         }
       ]
