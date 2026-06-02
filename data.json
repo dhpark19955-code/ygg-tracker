@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-01T00:12:13+00:00",
+  "generated_at_utc": "2026-06-02T00:20:20+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,13 +42,6 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.05.31",
-          "title": "Trade Alert: MD & Executive Director Of Web Travel Group John Guscic Has Sold Stock",
-          "source": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdEtJZmNTUl8wTklydzY5cEVLVkpLUFBmczBCWERtSWptVF9QMGRwUFFSZHdaQ19ySnBjQW5FaFlLLWV1ckoxaUZXMm5uT0gyOWpKOFJXMGVXb2pYNzFVeWpqUU50cVlfeGdWOGlrTXY2X3JsNzdSYkVKajFrelhTeFd6UmZ4SWc2VXRNTVlRUXhGQmd0Nk5TUTQ5SUpkNVRDazFTOW0xRmJzZHVET3E4dnZfQ1BJamlqblNQdThnajVZbnEyeE5XS3Z3bjhqd3hHT18zcF8ySU05a1AzTlNPMdIB5gFBVV95cUxPdzV2c1RVcHdVOWpXTU5HS0EwbWI5MW5xamh3NkxxTXZiRHJ6THJhNG1KRmp0Q3RIVGNQci1TOTFGVHQwWC1UQlNxRUcyT05TVTRLM0l0V0VKTkJmeFVaQmV2NTFOSzI2NXltclBTeW10ai1GOFJYWDY4YzRqUFRJTGtlOE84ODVCSDBWcFNpWkNjMTNkVmVvTDVTNHg3WFFLRFdKSFJrd0RXckhvWGgzTjFGeWdkeDdWaGM1ZDVIMHNGRU1BaDlJVVlubEVFdzlROFdKcTJmVlZfVkR2aXFMMlZwZ01ZUQ?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.05.29",
           "title": "WebBeds, Archipelago Hotels to strengthen global distribution",
           "source": "TTG Asia",
@@ -67,6 +60,13 @@
           "title": "Web Travel Group Delivers Solid Results, Despite Middle East Uncertainty",
           "source": "Morningstar",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ052N054Y1MzWjlsMGd1UUpjbEFNd29rcS1DOTBXRWF3bnVpNG9tLUNZM25ZMGFBbHNsM05PUWVlLXliOGdmdkxha3B2SmhrMWZfQkpEZmNfaTFjcUl0NzRmb0xKWThzQzBCVEpyVThKeS1UcWxiZGpEd0lUd1ZRaTNxN1ZEaVN4dGRfbzRMMHZmTVc0Zms4TUR1Q1loUjFSSjl0OENjbmNyeHkwSElCckplU0RpLUlfYW0tUFJod0w?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.05.27",
+          "title": "Web Travel Group Limited 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:WEJTY) 2026-05-26",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTJ6R3pLejc0aXMzeUV5NWdvN0NJSnBWZnU5ZFlxeURDVnZ1Rm1Jd3dXQ3l4TGgtQlpHUXlla3J4RlFlTnVoVmZ6MG9CZG40U3BES3Z1dnoyVHZKTk9nelZZc1lNYUxCcmJGWmxTcWlYZWt4NC1XVFJoeEg3ZzhLYUZyYzRBaWFEXy1tRWFtMkdsTTRDSUVjYVhWSFoyQk4zRFdqQ1dES1VhbXJ3?oc=5",
           "summary": ""
         }
       ]
@@ -107,31 +107,31 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.05.29",
-          "title": "TBO Tek reports strong hotels and ancillary segment growth",
-          "source": "ET TravelWorld",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUFUySHk0NUQ0Y3NoRVVXOGlYNnZZUzMyTHRVUmN5TFpONncyMW1BcTdDN1JMZnBjTzBXeFZGOHpoYmJzWDhjclVNRERJWF9TTUxoZTNoNEU3MjMtTW1KeF9oUFdtdVpXNWJQb21BeUVabUtNYW5zWW95WGM1YkZvRlVzR0dMLU1EMEFhajItcVYzU0Mxc1RlYThZYkFDdGFJdUlSNUVRcHZsRzhFS211QTdERm5fZ2V0cm4wMkt1dW1mZFAwa0hGSnA3TFRZNmhXZXBEX1h3UlJyTDVmNFJBM05yVm9CclBGVkZYdlZLd1kyQ1HSAfgBQVVfeXFMTXo4eWhJeGFHQmdRT2tldTVQSy1CV0ZxRVpsdlNEbTY3WGRRVWhVQ0FXS2dacXdkSXpodUY1cGdXRHZ3N0VjLUxONzRsT2k4ejVUc1kzV0RvR0JPM2I2ak5aeTR4dEFBY0lYYno5ZFh4ajR5aE00Z01sVk1wRVIyX1N5bGU5YlM3R3h4NHpFR3puUGZ6aGR6bi02Um1tRHhES1NrTnVoYllScTNCcXFDVGJkbkFHVjBfYVNrWnNCV3I5ZWNvWnU3NVoxUlBKSFJhOExHdDc4NmFfbWlUa3lZRjA1U3hxVG1HdzgwZFRjUlBTMks0ck9Sa2g?oc=5",
+          "date": "2026.06.01",
+          "title": "Buy TBO Tek; target of Rs 1485: Motilal Oswal",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWNvSG05NXpYT3dZNHhpWkVyaWV3X0Vya2JFcEYzc1VDbDlvSWVMMy1xODdJN3V1bmNlOG1mcG05dmdwN1pzMDQwNWxBUWVoNzNJRW9NYUEyWTdWaHZheVp6M0lJaVNNVFUzRF9UOTQzVW5VQmtYaUtDSUtsaTd2dWdFMGxMTDFvVEo5Tl9wN2tFcTdhTUlwTzJxcFRJcVJncXJmdGdVWUVKQQ?oc=5",
           "summary": ""
         },
         {
-          "date": "2026.05.28",
-          "title": "TBO Tek reports ₹10,079 Crore GTV in Q4 FY26; revenue surges 83 per cent YoY, Adjusted EBITDA at ₹111 Crore",
-          "source": "Travel Trade Journal",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYWNQZU9uN25yLWM1VGtzdU5FZ2l0dnBzS0pCalZ6V0dwSUdacTdpSGV3NF9kWTJZV2x6YmtpblEtU2ZGclJGdjVBOUpDNzYwTFJrTWpRQkMxMlZfVVBqRG5WdVl5QTNpUWlRRDJPUWhFM1N3Mk02MGEzNHpScnhvank4cDZhbzJsOFpWbXJJMnZNUWRncEdFWkh5cXlIT1pDRzlldGpJMjdrcVU0b0FBZWdkZVMtQ3NPVmVQVlBsT0xpb2NSc3B6em5yMG1Yd2Q5X0V5Rl8xT0htckRBSmExUDQ5OEhDRzg?oc=5",
+          "date": "2026.06.01",
+          "title": "The AI Divide in Indian Travel: What MakeMyTrip, Ixigo, TBO, and Yatra's Earnings Calls Reveal",
+          "source": "Skift",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnhodHd1OHVpTDNaVnctSU9ieVFWN3hBbHRWUHlBRUlxSzVyS1I1UDFEd095YjBraGdDTnNvT18tVVB4T09KejNDVjNlZWh5OEdzdm1wXzFsWmZZZC1FaWRGLV9zTDJlRUJsZHh4WEhGRDJtUXFkV0xZTjVTczB4OE5MN21oM3NDTjNyTUpVejJOOUtrV2c2djl2TWU1NnpEUHFKRXdXUWF2ejF1b29vdFVrMFRoNWNuOFNz?oc=5",
           "summary": ""
         },
         {
-          "date": "2026.05.28",
-          "title": "TBO Tek Limited Reports Earnings Results for the Fourth Quarter and Full Year Ended March 31, 2026",
-          "source": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRndwcDI4UFM3eWQwa2g4NnRZTHlRVWNJd21ta3k4cGNKbnJyTi1wdW1HdzctVC1rMDloQU5MMHpzbXRVR3hDOXlVS3VvYS01dkhwTDJaNWxUckV6TjlGTUlQYXE5dVhrUWNsSzBPclE4YzNIRml2QVI3NnFqcEFqeU5JOElUSkEwVm1DTVU5LV9EdXNNT0VmQkRDQ3hJWlhteEQ2YVhHdS1xSzg0RS01aFhaY1FQSTdrTXhqVjRYQzZrWnkwbXRIWFVHUW16d3VSZzlmdjdUMHRXM2hLczJvMFhnWnY?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.05.31",
+          "date": "2026.06.01",
           "title": "TBO Tek FY26 revenue rises 83% to ₹814 Cr, EBITDA up 40%",
           "source": "scanx.trade",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWHg4TGVydUNrZEtqN2lZZERGQXZsU3kyMWNnQjNVVlFjQjg4THlzXy1OQlA2U1hfWVprVGVJdC1tWk1jOV9oZE05Uml3bFFCZElwVldrNFVPSjZYdEhkZEI0MnRUcVhPLURzRnpmY0RiOHg4aEUydV9kbTJJV0tfVzYtYzdQMnl6LVMtUHI4OXpxZjJkeVJSSFprcEpSYUExdnA1YjFMMXE?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.06.01",
+          "title": "Analysts Have Made A Financial Statement On TBO Tek Limited's (NSE:TBOTEK) Annual Report",
+          "source": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMEdNTXpjdmM0TFVoS0ZZOVh1Z0lJUXJBbU10Y1h5V0k3eHlPTUFzY2xqeE9yYmF4LWhCclRJWGtEQm5BaFMwY2l1eDVkN0FfWm4zVWhoUC1wTGd3akxBZm5pWmdiRl82VHdEbmdKUWpPYW9jS1lhcHNNLWM2MkJwNkY5RTJ0Mi13bUxMemsxbC02OElhZzNqZ3BBdXA3N3p4MEVMVEgtMlVQZnkzcVVKSHlGX1FLODBtaHpXMExFMjZrbEdIMk10MFpkVEprRUR2MWk1Z2E1eHVyeVFYSVHSAd4BQVVfeXFMUDBHTU16Y3ZjNExVaEtGWTlYdWdJSVFyQW1NdGNYeVdJN3h5T01Bc2NsanhPcmJheC1oQnJUSVhrREJuQWhTMGNpdXg1ZDdBX1puM1VoaFAtcExnd2pMQWZuaVpnYkZfNlR3RG5nSlFqT2FvY0tZYXBzTS1jNjJCcDZGOUUydDItd21MTHprMWwtNjhJYWczamdwQXVwNzd6eDBFTFRILTJVUGZ5M3FVSkh5Rl9RSzgwbWh6VzBMRTI2a2xHSDJNdDBaZFRKa0VEdjFpNWdhNXh1cnlRWElR?oc=5",
           "summary": ""
         }
       ]
@@ -193,10 +193,10 @@
           "summary": ""
         },
         {
-          "date": "2026.05.13",
-          "title": "HBX GROUP ANNOUNCES HALF YEAR 2026 FINANCIAL RESULTS",
-          "source": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0dzVG5rRnM0b0lWTmJFbEpqMzV2TE9TejdDcm5vSnBjX0VPRkRDUGRuYzcxZHJ6SnhadnRKYnlfXzJ5S3BTZFczNk1ybUZOSkRQT3ZyckwxZ1dES0J5RDUzbUxRSUtvTmNmRHlWczc3bTFRaUpBWkhmZ0xhbmo2QXZSX1NTbVBVcFhLSDFrZTgyazQ0aDFOUkFpRGttT1Y0d3hDc0l1SkpiaS1N?oc=5",
+          "date": "2026.04.01",
+          "title": "HBX Group acquires full ownership of PerfectStay",
+          "source": "Hospitality Net",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcElKa09fWWQtUHZiZjN0YnZsQ25oRVVXOHllNEN5RTNrOVdXaU1uamswQjFCZE94MlYzdzNKU0V4SnBrbVFia0NGLTRLeUI3enlYN1BPcTRzaUx0b3puV0Fhdi1wY21EX3ROTWxyTUg4WVNpenowTjBfMU14cmgwUWd1cVYzVFprUHRXaW1QZzJjS1hXNWow?oc=5",
           "summary": ""
         }
       ]
