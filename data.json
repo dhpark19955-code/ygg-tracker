@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-21T00:16:26+00:00",
+  "generated_at_utc": "2026-06-22T00:18:59+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -49,17 +49,17 @@
           "summary": ""
         },
         {
-          "date": "2026.05.27",
-          "title": "Web Travel Group Delivers Solid Results, Despite Middle East Uncertainty",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ052N054Y1MzWjlsMGd1UUpjbEFNd29rcS1DOTBXRWF3bnVpNG9tLUNZM25ZMGFBbHNsM05PUWVlLXliOGdmdkxha3B2SmhrMWZfQkpEZmNfaTFjcUl0NzRmb0xKWThzQzBCVEpyVThKeS1UcWxiZGpEd0lUd1ZRaTNxN1ZEaVN4dGRfbzRMMHZmTVc0Zms4TUR1Q1loUjFSSjl0OENjbmNyeHkwSElCckplU0RpLUlfYW0tUFJod0w?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.06.02",
           "title": "Statutory Profit Doesn't Reflect How Good Web Travel Group's (ASX:WEB) Earnings Are",
           "source": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTl1NUNGd25qM3dGdlhoUkY1ck1mQmZSNThpYnFib3pvcGNHOVdUOUNvVzhlZlVTRDFFRGxLWTJLYWRQMHRPRVJUVUtLQ0J2X0F3eXBpdHZuejNKYjFiTHN2RVBmN0xtMnh6emh5dFdqb0l2Z3VHVGQzbVFib3k5N1VYTlctVFZvU2VPNUt3YUtnSDBBUHJLVFRhMTlwQm9fb0pz?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.05.27",
+          "title": "Web Travel Group Delivers Solid Results, Despite Middle East Uncertainty",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ052N054Y1MzWjlsMGd1UUpjbEFNd29rcS1DOTBXRWF3bnVpNG9tLUNZM25ZMGFBbHNsM05PUWVlLXliOGdmdkxha3B2SmhrMWZfQkpEZmNfaTFjcUl0NzRmb0xKWThzQzBCVEpyVThKeS1UcWxiZGpEd0lUd1ZRaTNxN1ZEaVN4dGRfbzRMMHZmTVc0Zms4TUR1Q1loUjFSSjl0OENjbmNyeHkwSElCckplU0RpLUlfYW0tUFJod0w?oc=5",
           "summary": ""
         },
         {
@@ -107,13 +107,6 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.06.20",
-          "title": "Betting on India’s travel boom? Motilal Oswal sees TBO Tek and Ixigo as key beneficiaries",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVm9BNWp3MUIyRWczNmlRTFkyQ21SX0Uzc3lyLWlDbmJ0UFd1V2Ftb2phcEFhcXhuTWI0TVJobTk5U19ETjdvcWtNbE5kTGt2dUVPWmFCYTVOQlFUN2ZvaHJ2X1F3YkRBaF85MEd5NGQzZy1EcWo0OW0yQXZwRVBkcWd4ZnZ5RHBDeUNIZkY4NHFXNm9YYTVXNHk0NUlrYnAzMW5WTXFvMDNmemVYZDAwNDhLOWxENTdoWEFNVHgxWEo4TzhnNFA2UTlJX1pTVU5iN0RqWEFJa0R1MnlOUm1EOXhmNVFaNHVkYS1PWlFWVHk4eHPSAfgBQVVfeXFMUGM3ZHJvN1ZQYzlfOTAwaHo1MHlfdnJjZ2dHWUJmcVJRLUx0LVlYMkV0OUNNUi0wMGUzMEI5NG5pQVZ2ckFFOE94cTlaT3o2VEJYbUNRUlZScWM5S2dLYS1maEw0bE9tRU1UOFBQWl9tVExrb0xYZkxSd21YZjJCREVJbHZqZTE1SDBoWkNYeUlXVERnWVNtUUNLakQ2RldVbFlpNjNIdGVWWmVyY0NGQ1dTLXc5VVFrMEwxbHpYMU8wMmVjWFhNUWE0QktzX1NLa1lJdTE4aWh6OHJpQzhVZDZ5WEhCcVVSZnUteFlOd3E1elpoZXZRWXU?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.06.05",
           "title": "TBO Tek's (NSE:TBOTEK) Profits Appear To Have Quality Issues",
           "source": "simplywall.st",
@@ -121,10 +114,10 @@
           "summary": ""
         },
         {
-          "date": "2026.06.15",
-          "title": "ICICI Securities Starts TBO Tek at Add with INR1,400 Price Target",
-          "source": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWjhOeC15NDU5UW55R2E1Y3dDUlJYYVNYd240cTN6dlNncE9acDJRajczLUpTNk5kZUtCdkx4Z3JNbE5BNGtVeW8tVi1kWUxzSnZzaFZGMDJHWmJZNFlhN2ZYR2s1ZV82a0xRdjdGd2M2WTl0UUJDd2RoUE1FT0xYSzlLVW0yMXJwamJnT0tvWGpNTGFvV0NsT0JlNlFEeEpQV0RodDE5V3luWmgxVDNRYzBoek1QQ2lzZWc?oc=5",
+          "date": "2026.06.20",
+          "title": "Betting on India’s travel boom? Motilal Oswal sees TBO Tek and Ixigo as key beneficiaries",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVm9BNWp3MUIyRWczNmlRTFkyQ21SX0Uzc3lyLWlDbmJ0UFd1V2Ftb2phcEFhcXhuTWI0TVJobTk5U19ETjdvcWtNbE5kTGt2dUVPWmFCYTVOQlFUN2ZvaHJ2X1F3YkRBaF85MEd5NGQzZy1EcWo0OW0yQXZwRVBkcWd4ZnZ5RHBDeUNIZkY4NHFXNm9YYTVXNHk0NUlrYnAzMW5WTXFvMDNmemVYZDAwNDhLOWxENTdoWEFNVHgxWEo4TzhnNFA2UTlJX1pTVU5iN0RqWEFJa0R1MnlOUm1EOXhmNVFaNHVkYS1PWlFWVHk4eHPSAfgBQVVfeXFMUGM3ZHJvN1ZQYzlfOTAwaHo1MHlfdnJjZ2dHWUJmcVJRLUx0LVlYMkV0OUNNUi0wMGUzMEI5NG5pQVZ2ckFFOE94cTlaT3o2VEJYbUNRUlZScWM5S2dLYS1maEw0bE9tRU1UOFBQWl9tVExrb0xYZkxSd21YZjJCREVJbHZqZTE1SDBoWkNYeUlXVERnWVNtUUNLakQ2RldVbFlpNjNIdGVWWmVyY0NGQ1dTLXc5VVFrMEwxbHpYMU8wMmVjWFhNUWE0QktzX1NLa1lJdTE4aWh6OHJpQzhVZDZ5WEhCcVVSZnUteFlOd3E1elpoZXZRWXU?oc=5",
           "summary": ""
         },
         {
@@ -132,6 +125,13 @@
           "title": "Buy TBO Tek; target of Rs 1485: Motilal Oswal",
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWNvSG05NXpYT3dZNHhpWkVyaWV3X0Vya2JFcEYzc1VDbDlvSWVMMy1xODdJN3V1bmNlOG1mcG05dmdwN1pzMDQwNWxBUWVoNzNJRW9NYUEyWTdWaHZheVp6M0lJaVNNVFUzRF9UOTQzVW5VQmtYaUtDSUtsaTd2dWdFMGxMTDFvVEo5Tl9wN2tFcTdhTUlwTzJxcFRJcVJncXJmdGdVWUVKQQ?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.06.15",
+          "title": "ICICI Securities Starts TBO Tek at Add with INR1,400 Price Target",
+          "source": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWjhOeC15NDU5UW55R2E1Y3dDUlJYYVNYd240cTN6dlNncE9acDJRajczLUpTNk5kZUtCdkx4Z3JNbE5BNGtVeW8tVi1kWUxzSnZzaFZGMDJHWmJZNFlhN2ZYR2s1ZV82a0xRdjdGd2M2WTl0UUJDd2RoUE1FT0xYSzlLVW0yMXJwamJnT0tvWGpNTGFvV0NsT0JlNlFEeEpQV0RodDE5V3luWmgxVDNRYzBoek1QQ2lzZWc?oc=5",
           "summary": ""
         }
       ]
