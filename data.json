@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-25T00:19:21+00:00",
+  "generated_at_utc": "2026-06-26T00:17:23+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -107,13 +107,6 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.06.05",
-          "title": "TBO Tek's (NSE:TBOTEK) Profits Appear To Have Quality Issues",
-          "source": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQldLMEtLTjNRWlJ1dkxrVm1ES1VDZERGUkxYZWxtazhSajU3R3dEbGtWVUJ3QnJHejBBV2c4M04ySzMxOE94YV9EUlRINC10eno3eFp6cTJvaVBvVl9aUmJTcnlzOU5iQUxITXNBT3dmTkdFOXBWZkN4SUhMRVNwaS0zRnQ0QWVjQk5YV0xTNFpJR1oyNWhXU2pwT1NsUkxXVzJEU1l1eXExSkMtWFVJU2p1RUhLYjhjZTBQeTBxVWVaZExydzEtdXRXYnRBRW1vVHlJ0gHYAUFVX3lxTE5KWVJ2eVk1Z3UzUmswU3huU3ZuRXpfeGdyQUozOFBncFhzTS1tdS1SWjVlUnNKNzdVYzZJS3otYzNTeHZfREItazNKZ0ZtZDdxSGFaS2lrd29TNEVKa2dVTFFySFVyS2JSc2tfVy1hUE9FcDlhZHphVjZTeHFacVVYeE16aG43dHo2LWpzeXhQUTBhSFQ3alRWektjR0pyNzRfRnFVUTBFNlB3ZXNRTnpiRVgwUmxwTF9jdWMxSnpqbzF1czBGSkUyQWhXQUdIaVlzRzk2VGR4UA?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.02.11",
           "title": "TBO’s North America Deal Begins to Show Up in the Numbers",
           "source": "Skift",
@@ -125,6 +118,13 @@
           "title": "Buy TBO Tek; target of Rs 1485: Motilal Oswal",
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWNvSG05NXpYT3dZNHhpWkVyaWV3X0Vya2JFcEYzc1VDbDlvSWVMMy1xODdJN3V1bmNlOG1mcG05dmdwN1pzMDQwNWxBUWVoNzNJRW9NYUEyWTdWaHZheVp6M0lJaVNNVFUzRF9UOTQzVW5VQmtYaUtDSUtsaTd2dWdFMGxMTDFvVEo5Tl9wN2tFcTdhTUlwTzJxcFRJcVJncXJmdGdVWUVKQQ?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.06.01",
+          "title": "Analysts Have Made A Financial Statement On TBO Tek Limited's (NSE:TBOTEK) Annual Report",
+          "source": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb0Nja3NPcnAxMm5FMjAxT2ZkNzA0S2tlcFQ0eDA4Q3RpNDZSb0N2cWdRNnhiWmhSRE1tUzdaTjdiRURGVHBwVlJfd2E2RVhQYlJTeHExbE5CbW4tOWs5WXJ1MUxvYUVRZHAycEpWUTVUS0EzanRReTVLaEU5eE1NY29NcXhKVE9WM3Q2YWh0VUhOUFk4eGFxdUgxamJtVEo0MkppQ2NCSjNzSWhVUUh1QXNhT1g3LTFXNWp1NmhnVHM2Z3dvUldmNENCQ1BTTFdqRENVUVJoOELSAd4BQVVfeXFMUDBHTU16Y3ZjNExVaEtGWTlYdWdJSVFyQW1NdGNYeVdJN3h5T01Bc2NsanhPcmJheC1oQnJUSVhrREJuQWhTMGNpdXg1ZDdBX1puM1VoaFAtcExnd2pMQWZuaVpnYkZfNlR3RG5nSlFqT2FvY0tZYXBzTS1jNjJCcDZGOUUydDItd21MTHprMWwtNjhJYWczamdwQXVwNzd6eDBFTFRILTJVUGZ5M3FVSkh5Rl9RSzgwbWh6VzBMRTI2a2xHSDJNdDBaZFRKa0VEdjFpNWdhNXh1cnlRWElR?oc=5",
           "summary": ""
         },
         {
@@ -172,10 +172,10 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.06.24",
-          "title": "Price to book forward of Hbx Group International Plc – DUS:Q1D",
+          "date": "2026.06.25",
+          "title": "Hbx Group International Plc Actuals & Estimates (DUS:Q1D)",
           "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkMxN1l5SHNlYnFrTWw5SkpNT3Y0dkxZUjZXT25sekhGX2dYVGxJUXcxX1hGdmVhT2hCWUtrU0FPVTlpaVZHdXBEQzZLVHhaSnNLWkVzZHBVNzFLYjY5VGhoLTctOFRId2JXRXZmZjhzZjliMVhQQjJteUM2VUR0ODBub3Fuc1NtM3E0T25OejkyUlVxUF9j?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORnZzbXBQWkREU2o2cGxTdEx1a3pucFVYcGV4MVN3bzNSM3pRXzllbDBWRVQ0bURvXzlWT2RhcGd0YW92T0dpOHMwSTFWc1o0Y1E0N3FYMW9ZNXRnT1JGN0U0M0g5UWwyNEpyY3BZNkVWWkhMZFBGd3ItWGFtcF9xWg?oc=5",
           "summary": ""
         },
         {
@@ -186,17 +186,17 @@
           "summary": ""
         },
         {
+          "date": "2026.06.25",
+          "title": "Price to earnings forward of Hbx Group International Plc – DUS:Q1D",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWdnUm14WklkTWkxVFpvT2QwS2E3UWJRaXlySGEtNTVoeDVFVHVtUnFJYkpWc3RrSGg4Qnp6eXRjYzRhdVNUbWRhSEZtSGlJNmZDcWlaaWZsdDhJRElVb2drQ1Y1Mll2VDg1dG14d3g0S2lRMk83SGlPaVJPbXYyeEdSVkFJQy1heFlESVJvcW5udzhtdHlGUlkwY0U?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.04.01",
           "title": "HBX Group acquires full ownership of PerfectStay",
           "source": "Hospitality Net",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcElKa09fWWQtUHZiZjN0YnZsQ25oRVVXOHllNEN5RTNrOVdXaU1uamswQjFCZE94MlYzdzNKU0V4SnBrbVFia0NGLTRLeUI3enlYN1BPcTRzaUx0b3puV0Fhdi1wY21EX3ROTWxyTUg4WVNpenowTjBfMU14cmgwUWd1cVYzVFprUHRXaW1QZzJjS1hXNWow?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.06.23",
-          "title": "Quick on the Net strengthens partnership with HBX Group’s B2B2C division",
-          "source": "Travolution",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRWdKYlA2Y1RtSkhoTUN1TDM0N3EtTE9qSm5XY25VTVVLZGZSQWtzREJzZS1PdlVqQWF2OGRXeGl1YVp4OXlHNEJpYlFwQURTbVNWSlBpbWhiN1FoV0k3N2NqZFBpY1NmZ1ZrX2tzdlJPYmdEcDZlXzUtcWZBSnVjU25Kd0h4SU9DbWY2V0tLWWpNcTVYYy1yVmJsN1BGdnk3SjNJUkVkMHE?oc=5",
           "summary": ""
         }
       ]
