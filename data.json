@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-07T00:16:19+00:00",
+  "generated_at_utc": "2026-07-08T00:05:23+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -108,16 +108,9 @@
       "news": [
         {
           "date": "2026.06.30",
-          "title": "Enterprise value to revenue forward of TBO Tek Ltd. – NSE:TBOTEK",
+          "title": "Price to sales forward of TBO Tek Ltd. – NSE:TBOTEK",
           "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2Jka0lzX3hkTkc4b2tIR1VRSkNvQ0xqSkotMHJkMHNKSFhLaXRHX05RR3A4Z0RxZE5NS1I4T0FqZVAtZFBPS3FEY0l6ZldvUHcyNnZhYkFtV0Q3WWlvMGNhclBVQW1DZDdTb2JJcmRqbjhQTXdPZEIwbXduMHkyX2xSM3JwMVlHbkhSNi13d0FfWWlGRE1PclNHTTk3UXprQ2ZOQjd5RVotOEU?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.07.01",
-          "title": "Market Trading Guide: TBO Tek among 2 stock recommendations for Thursday",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNktBbU9aZHpudzFKbUZqUUQ2TXV5cmtNQ000eW5KNkhpenFzeTBlR3FWT0lINGVhX0s4ckl5TzdVeTNtZ21FN0w5TXJjdXEwWk9yd3N1ME1UTXdseHdFNzRiRTRPbHNUV3JjaFNkbVY5bDFtLXpSQWdmNlJiQjVzS2p2T0RyTGhKV1hSTDhsajdIRXgzQVdmUkhiM1NHYWMteXNaRlpKUUlEVVFnTm5jaVBzMzFhMjNFeW1vb3pSNHZEQ0tpZFY0Z1ZpZF9TSXlRVjFINko2Q3ZWRUN6Z0lj?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWFmSmlCNjZXWms3UnBybWlGeEE0NWxjeHhMWVhCOUowVFpJcjdjSGc0WDJJRkM3ak9XUWNYTU9lVHE4cmZSTGNuUUZGbVI4UlAtaElCSzRSYXBRMktVNkVLY0tVU2FLWUsybEtERTJ4U1FqdE5aZUd0RWF1cjVLZDRFdF9lWTVkbDNMVlRHU3FZVXJqRWZXeU1WQU8?oc=5",
           "summary": ""
         },
         {
@@ -128,10 +121,17 @@
           "summary": ""
         },
         {
-          "date": "2026.07.02",
-          "title": "Stock to buy today: TBO Tek (₹1,509.70) – BUY",
-          "source": "BusinessLine",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS3JlNXV4dktOMGU0SVVXNktBWEgwR1lmRWZuN3cxYW91cU10dUNVU1gzVWp1V3QtcVZsY2ZWTDE0ZmhSZUozS3lkLUJCbW1KZ2tiY1hUaHNoVXZfbWc1ZEQ2aDg4aGp1ZDBybXoxbGRrS0I0bzlEMFp4MkxBUUpLNTFhZUVfenZWU25SVFpyYmE5MTNCT2lMcDl5dS1fWTJSQlozVEhLQmhtbE9qeXRyV1hxYnhVVDB3RE03RmIwNmfSAccBQVVfeXFMT19tck9OS1BadGl4MUU4dW5KV2xLS19XQUVXb3BDa0hnYW5wN1NGWENfRTdLX2RjdDVWLXFGWU85aUhiV09hYUdnaUtsVWZOUXJJWWRpMjBNd2lNUVJYS2tIUFA5YUtvNTk2VGFzRk40WnBnQmxUaGszZk5TUVVpRl9MTDUycVVuOS14R0ZfZDhUb3J5Wm1RUm1QdHUxRmhvVGd5ZHREeEJQMXA4OFBtUzZNeUJQOHNFa2h3U0RmVllaTnVQUXloZw?oc=5",
+          "date": "2026.07.01",
+          "title": "Market Trading Guide: TBO Tek among 2 stock recommendations for Thursday",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNktBbU9aZHpudzFKbUZqUUQ2TXV5cmtNQ000eW5KNkhpenFzeTBlR3FWT0lINGVhX0s4ckl5TzdVeTNtZ21FN0w5TXJjdXEwWk9yd3N1ME1UTXdseHdFNzRiRTRPbHNUV3JjaFNkbVY5bDFtLXpSQWdmNlJiQjVzS2p2T0RyTGhKV1hSTDhsajdIRXgzQVdmUkhiM1NHYWMteXNaRlpKUUlEVVFnTm5jaVBzMzFhMjNFeW1vb3pSNHZEQ0tpZFY0Z1ZpZF9TSXlRVjFINko2Q3ZWRUN6Z0lj0gHkAUFVX3lxTFA1OHByZFU3cjJmOEdLZGNFUExnbnFEV2NkN3BGczFUbGx5d0dpSVNVT3VXTExOZkJjRlg5UHhxUFl1UGZjaU54ODZlaU9ObHhDdkFZUi01UVBUd0dNUGxLNDQxSEhaVi1tYjRhckVVUFlkR2I3WU5NTVdRQ1dhQ0JjN0QycHk1eDFPaUdRd2VkV1JpQ18yOG5nN1dXU19SbkRrUV9nTWR1YWxVZjlZdEtScVNQa2hrbkhwc0F4RGhIUERJUE1TMXROeVhZb21sYm9paWo2OGtrc25ETDZDdUEyYjlDVw?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.02.23",
+          "title": "TBO Tek appoints Aditi Madhok-Naarden as Global CHRO",
+          "source": "People Matters Global",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWF4T1Q1bjhSYVlNRC1mbmZQU21FRkJ1Nm1sZzYtbkpmRXptQTZqNmU0b0NLbVlCYjhXRm95T2xYVzA0THhlZ09RMmx2UTBMdk1wZmhIU2ZhWHVFa1MxWk1GQ1VGdzUyVjd0T2RucWJQWmUtcUpwcmFfVzVoX3Q1ZzJNNWdyck10ODJ3NkNBOE9YYUNiWk1jMGN0TWFHeGZUSnZVbFVyeHFHdXQ2RHhSWjJB?oc=5",
           "summary": ""
         }
       ]
@@ -193,10 +193,10 @@
           "summary": ""
         },
         {
-          "date": "2026.06.29",
-          "title": "HBX Group: Artificial intelligence will transform tourism, but the human experience will remain irreplaceable",
+          "date": "2026.06.27",
+          "title": "Nicolas Huss, CEO of HBX Group, says AI should transform the search for travel, but not eliminate intermediaries",
           "source": "Travel2Latam",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYUV0YkIyUXlGZ09mZ29INkJJaEluZTNMMTR5WkpfN3RycUQ4MkZ1TV9jT1dMWU1WcllEdkUyWXd1b3AxUHBZNWxVMlFTdHpRLWM2WV8yQjZPd3VNNjdsQTk1elB1U0ZuWFRubEZOVzRnbWZNajlFaWFEYWxVMVFtZzFkZ3B3ald4WDNSLUtleURGSEpKU0MybXBCeU9MaGtYcW1MNnA1Rk9ZNkVDSDZHUUxrOFdHM3ZWd1p3WDlJYXlJRzRkaXYxbTZOOEtGcURlMEttSVRRUmUxU25wY0lXNS1Qa3dycFk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTzUwekJIX3J2eVNhckNQb3l2bHZlUk1xOWROaXVtclFrSS1OR0xHdEZaR18wQzJpMDdNTjVIa18tLWk5d3Z2dnBEY2RqdWs0aFNqczlMNFlmQWluekM2MjNQQy02MVpadks3Ml9JaFpXb05KOUs5dktnMm9wS1BSOW1yaUNaMHRYUm5LRVZZWUhILTZOcktSZk9xTXUydUFZSEsxTE9kOVhGWnVTUEZuRnBoRU5uN3hMVlcxcWJhY2tvMWkwYVRtaXpDWlF6aHJNU3gwVWp1dEpvZ0dwV0VfYVpxckUxSkpzdlE?oc=5",
           "summary": ""
         }
       ]
