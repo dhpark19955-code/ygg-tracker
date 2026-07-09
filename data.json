@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-08T00:05:23+00:00",
+  "generated_at_utc": "2026-07-09T00:18:10+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -108,9 +108,9 @@
       "news": [
         {
           "date": "2026.06.30",
-          "title": "Price to sales forward of TBO Tek Ltd. – NSE:TBOTEK",
+          "title": "Enterprise value to EBITDA forward of TBO Tek Ltd. – NSE:TBOTEK",
           "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWFmSmlCNjZXWms3UnBybWlGeEE0NWxjeHhMWVhCOUowVFpJcjdjSGc0WDJJRkM3ak9XUWNYTU9lVHE4cmZSTGNuUUZGbVI4UlAtaElCSzRSYXBRMktVNkVLY0tVU2FLWUsybEtERTJ4U1FqdE5aZUd0RWF1cjVLZDRFdF9lWTVkbDNMVlRHU3FZVXJqRWZXeU1WQU8?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOHd5VF9Fb182VHdERXlzVDgzVkt0dE1BZDVSQWtMSnlQOTlCSTEzRXh6X3ZJb0FZVmc4bVN4UnhlenpjdnFjejh5emUzRm1HNmpYb0xsMjNNcGlIVXpKVGpZeTVqeFJ3TXI2T05Xd1VjREZ3bFBOZ3gwVG1kQ3R5d2ZQOVVVc0ZiRmRLMDNaLWRFX2xKdkFwdWRiZW1KaDRzdjlZQUg4dUw0R2o0?oc=5",
           "summary": ""
         },
         {
@@ -172,13 +172,6 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.06.26",
-          "title": "Price to earnings forward of Hbx Group International Plc – BME:HBX",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc2tSTUZRcUFhbUQ3aTVSNzNTRUNlcEh2ZENmai0tVkpJdUxmdUJzcENxLU5VelZXUjV2d1dtcmlPaU40OHVvRElBV0g5bUhjRzlmM1hvSWN3YmFsbHlWdEdBZEphaEQ4Skc5S2xfOWs4bXViN3JubTd0bDJqbkNsNnI1ajRfVGdVRTlRNUtxVUN2c1BweEI3NWROVlA?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.04.01",
           "title": "HBX Group acquires full ownership of PerfectStay",
           "source": "Hospitality Net",
@@ -197,6 +190,13 @@
           "title": "Nicolas Huss, CEO of HBX Group, says AI should transform the search for travel, but not eliminate intermediaries",
           "source": "Travel2Latam",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTzUwekJIX3J2eVNhckNQb3l2bHZlUk1xOWROaXVtclFrSS1OR0xHdEZaR18wQzJpMDdNTjVIa18tLWk5d3Z2dnBEY2RqdWs0aFNqczlMNFlmQWluekM2MjNQQy02MVpadks3Ml9JaFpXb05KOUs5dktnMm9wS1BSOW1yaUNaMHRYUm5LRVZZWUhILTZOcktSZk9xTXUydUFZSEsxTE9kOVhGWnVTUEZuRnBoRU5uN3hMVlcxcWJhY2tvMWkwYVRtaXpDWlF6aHJNU3gwVWp1dEpvZ0dwV0VfYVpxckUxSkpzdlE?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.04.20",
+          "title": "Former Virtuoso Executive Una O’Leary Joins HBX Group’s The Luxurist",
+          "source": "Travel Market Report",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcWJtc0VaM29QM3k1OUR5eXlfZVlUempKbW5Rc2tucDgxYlI0UUtWM0xWOW11VkMzRkVOa1pCZTBwZS15TXg4bi1SWlJROHlZWmhXcHJfbG1KVzNvU1FXYnpwX05kUU5RM3RUT3I1TmIyZENpOWcxR1FnbmVlcVRWdG5kM2hBLWRORmdaZWg0MDY5NmtYZFlGVkxTczhDdklpaFBocnliMVB3ZFpQdXpSanJLcFJ2bG96dkhaOTZUTk84bzIxMXNN?oc=5",
           "summary": ""
         }
       ]
