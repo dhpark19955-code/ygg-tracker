@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-13T00:02:11+00:00",
+  "generated_at_utc": "2026-07-13T23:58:59+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -107,10 +107,24 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.06.30",
-          "title": "Enterprise value to revenue forward of TBO Tek Ltd. – NSE:TBOTEK",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2Jka0lzX3hkTkc4b2tIR1VRSkNvQ0xqSkotMHJkMHNKSFhLaXRHX05RR3A4Z0RxZE5NS1I4T0FqZVAtZFBPS3FEY0l6ZldvUHcyNnZhYkFtV0Q3WWlvMGNhclBVQW1DZDdTb2JJcmRqbjhQTXdPZEIwbXduMHkyX2xSM3JwMVlHbkhSNi13d0FfWWlGRE1PclNHTTk3UXprQ2ZOQjd5RVotOEU?oc=5",
+          "date": "2026.07.13",
+          "title": "Early Backer Augusta TBO Sells 2.04% Stake In TBO Tek",
+          "source": "Inc42",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmtnaDBUTkdNd0p2QnhIOHlHUlNoUlZwd2ZldnMyTWlQWThOWER4Q0FmV0p2bzgxTFdiYjMzaVliYWZJMUVBRHoya2xKUnNYSHo0MmFTWHRlcXoweG9IQ1kwTG1raE1tQTc0WEJpd2tYMXM4ZTBIS2xlR0lTdVA1MWNB?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.07.13",
+          "title": "Augusta TBO offloads 2% stake in TBO Tek for Rs 327 Cr",
+          "source": "Entrackr",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRml5TWF3MFh4Z1dwWlJnVElaMURMVkFSZ2w2RmcxZi1mcWFWRW5mbVpiM2JfTmd4amc5ZHJhd2ctbjhZWnFmY2dnNnMweEtjLUZXaWtLMmtSQ1RFbWNFVVo5ZG41ZVJuNWxzekJFcHoxRlQyNHp2aS11TGdjWm9nLU1Dd3pYUUF4LVZWWFo1XzV5QdIBkgFBVV95cUxPRml5TWF3MFh4Z1dwWlJnVElaMURMVkFSZ2w2RmcxZi1mcWFWRW5mbVpiM2JfTmd4amc5ZHJhd2ctbjhZWnFmY2dnNnMweEtjLUZXaWtLMmtSQ1RFbWNFVVo5ZG41ZVJuNWxzekJFcHoxRlQyNHp2aS11TGdjWm9nLU1Dd3pYUUF4LVZWWFo1XzV5QQ?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.07.13",
+          "title": "Augusta TBO reduces stake in TBO Tek to 3.5%",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUdYQjU3aUs4U2tMYldOWFJhMDNZcGU1UElCakhZZVdwbVNxODd3RndIb3NFREpVSl9IdGE1QWR1OXVmZTdpMDJSa0ZVQUlCV3kwZ3VQZTIySE5tSFhLU0txS0pjQ2g5NmUzaWJtQlFEc0NBTjM2VlNfQjl1QUZDSU9zSzFrb2c0VzhoSG1yQXVMVXE4czJLVnpzN2o3eVVJZEE?oc=5",
           "summary": ""
         },
         {
@@ -118,20 +132,6 @@
           "title": "TBO’s North America Deal Begins to Show Up in the Numbers",
           "source": "Skift",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ21qWTBvNnlKUzFzUFRYdVE5Z1BGbGwybFl2d19ocUwyM3JNdzRiWF82amdNa19mYkpfUHdSY2poSi03Wkt2amxvc1JNN1Y2endGVDk1MmZEeWNRdWFNSXhxZGNNUmNnb0xZNmdzU21iQkFSWFVkQldGYWlwWGJVMEZaRE9zT0V1Z21LSXU4Yw?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.07.02",
-          "title": "Market Trading Guide: TBO Tek among 2 stock recommendations for Thursday",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNktBbU9aZHpudzFKbUZqUUQ2TXV5cmtNQ000eW5KNkhpenFzeTBlR3FWT0lINGVhX0s4ckl5TzdVeTNtZ21FN0w5TXJjdXEwWk9yd3N1ME1UTXdseHdFNzRiRTRPbHNUV3JjaFNkbVY5bDFtLXpSQWdmNlJiQjVzS2p2T0RyTGhKV1hSTDhsajdIRXgzQVdmUkhiM1NHYWMteXNaRlpKUUlEVVFnTm5jaVBzMzFhMjNFeW1vb3pSNHZEQ0tpZFY0Z1ZpZF9TSXlRVjFINko2Q3ZWRUN6Z0lj0gHkAUFVX3lxTFA1OHByZFU3cjJmOEdLZGNFUExnbnFEV2NkN3BGczFUbGx5d0dpSVNVT3VXTExOZkJjRlg5UHhxUFl1UGZjaU54ODZlaU9ObHhDdkFZUi01UVBUd0dNUGxLNDQxSEhaVi1tYjRhckVVUFlkR2I3WU5NTVdRQ1dhQ0JjN0QycHk1eDFPaUdRd2VkV1JpQ18yOG5nN1dXU19SbkRrUV9nTWR1YWxVZjlZdEtScVNQa2hrbkhwc0F4RGhIUERJUE1TMXROeVhZb21sYm9paWo2OGtrc25ETDZDdUEyYjlDVw?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.02.23",
-          "title": "TBO Tek appoints Aditi Madhok-Naarden as Global CHRO",
-          "source": "People Matters Global",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWF4T1Q1bjhSYVlNRC1mbmZQU21FRkJ1Nm1sZzYtbkpmRXptQTZqNmU0b0NLbVlCYjhXRm95T2xYVzA0THhlZ09RMmx2UTBMdk1wZmhIU2ZhWHVFa1MxWk1GQ1VGdzUyVjd0T2RucWJQWmUtcUpwcmFfVzVoX3Q1ZzJNNWdyck10ODJ3NkNBOE9YYUNiWk1jMGN0TWFHeGZUSnZVbFVyeHFHdXQ2RHhSWjJB?oc=5",
           "summary": ""
         }
       ]
@@ -172,6 +172,13 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.07.13",
+          "title": "ETFs Investing in Hbx Group International Plc Stocks",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VUHdLaXhxbk5kRDJNVnQ2UGRDR3dMOHF4RjBiMjJwWFNYenAtRkJCRmNZQndiZWVORjFneUdJMTZWSWZpMHFWS25ET2JQbHl6OFRWQXRjVUZZamN6bUx1cFd3?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.04.01",
           "title": "HBX Group acquires full ownership of PerfectStay",
           "source": "Hospitality Net",
@@ -190,13 +197,6 @@
           "title": "Former Virtuoso Executive Una O’Leary Joins HBX Group’s The Luxurist",
           "source": "Travel Market Report",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcWJtc0VaM29QM3k1OUR5eXlfZVlUempKbW5Rc2tucDgxYlI0UUtWM0xWOW11VkMzRkVOa1pCZTBwZS15TXg4bi1SWlJROHlZWmhXcHJfbG1KVzNvU1FXYnpwX05kUU5RM3RUT3I1TmIyZENpOWcxR1FnbmVlcVRWdG5kM2hBLWRORmdaZWg0MDY5NmtYZFlGVkxTczhDdklpaFBocnliMVB3ZFpQdXpSanJLcFJ2bG96dkhaOTZUTk84bzIxMXNN?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.05.13",
-          "title": "HBX Group Acquires Bridgify To Expand Experiences Ecosystem",
-          "source": "Pulse 2.0",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkRxYXJZWDRJTmlrZHNaZFVpd0ctZGdXUUVrRGstaENUYk1PQ2dxVmlyY0oxb2RLdnFiMkg4b3pDNjlsbTEzc3RKb2FOM0h5Z1k3b01TVHhNd0FqSVFLaUc5VFRtTTdjcVFtZXpIRWpaRV8zdHZjay1EejRqY3NFMjdIMWN5QdIBiwFBVV95cUxQODM2OVpwVkR1Y053dkRUR3dya3ZoeEF5V29BaVVvN09pZzE1QkM5OFl5cnB5RUJOYkIzUzhPb3NkWXdvWS1jbVY2NXpIYjFMZlNPQzdLLXdKQlJ5WmhOWWxDejVrRHBSSGtrVkw2VHJUOE5SamRwU0JCeFU5ei1JeTFscEh0bERVNTlj?oc=5",
           "summary": ""
         }
       ]
