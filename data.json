@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-14T23:58:49+00:00",
+  "generated_at_utc": "2026-07-16T00:04:46+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,6 +42,13 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.07.15",
+          "title": "Web Travel Group (ASX:WEB) Holds Investors' Attention Amid Long-Term Share Price Weakness",
+          "source": "Kalkine",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVRJQmc3Q0YtN1lhRXVPSVA3cWg4X2hiVmlyQXpCb0J2eDVNZDVwUnhublkyUFE1Smw5d3BuWDNpRzF4YlU5bXFnQm4tUGljWU1mWGpMLWU1ZHVfODM4cUkybGV2SkI5X1I3OXE1V29sRVgxaTB3TVYzSFZsMWNRclZPOHQ2YUNtTzJZeHZFQTU1Z0MtNkJlRHZLbnR6LVpKSVRQT1NGZi1YakNldEhuVThNeFY0MlpLOGhrTC1BSQ?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.05.27",
           "title": "Web Travel Group Delivers Solid Results, Despite Middle East Uncertainty",
           "source": "Morningstar",
@@ -60,13 +67,6 @@
           "title": "Statutory Profit Doesn't Reflect How Good Web Travel Group's (ASX:WEB) Earnings Are",
           "source": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTl1NUNGd25qM3dGdlhoUkY1ck1mQmZSNThpYnFib3pvcGNHOVdUOUNvVzhlZlVTRDFFRGxLWTJLYWRQMHRPRVJUVUtLQ0J2X0F3eXBpdHZuejNKYjFiTHN2RVBmN0xtMnh6emh5dFdqb0l2Z3VHVGQzbVFib3k5N1VYTlctVFZvU2VPNUt3YUtnSDBBUHJLVFRhMTlwQm9fb0pz?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.05.29",
-          "title": "WebBeds, Archipelago Hotels to strengthen global distribution",
-          "source": "TTG Asia",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkxIWW5RYktoYVh1aFVNYi13NXFIdkxZWUx3UDNzeG16UTVqR0dKUzc1VW1vd0RfcHJjaXprYTJJbDg4NHVJUElFZkp4WlNHbkp6aG10RklrSXNvQTM2QXRwMHFGaVNOREgwSUxwZDZSMUFGcjVlcWlndWpZanFmSi1zSER1cG9wdEF4QXN5RXpLbFZqN1BYSzV2SEk?oc=5",
           "summary": ""
         }
       ]
@@ -108,16 +108,16 @@
       "news": [
         {
           "date": "2026.07.13",
-          "title": "Early Backer Augusta TBO Sells 2.04% Stake In TBO Tek",
-          "source": "Inc42",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmtnaDBUTkdNd0p2QnhIOHlHUlNoUlZwd2ZldnMyTWlQWThOWER4Q0FmV0p2bzgxTFdiYjMzaVliYWZJMUVBRHoya2xKUnNYSHo0MmFTWHRlcXoweG9IQ1kwTG1raE1tQTc0WEJpd2tYMXM4ZTBIS2xlR0lTdVA1MWNB?oc=5",
+          "title": "Augusta TBO offloads 2% stake in TBO Tek for Rs 327 Cr",
+          "source": "Entrackr",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRml5TWF3MFh4Z1dwWlJnVElaMURMVkFSZ2w2RmcxZi1mcWFWRW5mbVpiM2JfTmd4amc5ZHJhd2ctbjhZWnFmY2dnNnMweEtjLUZXaWtLMmtSQ1RFbWNFVVo5ZG41ZVJuNWxzekJFcHoxRlQyNHp2aS11TGdjWm9nLU1Dd3pYUUF4LVZWWFo1XzV5QdIBkgFBVV95cUxPRml5TWF3MFh4Z1dwWlJnVElaMURMVkFSZ2w2RmcxZi1mcWFWRW5mbVpiM2JfTmd4amc5ZHJhd2ctbjhZWnFmY2dnNnMweEtjLUZXaWtLMmtSQ1RFbWNFVVo5ZG41ZVJuNWxzekJFcHoxRlQyNHp2aS11TGdjWm9nLU1Dd3pYUUF4LVZWWFo1XzV5QQ?oc=5",
           "summary": ""
         },
         {
           "date": "2026.07.13",
-          "title": "Augusta TBO offloads 2% stake in TBO Tek for Rs 327 Cr",
-          "source": "Entrackr",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRml5TWF3MFh4Z1dwWlJnVElaMURMVkFSZ2w2RmcxZi1mcWFWRW5mbVpiM2JfTmd4amc5ZHJhd2ctbjhZWnFmY2dnNnMweEtjLUZXaWtLMmtSQ1RFbWNFVVo5ZG41ZVJuNWxzekJFcHoxRlQyNHp2aS11TGdjWm9nLU1Dd3pYUUF4LVZWWFo1XzV5QdIBkgFBVV95cUxPRml5TWF3MFh4Z1dwWlJnVElaMURMVkFSZ2w2RmcxZi1mcWFWRW5mbVpiM2JfTmd4amc5ZHJhd2ctbjhZWnFmY2dnNnMweEtjLUZXaWtLMmtSQ1RFbWNFVVo5ZG41ZVJuNWxzekJFcHoxRlQyNHp2aS11TGdjWm9nLU1Dd3pYUUF4LVZWWFo1XzV5QQ?oc=5",
+          "title": "Early Backer Augusta TBO Sells 2.04% Stake In TBO Tek",
+          "source": "Inc42",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmtnaDBUTkdNd0p2QnhIOHlHUlNoUlZwd2ZldnMyTWlQWThOWER4Q0FmV0p2bzgxTFdiYjMzaVliYWZJMUVBRHoya2xKUnNYSHo0MmFTWHRlcXoweG9IQ1kwTG1raE1tQTc0WEJpd2tYMXM4ZTBIS2xlR0lTdVA1MWNB?oc=5",
           "summary": ""
         },
         {
