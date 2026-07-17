@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-16T00:04:46+00:00",
+  "generated_at_utc": "2026-07-17T00:04:18+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,13 +42,6 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.07.15",
-          "title": "Web Travel Group (ASX:WEB) Holds Investors' Attention Amid Long-Term Share Price Weakness",
-          "source": "Kalkine",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVRJQmc3Q0YtN1lhRXVPSVA3cWg4X2hiVmlyQXpCb0J2eDVNZDVwUnhublkyUFE1Smw5d3BuWDNpRzF4YlU5bXFnQm4tUGljWU1mWGpMLWU1ZHVfODM4cUkybGV2SkI5X1I3OXE1V29sRVgxaTB3TVYzSFZsMWNRclZPOHQ2YUNtTzJZeHZFQTU1Z0MtNkJlRHZLbnR6LVpKSVRQT1NGZi1YakNldEhuVThNeFY0MlpLOGhrTC1BSQ?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.05.27",
           "title": "Web Travel Group Delivers Solid Results, Despite Middle East Uncertainty",
           "source": "Morningstar",
@@ -67,6 +60,13 @@
           "title": "Statutory Profit Doesn't Reflect How Good Web Travel Group's (ASX:WEB) Earnings Are",
           "source": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTl1NUNGd25qM3dGdlhoUkY1ck1mQmZSNThpYnFib3pvcGNHOVdUOUNvVzhlZlVTRDFFRGxLWTJLYWRQMHRPRVJUVUtLQ0J2X0F3eXBpdHZuejNKYjFiTHN2RVBmN0xtMnh6emh5dFdqb0l2Z3VHVGQzbVFib3k5N1VYTlctVFZvU2VPNUt3YUtnSDBBUHJLVFRhMTlwQm9fb0pz?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.07.15",
+          "title": "Web Travel Group (ASX:WEB) Holds Investors' Attention Amid Long-Term Share Price Weakness",
+          "source": "Kalkine",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVRJQmc3Q0YtN1lhRXVPSVA3cWg4X2hiVmlyQXpCb0J2eDVNZDVwUnhublkyUFE1Smw5d3BuWDNpRzF4YlU5bXFnQm4tUGljWU1mWGpMLWU1ZHVfODM4cUkybGV2SkI5X1I3OXE1V29sRVgxaTB3TVYzSFZsMWNRclZPOHQ2YUNtTzJZeHZFQTU1Z0MtNkJlRHZLbnR6LVpKSVRQT1NGZi1YakNldEhuVThNeFY0MlpLOGhrTC1BSQ?oc=5",
           "summary": ""
         }
       ]
@@ -172,13 +172,6 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.07.13",
-          "title": "ETFs Investing in Hbx Group International Plc Stocks",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VUHdLaXhxbk5kRDJNVnQ2UGRDR3dMOHF4RjBiMjJwWFNYenAtRkJCRmNZQndiZWVORjFneUdJMTZWSWZpMHFWS25ET2JQbHl6OFRWQXRjVUZZamN6bUx1cFd3?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.04.01",
           "title": "HBX Group acquires full ownership of PerfectStay",
           "source": "Hospitality Net",
@@ -190,6 +183,13 @@
           "title": "HBX GROUP ANNOUNCES HALF YEAR 2026 FINANCIAL RESULTS",
           "source": "PR Newswire",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0dzVG5rRnM0b0lWTmJFbEpqMzV2TE9TejdDcm5vSnBjX0VPRkRDUGRuYzcxZHJ6SnhadnRKYnlfXzJ5S3BTZFczNk1ybUZOSkRQT3ZyckwxZ1dES0J5RDUzbUxRSUtvTmNmRHlWczc3bTFRaUpBWkhmZ0xhbmo2QXZSX1NTbVBVcFhLSDFrZTgyazQ0aDFOUkFpRGttT1Y0d3hDc0l1SkpiaS1N?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.04.08",
+          "title": "Hotelbeds Group Number of Employees 2026 | Employee Count & Headcount Data",
+          "source": "Revelio Labs",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TamR4VFVMNEJKV3ZJSUo4YV9ZSUJZY25nb2ZpWndBcDFxZzFINWw1NjdnVjdhZXdIR0dWN2dWT3NOdDVoUUNBWEtuczBrSXg4Q1VTbzhBS2NweE9WNHFSMmhaZ1kyaGwxWVlhMUxXOEpUUQ?oc=5",
           "summary": ""
         },
         {
