@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-18T23:59:41+00:00",
+  "generated_at_utc": "2026-07-20T02:57:58+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,6 +42,13 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.07.19",
+          "title": "Web Travel Group Stock Leads 3 Tourism Picks Tied To Rising Travel Demand",
+          "source": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUzhpa1V6M0hsZGlEN2dIbnI2RXY1QjZBUFpUTDhqY3ZaWlFYRS1xcDZfWGVuQk9SNlVYeW9OdTFXdldvNGMySTdjeXhjaTUxRC1FWDJlWnQxM2x6cERsU2M0TTNGdml6UTgyaWJ3ZWI5cjlYN1BRN1IzQkxFS3p0bTlmQWJNN1VLeU1ZSkgtV1JWZU5tLXRtUnd0bUdQQ3V1bExyQ3AyUzR5eHJRYjh4UDlCcWZ6S2NaUWJCaFpjRG9HOU1Ua3hwMHUtLTljcEtzZjVfUTNhNGNtSUUyb1JOb1dSVGxlVEU0MndjVkJ30gHzAUFVX3lxTFByMzd4Wjc5QzBpM2x6RnZPUExlMmRTYl95VkE0d0tWYW1LRTdNd1JRNzJDNkJFdmc2QUJQNGl3d3VCVDRlQjRaOXNKaDZYbmtvUzZnR2w2TVFuOXVEeDhBVXA5WlNsLWZsR21HbHpXVENwa1hxWVhkNzNKcEY4dlVsQWFyU1JuWWFiaUZ5RkRrcFVtYmh4TVMybW82VE5qOVBJcEtTSmdXRlNXRnVaeDZjbnV0UnRadk1DaWJGQ0ZmZDB0VVc3TUtNRFNUMEtHaGdoLW5rSXY2NlBfZGNHNmk2eDhtS0lUMVpWOE1aZDhQbW1oRQ?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.05.27",
           "title": "Web Travel Group Delivers Solid Results, Despite Middle East Uncertainty",
           "source": "Morningstar",
@@ -60,13 +67,6 @@
           "title": "Statutory Profit Doesn't Reflect How Good Web Travel Group's (ASX:WEB) Earnings Are",
           "source": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTl1NUNGd25qM3dGdlhoUkY1ck1mQmZSNThpYnFib3pvcGNHOVdUOUNvVzhlZlVTRDFFRGxLWTJLYWRQMHRPRVJUVUtLQ0J2X0F3eXBpdHZuejNKYjFiTHN2RVBmN0xtMnh6emh5dFdqb0l2Z3VHVGQzbVFib3k5N1VYTlctVFZvU2VPNUt3YUtnSDBBUHJLVFRhMTlwQm9fb0pz?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.07.15",
-          "title": "Web Travel Group (ASX:WEB) Holds Investors' Attention Amid Long-Term Share Price Weakness",
-          "source": "Kalkine",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVRJQmc3Q0YtN1lhRXVPSVA3cWg4X2hiVmlyQXpCb0J2eDVNZDVwUnhublkyUFE1Smw5d3BuWDNpRzF4YlU5bXFnQm4tUGljWU1mWGpMLWU1ZHVfODM4cUkybGV2SkI5X1I3OXE1V29sRVgxaTB3TVYzSFZsMWNRclZPOHQ2YUNtTzJZeHZFQTU1Z0MtNkJlRHZLbnR6LVpKSVRQT1NGZi1YakNldEhuVThNeFY0MlpLOGhrTC1BSQ?oc=5",
           "summary": ""
         }
       ]
@@ -128,10 +128,10 @@
           "summary": ""
         },
         {
-          "date": "2026.07.13",
-          "title": "Augusta TBO reduces stake in TBO Tek to 3.5%",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUdYQjU3aUs4U2tMYldOWFJhMDNZcGU1UElCakhZZVdwbVNxODd3RndIb3NFREpVSl9IdGE1QWR1OXVmZTdpMDJSa0ZVQUlCV3kwZ3VQZTIySE5tSFhLU0txS0pjQ2g5NmUzaWJtQlFEc0NBTjM2VlNfQjl1QUZDSU9zSzFrb2c0VzhoSG1yQXVMVXE4czJLVnpzN2o3eVVJZEE?oc=5",
+          "date": "2026.02.23",
+          "title": "TBO Tek appoints Aditi Madhok-Naarden as Global CHRO",
+          "source": "People Matters Global",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWF4T1Q1bjhSYVlNRC1mbmZQU21FRkJ1Nm1sZzYtbkpmRXptQTZqNmU0b0NLbVlCYjhXRm95T2xYVzA0THhlZ09RMmx2UTBMdk1wZmhIU2ZhWHVFa1MxWk1GQ1VGdzUyVjd0T2RucWJQWmUtcUpwcmFfVzVoX3Q1ZzJNNWdyck10ODJ3NkNBOE9YYUNiWk1jMGN0TWFHeGZUSnZVbFVyeHFHdXQ2RHhSWjJB?oc=5",
           "summary": ""
         }
       ]
@@ -193,10 +193,10 @@
           "summary": ""
         },
         {
-          "date": "2026.04.20",
-          "title": "Former Virtuoso Executive Una O’Leary Joins HBX Group’s The Luxurist",
-          "source": "Travel Market Report",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcWJtc0VaM29QM3k1OUR5eXlfZVlUempKbW5Rc2tucDgxYlI0UUtWM0xWOW11VkMzRkVOa1pCZTBwZS15TXg4bi1SWlJROHlZWmhXcHJfbG1KVzNvU1FXYnpwX05kUU5RM3RUT3I1TmIyZENpOWcxR1FnbmVlcVRWdG5kM2hBLWRORmdaZWg0MDY5NmtYZFlGVkxTczhDdklpaFBocnliMVB3ZFpQdXpSanJLcFJ2bG96dkhaOTZUTk84bzIxMXNN?oc=5",
+          "date": "2026.05.13",
+          "title": "HBX Group Acquires Bridgify To Expand Experiences Ecosystem",
+          "source": "Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkRxYXJZWDRJTmlrZHNaZFVpd0ctZGdXUUVrRGstaENUYk1PQ2dxVmlyY0oxb2RLdnFiMkg4b3pDNjlsbTEzc3RKb2FOM0h5Z1k3b01TVHhNd0FqSVFLaUc5VFRtTTdjcVFtZXpIRWpaRV8zdHZjay1EejRqY3NFMjdIMWN5QdIBiwFBVV95cUxQODM2OVpwVkR1Y053dkRUR3dya3ZoeEF5V29BaVVvN09pZzE1QkM5OFl5cnB5RUJOYkIzUzhPb3NkWXdvWS1jbVY2NXpIYjFMZlNPQzdLLXdKQlJ5WmhOWWxDejVrRHBSSGtrVkw2VHJUOE5SamRwU0JCeFU5ei1JeTFscEh0bERVNTlj?oc=5",
           "summary": ""
         }
       ]
