@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-21T00:03:03+00:00",
+  "generated_at_utc": "2026-07-21T23:59:52+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,17 +42,17 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.07.21",
+          "title": "UBS Group AG Ceases Substantial Shareholding in Web Travel Group Limited",
+          "source": "Kalkine",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzRoZnVCWDBGYkxsRkVrM2FCTlBVYWdSazBrYWRHSlFRWEFPNmh6TnVzME9PYzNPUWtoQmpGcDB5ZFJpUUJaN19xWmtWVlFJUkQ4Vmc5dHdDLTI2NTFPakxiaHlybDlrSHZGMFo0ZmRVOTYwbWcxbHBqc1ZwNWxJMjg1NTBkaTdmQ3BtdFc3V1ZjUFo5ZEhvX2VFdk9LN0NrZ1ZQaG9WekNNOWlldmZKZmd6VHc?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.07.19",
           "title": "Web Travel Group Stock Leads 3 Tourism Picks Tied To Rising Travel Demand",
           "source": "simplywall.st",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUzhpa1V6M0hsZGlEN2dIbnI2RXY1QjZBUFpUTDhqY3ZaWlFYRS1xcDZfWGVuQk9SNlVYeW9OdTFXdldvNGMySTdjeXhjaTUxRC1FWDJlWnQxM2x6cERsU2M0TTNGdml6UTgyaWJ3ZWI5cjlYN1BRN1IzQkxFS3p0bTlmQWJNN1VLeU1ZSkgtV1JWZU5tLXRtUnd0bUdQQ3V1bExyQ3AyUzR5eHJRYjh4UDlCcWZ6S2NaUWJCaFpjRG9HOU1Ua3hwMHUtLTljcEtzZjVfUTNhNGNtSUUyb1JOb1dSVGxlVEU0MndjVkJ30gHzAUFVX3lxTFByMzd4Wjc5QzBpM2x6RnZPUExlMmRTYl95VkE0d0tWYW1LRTdNd1JRNzJDNkJFdmc2QUJQNGl3d3VCVDRlQjRaOXNKaDZYbmtvUzZnR2w2TVFuOXVEeDhBVXA5WlNsLWZsR21HbHpXVENwa1hxWVhkNzNKcEY4dlVsQWFyU1JuWWFiaUZ5RkRrcFVtYmh4TVMybW82VE5qOVBJcEtTSmdXRlNXRnVaeDZjbnV0UnRadk1DaWJGQ0ZmZDB0VVc3TUtNRFNUMEtHaGdoLW5rSXY2NlBfZGNHNmk2eDhtS0lUMVpWOE1aZDhQbW1oRQ?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.05.27",
-          "title": "Web Travel Group Delivers Solid Results, Despite Middle East Uncertainty",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ052N054Y1MzWjlsMGd1UUpjbEFNd29rcS1DOTBXRWF3bnVpNG9tLUNZM25ZMGFBbHNsM05PUWVlLXliOGdmdkxha3B2SmhrMWZfQkpEZmNfaTFjcUl0NzRmb0xKWThzQzBCVEpyVThKeS1UcWxiZGpEd0lUd1ZRaTNxN1ZEaVN4dGRfbzRMMHZmTVc0Zms4TUR1Q1loUjFSSjl0OENjbmNyeHkwSElCckplU0RpLUlfYW0tUFJod0w?oc=5",
           "summary": ""
         },
         {
@@ -63,10 +63,10 @@
           "summary": ""
         },
         {
-          "date": "2026.07.20",
-          "title": "WEB Travel Group (ASX:WEB) Loses Altitude — B2B Travel Platform Under Market Scrutiny",
-          "source": "Kalkine",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN0VLTE8xZjVFWGc3ajhVWlZOamVOSHY1aXFRZzhSMG9odnRwZDRfbWxLYlpaWGxvR1gtb0RHeVZkdHB3NlA2QTdzR0F1TkZDMEt3SVpMaWRtMnl3MVpUVHFrWEVWUmE3R2hwSVBPZDNvOEJ3WlFxNjBJeXFvdVIxN3NCQVNEVlJZT1o3OEFQbEJBT3JlUGpEUUl6enlqZFZFeE9WcWl6cFFack9kSFhDV0xfcWEyR2pETXFn?oc=5",
+          "date": "2026.06.02",
+          "title": "Statutory Profit Doesn't Reflect How Good Web Travel Group's (ASX:WEB) Earnings Are",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTl1NUNGd25qM3dGdlhoUkY1ck1mQmZSNThpYnFib3pvcGNHOVdUOUNvVzhlZlVTRDFFRGxLWTJLYWRQMHRPRVJUVUtLQ0J2X0F3eXBpdHZuejNKYjFiTHN2RVBmN0xtMnh6emh5dFdqb0l2Z3VHVGQzbVFib3k5N1VYTlctVFZvU2VPNUt3YUtnSDBBUHJLVFRhMTlwQm9fb0pz?oc=5",
           "summary": ""
         }
       ]
@@ -114,13 +114,6 @@
           "summary": ""
         },
         {
-          "date": "2026.07.13",
-          "title": "Early Backer Augusta TBO Sells 2.04% Stake In TBO Tek",
-          "source": "Inc42",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmtnaDBUTkdNd0p2QnhIOHlHUlNoUlZwd2ZldnMyTWlQWThOWER4Q0FmV0p2bzgxTFdiYjMzaVliYWZJMUVBRHoya2xKUnNYSHo0MmFTWHRlcXoweG9IQ1kwTG1raE1tQTc0WEJpd2tYMXM4ZTBIS2xlR0lTdVA1MWNB?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.02.11",
           "title": "TBO’s North America Deal Begins to Show Up in the Numbers",
           "source": "Skift",
@@ -132,6 +125,13 @@
           "title": "TBO Tek appoints Aditi Madhok-Naarden as Global CHRO",
           "source": "People Matters Global",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWF4T1Q1bjhSYVlNRC1mbmZQU21FRkJ1Nm1sZzYtbkpmRXptQTZqNmU0b0NLbVlCYjhXRm95T2xYVzA0THhlZ09RMmx2UTBMdk1wZmhIU2ZhWHVFa1MxWk1GQ1VGdzUyVjd0T2RucWJQWmUtcUpwcmFfVzVoX3Q1ZzJNNWdyck10ODJ3NkNBOE9YYUNiWk1jMGN0TWFHeGZUSnZVbFVyeHFHdXQ2RHhSWjJB?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.02.24",
+          "title": "TBO Names Aditi Madhok-Naarden as Global Chief Human Resources Officer",
+          "source": "Travel Market Report",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVXp4dU1Ia3F4anZHdUlnTFpZQTZGOHBQZ09ZcDVYYk51ZlVoQ1M5ZUZQbFV1X3NvcnM3czJhOC1nVVBqSjJPQ21RR0wxNVdFb18ydkQ1OTBqS2s5dnRMS1NvMC1tcmhNdHlaWWt5M2l0SnhGekVJTTRKdFg3cmk2dnJzUnAybEp6THdEeTBENGg4dEQxM0RIUi0wbGx1NUNQMU5NeDJNTmlNVWdWVXUyNnp3UUFLODFIY0V1MjRZMVZ3TWJwSTNmUQ?oc=5",
           "summary": ""
         }
       ]
