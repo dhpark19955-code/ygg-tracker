@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-21T23:59:52+00:00",
+  "generated_at_utc": "2026-07-23T00:07:55+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,17 +42,10 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.07.21",
-          "title": "UBS Group AG Ceases Substantial Shareholding in Web Travel Group Limited",
-          "source": "Kalkine",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzRoZnVCWDBGYkxsRkVrM2FCTlBVYWdSazBrYWRHSlFRWEFPNmh6TnVzME9PYzNPUWtoQmpGcDB5ZFJpUUJaN19xWmtWVlFJUkQ4Vmc5dHdDLTI2NTFPakxiaHlybDlrSHZGMFo0ZmRVOTYwbWcxbHBqc1ZwNWxJMjg1NTBkaTdmQ3BtdFc3V1ZjUFo5ZEhvX2VFdk9LN0NrZ1ZQaG9WekNNOWlldmZKZmd6VHc?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.07.19",
-          "title": "Web Travel Group Stock Leads 3 Tourism Picks Tied To Rising Travel Demand",
-          "source": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUzhpa1V6M0hsZGlEN2dIbnI2RXY1QjZBUFpUTDhqY3ZaWlFYRS1xcDZfWGVuQk9SNlVYeW9OdTFXdldvNGMySTdjeXhjaTUxRC1FWDJlWnQxM2x6cERsU2M0TTNGdml6UTgyaWJ3ZWI5cjlYN1BRN1IzQkxFS3p0bTlmQWJNN1VLeU1ZSkgtV1JWZU5tLXRtUnd0bUdQQ3V1bExyQ3AyUzR5eHJRYjh4UDlCcWZ6S2NaUWJCaFpjRG9HOU1Ua3hwMHUtLTljcEtzZjVfUTNhNGNtSUUyb1JOb1dSVGxlVEU0MndjVkJ30gHzAUFVX3lxTFByMzd4Wjc5QzBpM2x6RnZPUExlMmRTYl95VkE0d0tWYW1LRTdNd1JRNzJDNkJFdmc2QUJQNGl3d3VCVDRlQjRaOXNKaDZYbmtvUzZnR2w2TVFuOXVEeDhBVXA5WlNsLWZsR21HbHpXVENwa1hxWVhkNzNKcEY4dlVsQWFyU1JuWWFiaUZ5RkRrcFVtYmh4TVMybW82VE5qOVBJcEtTSmdXRlNXRnVaeDZjbnV0UnRadk1DaWJGQ0ZmZDB0VVc3TUtNRFNUMEtHaGdoLW5rSXY2NlBfZGNHNmk2eDhtS0lUMVpWOE1aZDhQbW1oRQ?oc=5",
+          "date": "2026.07.22",
+          "title": "WEB Travel Group (WEB) Q4 2024 Earnings Report - Results, Call & Slides",
+          "source": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5URmE3a0ZTS1ZyM1dycnN2NTU3OXpxczFWdmlnaFZtQjFEckdpeVg2Y1E3Z3dpOVFIT183RTBZdTR3akd4SnlGd0NFbmJQLWdKQi1EYTBOVG12SGZxd1BQQTA5TEV1czFpQjdxX0pQMA?oc=5",
           "summary": ""
         },
         {
@@ -60,6 +53,13 @@
           "title": "Web Travel Group acquires hotel rebooking platform Pruvo",
           "source": "PhocusWire",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSzhqUzVfWlNGRmNNemlzQzZzSW5UanNISkxJTHJBRmh6U29HLTlFRURzY1BORkNSNVUtQVFqdm9vOFdELUpCbmgtLXkwREtzbFIxUjJXSml5MkIyM3lqZTBMVVZRU1NHVEsxTWVqNmdCa3NCOTM4UFNQXzdSYjA4bGxmc1hGSDhnYmIw?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.07.19",
+          "title": "Web Travel Group Stock Leads 3 Tourism Picks Tied To Rising Travel Demand",
+          "source": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUzhpa1V6M0hsZGlEN2dIbnI2RXY1QjZBUFpUTDhqY3ZaWlFYRS1xcDZfWGVuQk9SNlVYeW9OdTFXdldvNGMySTdjeXhjaTUxRC1FWDJlWnQxM2x6cERsU2M0TTNGdml6UTgyaWJ3ZWI5cjlYN1BRN1IzQkxFS3p0bTlmQWJNN1VLeU1ZSkgtV1JWZU5tLXRtUnd0bUdQQ3V1bExyQ3AyUzR5eHJRYjh4UDlCcWZ6S2NaUWJCaFpjRG9HOU1Ua3hwMHUtLTljcEtzZjVfUTNhNGNtSUUyb1JOb1dSVGxlVEU0MndjVkJ30gHzAUFVX3lxTFByMzd4Wjc5QzBpM2x6RnZPUExlMmRTYl95VkE0d0tWYW1LRTdNd1JRNzJDNkJFdmc2QUJQNGl3d3VCVDRlQjRaOXNKaDZYbmtvUzZnR2w2TVFuOXVEeDhBVXA5WlNsLWZsR21HbHpXVENwa1hxWVhkNzNKcEY4dlVsQWFyU1JuWWFiaUZ5RkRrcFVtYmh4TVMybW82VE5qOVBJcEtTSmdXRlNXRnVaeDZjbnV0UnRadk1DaWJGQ0ZmZDB0VVc3TUtNRFNUMEtHaGdoLW5rSXY2NlBfZGNHNmk2eDhtS0lUMVpWOE1aZDhQbW1oRQ?oc=5",
           "summary": ""
         },
         {
@@ -107,6 +107,13 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.07.22",
+          "title": "TBO Tek to host Q1 FY27 earnings call on July 30",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY21IZjc3c2tqa3FJanBqeFFDelFURW92elpNQmpiRGhBcldUUUFLSXJ2d2FpVl8tdG8wV1VsdjhScm1UNVJ4TzVPXzkyQmQzNXIwSEVGb3JDS0JOeUdveThhWmk3YUg0SjZTS3J1U3FRb1BlcTFNcnNZdTE3QnFDcUN2TGJ0RTRaQWVkMlZCMzdXLWFIc0tzbXJHZkp0N05TUzBxZ2dQbGs?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.07.13",
           "title": "Augusta TBO offloads 2% stake in TBO Tek for Rs 327 Cr",
           "source": "Entrackr",
@@ -125,13 +132,6 @@
           "title": "TBO Tek appoints Aditi Madhok-Naarden as Global CHRO",
           "source": "People Matters Global",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWF4T1Q1bjhSYVlNRC1mbmZQU21FRkJ1Nm1sZzYtbkpmRXptQTZqNmU0b0NLbVlCYjhXRm95T2xYVzA0THhlZ09RMmx2UTBMdk1wZmhIU2ZhWHVFa1MxWk1GQ1VGdzUyVjd0T2RucWJQWmUtcUpwcmFfVzVoX3Q1ZzJNNWdyck10ODJ3NkNBOE9YYUNiWk1jMGN0TWFHeGZUSnZVbFVyeHFHdXQ2RHhSWjJB?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.02.24",
-          "title": "TBO Names Aditi Madhok-Naarden as Global Chief Human Resources Officer",
-          "source": "Travel Market Report",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVXp4dU1Ia3F4anZHdUlnTFpZQTZGOHBQZ09ZcDVYYk51ZlVoQ1M5ZUZQbFV1X3NvcnM3czJhOC1nVVBqSjJPQ21RR0wxNVdFb18ydkQ1OTBqS2s5dnRMS1NvMC1tcmhNdHlaWWt5M2l0SnhGekVJTTRKdFg3cmk2dnJzUnAybEp6THdEeTBENGg4dEQxM0RIUi0wbGx1NUNQMU5NeDJNTmlNVWdWVXUyNnp3UUFLODFIY0V1MjRZMVZ3TWJwSTNmUQ?oc=5",
           "summary": ""
         }
       ]
@@ -172,6 +172,13 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.07.22",
+          "title": "Puerto Vallarta Hosts LGBTQ+ HBX Group Travel Advisors",
+          "source": "Out & About Puerto Vallarta",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazJkU0g3S1JhU3g4WDl2ZXhSMko4aTU3c3FMVUJaSjlxOHBMMnpOajBtWjduYUlJelhPQkNMTTE5WEF3dlNXYmhRSlVZbEdXM1VLOFJObUktOC1kcDBQWmtuOWFOdWpDaGZFTHg2Umh6dFBxMzFHV3hEenlxOFROeTFTMXZFUlk?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.04.01",
           "title": "HBX Group acquires full ownership of PerfectStay",
           "source": "Hospitality Net",
@@ -190,13 +197,6 @@
           "title": "Hotelbeds Group Number of Employees 2026 | Employee Count & Headcount Data",
           "source": "Revelio Labs",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TamR4VFVMNEJKV3ZJSUo4YV9ZSUJZY25nb2ZpWndBcDFxZzFINWw1NjdnVjdhZXdIR0dWN2dWT3NOdDVoUUNBWEtuczBrSXg4Q1VTbzhBS2NweE9WNHFSMmhaZ1kyaGwxWVlhMUxXOEpUUQ?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.05.13",
-          "title": "HBX Group Acquires Bridgify To Expand Experiences Ecosystem",
-          "source": "Pulse 2.0",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkRxYXJZWDRJTmlrZHNaZFVpd0ctZGdXUUVrRGstaENUYk1PQ2dxVmlyY0oxb2RLdnFiMkg4b3pDNjlsbTEzc3RKb2FOM0h5Z1k3b01TVHhNd0FqSVFLaUc5VFRtTTdjcVFtZXpIRWpaRV8zdHZjay1EejRqY3NFMjdIMWN5QdIBiwFBVV95cUxQODM2OVpwVkR1Y053dkRUR3dya3ZoeEF5V29BaVVvN09pZzE1QkM5OFl5cnB5RUJOYkIzUzhPb3NkWXdvWS1jbVY2NXpIYjFMZlNPQzdLLXdKQlJ5WmhOWWxDejVrRHBSSGtrVkw2VHJUOE5SamRwU0JCeFU5ei1JeTFscEh0bERVNTlj?oc=5",
           "summary": ""
         }
       ]
