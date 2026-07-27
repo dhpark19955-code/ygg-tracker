@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-26T00:06:23+00:00",
+  "generated_at_utc": "2026-07-27T00:07:50+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -40,36 +40,7 @@
         ]
       },
       "usd_market_cap": null,
-      "news": [
-        {
-          "date": "2026.07.24",
-          "title": "WEB Travel Group limited Revenue Breakdown – LS:911549",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qSTJQaVlkVUhfZm9KaTZNRmNDRFY2YmVoRDFTQndMSkpIem80M0hxcXR5LUtKZC0weXV2YjBlNkk0S29YbkRYZ3J3Tlp2M2dHOW5qb19OXzJoMkM1SkJpUkZPQUoxYTRGY3pGUUZMRnMwWktm?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.05.27",
-          "title": "Web Travel Group Delivers Solid Results, Despite Middle East Uncertainty",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ052N054Y1MzWjlsMGd1UUpjbEFNd29rcS1DOTBXRWF3bnVpNG9tLUNZM25ZMGFBbHNsM05PUWVlLXliOGdmdkxha3B2SmhrMWZfQkpEZmNfaTFjcUl0NzRmb0xKWThzQzBCVEpyVThKeS1UcWxiZGpEd0lUd1ZRaTNxN1ZEaVN4dGRfbzRMMHZmTVc0Zms4TUR1Q1loUjFSSjl0OENjbmNyeHkwSElCckplU0RpLUlfYW0tUFJod0w?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.06.02",
-          "title": "Web Travel Group acquires hotel rebooking platform Pruvo",
-          "source": "PhocusWire",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSzhqUzVfWlNGRmNNemlzQzZzSW5UanNISkxJTHJBRmh6U29HLTlFRURzY1BORkNSNVUtQVFqdm9vOFdELUpCbmgtLXkwREtzbFIxUjJXSml5MkIyM3lqZTBMVVZRU1NHVEsxTWVqNmdCa3NCOTM4UFNQXzdSYjA4bGxmc1hGSDhnYmIw?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.06.02",
-          "title": "Statutory Profit Doesn't Reflect How Good Web Travel Group's (ASX:WEB) Earnings Are",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTl1NUNGd25qM3dGdlhoUkY1ck1mQmZSNThpYnFib3pvcGNHOVdUOUNvVzhlZlVTRDFFRGxLWTJLYWRQMHRPRVJUVUtLQ0J2X0F3eXBpdHZuejNKYjFiTHN2RVBmN0xtMnh6emh5dFdqb0l2Z3VHVGQzbVFib3k5N1VYTlctVFZvU2VPNUt3YUtnSDBBUHJLVFRhMTlwQm9fb0pz?oc=5",
-          "summary": ""
-        }
-      ]
+      "news": []
     },
     "TBO": {
       "name": "TBO Tek",
@@ -105,36 +76,7 @@
         ]
       },
       "usd_market_cap": null,
-      "news": [
-        {
-          "date": "2026.07.24",
-          "title": "TBO Tek Ltd. Revenue Breakdown – NSE:TBOTEK",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50MkJ4TGJGcVg2ODlYS0txcGwzam8xc19xbDF1YlpDeEI5WWZjMGRWaUk1MWJuUTZkc0laV2d1MEJiOWh3clE0bEZ2S21icTdrSjhYUkFGdjFTRGMyZm1rOGhnMjl5VDlDZFBrdmIwdGpBdnJ1bGc?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.07.22",
-          "title": "TBO Tek to host Q1 FY27 earnings call on July 30",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY21IZjc3c2tqa3FJanBqeFFDelFURW92elpNQmpiRGhBcldUUUFLSXJ2d2FpVl8tdG8wV1VsdjhScm1UNVJ4TzVPXzkyQmQzNXIwSEVGb3JDS0JOeUdveThhWmk3YUg0SjZTS3J1U3FRb1BlcTFNcnNZdTE3QnFDcUN2TGJ0RTRaQWVkMlZCMzdXLWFIc0tzbXJHZkp0N05TUzBxZ2dQbGs?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.02.11",
-          "title": "TBO’s North America Deal Begins to Show Up in the Numbers",
-          "source": "Skift",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ21qWTBvNnlKUzFzUFRYdVE5Z1BGbGwybFl2d19ocUwyM3JNdzRiWF82amdNa19mYkpfUHdSY2poSi03Wkt2amxvc1JNN1Y2endGVDk1MmZEeWNRdWFNSXhxZGNNUmNnb0xZNmdzU21iQkFSWFVkQldGYWlwWGJVMEZaRE9zT0V1Z21LSXU4Yw?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.02.23",
-          "title": "TBO Tek appoints Aditi Madhok-Naarden as Global CHRO",
-          "source": "People Matters Global",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWF4T1Q1bjhSYVlNRC1mbmZQU21FRkJ1Nm1sZzYtbkpmRXptQTZqNmU0b0NLbVlCYjhXRm95T2xYVzA0THhlZ09RMmx2UTBMdk1wZmhIU2ZhWHVFa1MxWk1GQ1VGdzUyVjd0T2RucWJQWmUtcUpwcmFfVzVoX3Q1ZzJNNWdyck10ODJ3NkNBOE9YYUNiWk1jMGN0TWFHeGZUSnZVbFVyeHFHdXQ2RHhSWjJB?oc=5",
-          "summary": ""
-        }
-      ]
+      "news": []
     },
     "HBX": {
       "name": "HBX Group",
@@ -170,36 +112,7 @@
         ]
       },
       "usd_market_cap": null,
-      "news": [
-        {
-          "date": "2026.07.22",
-          "title": "Puerto Vallarta Hosts LGBTQ+ HBX Group Travel Advisors",
-          "source": "Out & About Puerto Vallarta",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazJkU0g3S1JhU3g4WDl2ZXhSMko4aTU3c3FMVUJaSjlxOHBMMnpOajBtWjduYUlJelhPQkNMTTE5WEF3dlNXYmhRSlVZbEdXM1VLOFJObUktOC1kcDBQWmtuOWFOdWpDaGZFTHg2Umh6dFBxMzFHV3hEenlxOFROeTFTMXZFUlk?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.04.01",
-          "title": "HBX Group acquires full ownership of PerfectStay",
-          "source": "Hospitality Net",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcElKa09fWWQtUHZiZjN0YnZsQ25oRVVXOHllNEN5RTNrOVdXaU1uamswQjFCZE94MlYzdzNKU0V4SnBrbVFia0NGLTRLeUI3enlYN1BPcTRzaUx0b3puV0Fhdi1wY21EX3ROTWxyTUg4WVNpenowTjBfMU14cmgwUWd1cVYzVFprUHRXaW1QZzJjS1hXNWow?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.05.13",
-          "title": "HBX GROUP ANNOUNCES HALF YEAR 2026 FINANCIAL RESULTS",
-          "source": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0dzVG5rRnM0b0lWTmJFbEpqMzV2TE9TejdDcm5vSnBjX0VPRkRDUGRuYzcxZHJ6SnhadnRKYnlfXzJ5S3BTZFczNk1ybUZOSkRQT3ZyckwxZ1dES0J5RDUzbUxRSUtvTmNmRHlWczc3bTFRaUpBWkhmZ0xhbmo2QXZSX1NTbVBVcFhLSDFrZTgyazQ0aDFOUkFpRGttT1Y0d3hDc0l1SkpiaS1N?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.04.08",
-          "title": "Hotelbeds Group Number of Employees 2026 | Employee Count & Headcount Data",
-          "source": "Revelio Labs",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TamR4VFVMNEJKV3ZJSUo4YV9ZSUJZY25nb2ZpWndBcDFxZzFINWw1NjdnVjdhZXdIR0dWN2dWT3NOdDVoUUNBWEtuczBrSXg4Q1VTbzhBS2NweE9WNHFSMmhaZ1kyaGwxWVlhMUxXOEpUUQ?oc=5",
-          "summary": ""
-        }
-      ]
+      "news": []
     }
   },
   "schema_version": 3,
