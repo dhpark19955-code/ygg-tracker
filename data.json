@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-31T00:10:05+00:00",
+  "generated_at_utc": "2026-08-01T00:06:30+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,6 +42,13 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.07.31",
+          "title": "WEB Travel Group limited Revenue Breakdown – BX:WBJ",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DLVRfc2lTenlFVmp5SUxBOWtLd2FXb0VoMF9zdlBxekF2VDJZaUtIUk9ucWFaZVhDUFdGU3RzSmkzdW9ROGJoUFpKZzJsRHI1VlpLRDV3TUNEWFduMGRNSUlkbXl4Z2ZmdGtkeWdyTG4?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.07.30",
           "title": "Web Travel Group (ASX:WEB) Lifted Guidance, Is The Recovery Already Priced In?",
           "source": "Yahoo Finance Singapore",
@@ -49,24 +56,17 @@
           "summary": ""
         },
         {
+          "date": "2026.07.30",
+          "title": "Web Travel Group Ltd",
+          "source": "Google",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnUGJydlN5b3BpS19NYWY2eTczaEJ2NW1wc0k1aVc5ZVgxNkluZjdPcGlpN2FaSE5oYm1LTGdoOGJmTDVaMC1PUnVHczU5ZlUwVXctOFJpZw?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.07.27",
           "title": "Web Travel Group Issues Outlook for First Half of Fiscal 2027; Plans AU$90 Million On-Market Buyback",
           "source": "Moomoo",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDdvZmkwYWt3OXVRelVGVXpwQVR5T3NrUWk4NmoyRDNwQl9TeUF2UWowRzRROWd2NHhoTzZPLVVaMkp5UWRmLXhad0NpSk90QlFpOWdjZmFYb1I1ei1DRU55enpMcVBwYWVIYkdIa2wweEp3Y3NjcG1YOF9VZl9nTUM1a1FYUzZFYUhkOHhqOUNsVVVRc0x1NWsyNGRtTUU?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.07.28",
-          "title": "Web Travel Group Plans AU$90 Million Buyback After Solid H1 Guide",
-          "source": "Finimize",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLVVDZlJaMHJBWVUyWlZTd3lYSXN5SWRsTm5MaFd5blVpVENkMkpvbFd4VjRXbzNndVJZS0NwaDNJdHhZWWw2Rm9MOEFYR0ZYM2VPSEQ2aDdrM0FfZENfbnRWa1FVbzlqc2VRUjBHcXNROUQ5RWFyUkVyWW91Q3Q2bWIwcmxCYWFVTGVtN0lnRG1ndU1uZEN4Tg?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.07.28",
-          "title": "Web Travel Group Limited Provides Earnings Guidance for the Six Months to 30 September 2026",
-          "source": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONEF0d08yZTNOekVQWEFWS1NkUk1sYTlSMWx5TWFXbWpOVzBqSVV5U0V0Yk1YSWJJMzZqZXhCVGVMTklxcFpOeGNnQ2pEdDBoZHhoVnluaU5IRW1DUl9hQ3dfZlNGYTdDeXota2dUYW4yMUxKdXJkVGItSXpIcTdtWjBaS1NHS0g2TlQ4X2IyU2VZUTQ3SjZIWVZuOXBhM1dWRGlQS21BSmN1VEJsakwyVFctMUtpa2wwVEVKblhpb3VWY2NjTE5Pb1hNcU55VjIxNjQyaEVtUUI3V0sz?oc=5",
           "summary": ""
         }
       ]
@@ -108,16 +108,16 @@
       "news": [
         {
           "date": "2026.07.30",
-          "title": "TBO Tek Ltd (NSE:TBOTEK) (Q1 2027) Earnings Call Highlights: Resilient Growth Amid Middle East ...",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMmUwdl9PZjRnaGxuVkxFaEJla1hHUEZ1eDZOdWNoNDJoUVlBcWdwVE9BQVVFZUhTWUJnSTBDa2ZHMVBHR00xeHJVamVweGxMa2xSQmdrNjA3R3VKWjhuUWd5S0xoUUpXRDY5SUU4RlZraEp3ZHlTUXZxbzZFQnFRMUNzQ2QwYVNYLVBJcEV4SDI?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.07.30",
           "title": "Earnings call transcript: TBO Tek misses Q1 2026 estimates as growth holds up",
           "source": "Investing.com",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT0UtcjZpRl9rSVlzYXU1Yy1YWHZIbU5SU1l4MEJZS21HdGRKUDdFZ0pCb3E0Zkt5dWZuMkZqRFI3Wmh4WGhCZ3hKMG5lY3hHUnJRX3h1em1xZWZ0cGhSdjBPUDdYekdTOWVZR29EZnhLSTd6WW85Qi15U0pVUUMtcTJsWEJxZWVPSXhCSHRYVVZ3bGQ5X1JiVmFGMUpHODZBYmJ5RGtPZXp2aXQ1RGVUUUs5UzRCdTY1R0VHT05qNm96SnNrUlZ3UEgwNXYtZDRnb1dmMXZRcw?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.07.31",
+          "title": "Hold TBO Tek; target of Rs 1550: ICICI Securities",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdlIxR05HcW9INm9lWTRkbXVMZU00TjJiVWlFYjE4ZXZxbTREdUg2SmNqS1RoTkNITXhxRGNFUGJqX2JoVFZSdjdNc3ZJMkZuNjZHQkF4M2JtV2N6VzA3WGJucFdOaE9FdzR6MkZQTDdFQjhQaVhZRy1heHROTmJwSFFJbUQ2RkFfUGNsZDlUd0VTRDBQaTFQWFNkVGk4LWVnTFVoOUFpM1RPaExEaVIw?oc=5",
           "summary": ""
         },
         {
@@ -128,10 +128,10 @@
           "summary": ""
         },
         {
-          "date": "2026.07.30",
-          "title": "TBO Tek Ltd posts strong Q1 FY27 performance with early operating leverage driving margin expansion",
-          "source": "ET Hospitality",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUjBRRi1OT3dlNGtVWXJWM0EzSmVuV2FVWlcyeTRaQm5RZTBKa0FiMVpmdTlkQ3dwR1NLXzRkZWxYMFNTS0YxdEthbnpIYUxPTjNUT0JZQmpCSXZnbDFla3pxLXpZbjBwVWJ5bU5PcnY2YjA1SzVvSUJRSnBwYnBBc3J5ODF2THhYdzh4Z1VrYmFXR2pYbUhDS0JyQmNtM2lEQXpsUm5GRlFkZE5XUTNVQ01UMGcxQnphOWsyalBBaWgyR0xfenZxaUZZTG5RNnRZWjhjRmV0V1hZXzA3MFQyLTlSaUd5anMzMXRHczhlT2VSVWlTZDQzZTh4RE1kanM?oc=5",
+          "date": "2026.07.29",
+          "title": "TBO Tek Q1: Profit Surges 32% YoY To ₹83.3 Cr",
+          "source": "Inc42",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX1JVQzNLUGhIc3hkUDJpa2p6Qm5kWUlwcmZ6ZFNNSEF6LU5oQXVpXzg2b2ltaEVtb1ZWdXhuZDJaNVVkSVFaeW10aVBtRURYRm1BcmxPNEZhbVNBSm9ld2YyS21TN2F2MVpYbnA3R0NTOTV1MUFaaVlKeV9NSnBKaA?oc=5",
           "summary": ""
         }
       ]
@@ -186,17 +186,17 @@
           "summary": ""
         },
         {
-          "date": "2026.07.30",
-          "title": "HBX Group appoints Brendan Brennan as Interim Chief Executive Officer",
-          "source": "Travolution",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRFhkdnU0LUQxMzAxY0JLX2RObUQ0RHpjMGtmbmRfeFJ6eWxWY1pPV2NZZzIxaS0xQXlERGhYaERfWmE2WjhtMzVxSjJ3RFFHSEsxdWhFR283azBON2xvMGlYME1xZ2xYOHpGeXFSVTRLSEJWbjkyaV9qbFNIZ0h3M3I1WGNCWldRVmNNWDlQRGU4WE54VFBSdURSMTRrMFNvOHppelpRMVpxckoyQzFZ?oc=5",
+          "date": "2026.07.29",
+          "title": "HBX Group raises guidance on travel recovery",
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaXRSSElJanNEWWlURHNRVGtsSGNTQy1BOTFiTDhXR3dxWVBKTlV6X0t5NGJQS290VGhfVmU3Q0VFRzVzaHduc0ctSU5GNmNOa05IVDZWdVpRTmtxUG9udGE0ZmVndUUwX0FiNEdYNDBMLWhWY2ZiSDJPOFBVX3dpMW5FdUZGNzFLdWwtUzQ4SXJaYi1aVFFyODRfbU9GdDE3d2t3VUstbXpqN21GRVdabDh2cmo?oc=5",
           "summary": ""
         },
         {
           "date": "2026.07.29",
-          "title": "Earnings call transcript: HBX Group posts solid Q3 2026 growth as take rate steadies",
-          "source": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcDl0UWNBZjNpRG11eHl0U1JnRHBZc29jeXN0S0RZcGxNUnFabW5MZHBnamhlYXY2LWFJWUotMjhPRkFtcXBBY2l0NkliaUhra3VMUW9jWDBPSlZJVlN3QzBpUGVGTnVEdk50WDljc3l1N0hPQlhLd295dmdXbHFoeE1TZXRIVkxmSFVKSm42QVljOVZIcU4zX1FZRnZCVkRWR1g2dHVkSnduQW1Xd1RIOGhoSHM5SkVWN0Y1dGkxenFsZGRKR0l6NG9fZ3psU3FvUjlhMnpqSnI1V3dkNUNYWQ?oc=5",
+          "title": "Spanish travel tech firm HBX posts 12% higher transaction value for Q3",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUGU1WENRbWdMRjRsTDFNa0tJYlFjaGFxY1RSbjNtRFRpVDMyYmpjdnhhN19iblZSRWltbzllNlhYY0ViTFRRdE1ma3lHU1JSR2JGWEdUUV9neUFOX1pVeFVBb0dSTWYxcm43OXlfRnRiUGJvVmJCT21ONlFpUzBBYkM4WkhjSFdLZFgyVXFIS2xYZS1iY0JNSEh0ZUQtQnV5Z1BMUDlKVW5ZcFFMMGtn?oc=5",
           "summary": ""
         }
       ]
