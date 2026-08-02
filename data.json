@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-01T00:06:30+00:00",
+  "generated_at_utc": "2026-08-02T00:03:09+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,10 +42,10 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.07.31",
-          "title": "WEB Travel Group limited Revenue Breakdown – BX:WBJ",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DLVRfc2lTenlFVmp5SUxBOWtLd2FXb0VoMF9zdlBxekF2VDJZaUtIUk9ucWFaZVhDUFdGU3RzSmkzdW9ROGJoUFpKZzJsRHI1VlpLRDV3TUNEWFduMGRNSUlkbXl4Z2ZmdGtkeWdyTG4?oc=5",
+          "date": "2026.07.29",
+          "title": "WebBeds Number of Employees 2026 | Employee Count & Headcount Data",
+          "source": "Revelio Labs",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FaDg4Q1hUcXpyRDI1bjhUaFVZcEJBalpYbFowT0JJcUp2T3VGS2szQ1hGU1o1Mi1OQk1zeWRXM1NFS2lJcGVPMEtzal9SYzVCWGlPTEEtRTlhRWEwb2hSbGx2bV9sUQ?oc=5",
           "summary": ""
         },
         {
@@ -56,16 +56,16 @@
           "summary": ""
         },
         {
-          "date": "2026.07.30",
-          "title": "Web Travel Group Ltd",
-          "source": "Google",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnUGJydlN5b3BpS19NYWY2eTczaEJ2NW1wc0k1aVc5ZVgxNkluZjdPcGlpN2FaSE5oYm1LTGdoOGJmTDVaMC1PUnVHczU5ZlUwVXctOFJpZw?oc=5",
+          "date": "2026.07.31",
+          "title": "WEB Travel Group limited Revenue Breakdown – BX:WBJ",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DLVRfc2lTenlFVmp5SUxBOWtLd2FXb0VoMF9zdlBxekF2VDJZaUtIUk9ucWFaZVhDUFdGU3RzSmkzdW9ROGJoUFpKZzJsRHI1VlpLRDV3TUNEWFduMGRNSUlkbXl4Z2ZmdGtkeWdyTG4?oc=5",
           "summary": ""
         },
         {
           "date": "2026.07.27",
           "title": "Web Travel Group Issues Outlook for First Half of Fiscal 2027; Plans AU$90 Million On-Market Buyback",
-          "source": "Moomoo",
+          "source": "moomoo.com",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDdvZmkwYWt3OXVRelVGVXpwQVR5T3NrUWk4NmoyRDNwQl9TeUF2UWowRzRROWd2NHhoTzZPLVVaMkp5UWRmLXhad0NpSk90QlFpOWdjZmFYb1I1ei1DRU55enpMcVBwYWVIYkdIa2wweEp3Y3NjcG1YOF9VZl9nTUM1a1FYUzZFYUhkOHhqOUNsVVVRc0x1NWsyNGRtTUU?oc=5",
           "summary": ""
         }
@@ -114,6 +114,13 @@
           "summary": ""
         },
         {
+          "date": "2026.07.30",
+          "title": "Transcript : TBO Tek Limited, Q1 2027 Earnings Call, Jul 30, 2026",
+          "source": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDZTcnlBZ285NVR6dzBsMWgxTVRGSXk0eW80WnJ1dmxiR3Z0UmhTd0RoRi1aOXRKQzhuaUh0bG9lNTQ0WDF3ZnRHR2toX0hkMGY5a0RTR2pZUkhCTlBBOXFYOGJSNEwwbGVrZHFOdE9wRkdhMk1RdktqWFBSTjhUaWtFMWVsZUlCTDZaS1oySnhyaXRNZHRqNEIzcVBpU1FIaUR2bWxxVTM4b0lmNVdSNG5LOA?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.07.31",
           "title": "Hold TBO Tek; target of Rs 1550: ICICI Securities",
           "source": "TradingView",
@@ -122,16 +129,9 @@
         },
         {
           "date": "2026.07.30",
-          "title": "Transcript : TBO Tek Limited, Q1 2027 Earnings Call, Jul 30, 2026",
-          "source": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDZTcnlBZ285NVR6dzBsMWgxTVRGSXk0eW80WnJ1dmxiR3Z0UmhTd0RoRi1aOXRKQzhuaUh0bG9lNTQ0WDF3ZnRHR2toX0hkMGY5a0RTR2pZUkhCTlBBOXFYOGJSNEwwbGVrZHFOdE9wRkdhMk1RdktqWFBSTjhUaWtFMWVsZUlCTDZaS1oySnhyaXRNZHRqNEIzcVBpU1FIaUR2bWxxVTM4b0lmNVdSNG5LOA?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.07.29",
-          "title": "TBO Tek Q1: Profit Surges 32% YoY To ₹83.3 Cr",
-          "source": "Inc42",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX1JVQzNLUGhIc3hkUDJpa2p6Qm5kWUlwcmZ6ZFNNSEF6LU5oQXVpXzg2b2ltaEVtb1ZWdXhuZDJaNVVkSVFaeW10aVBtRURYRm1BcmxPNEZhbVNBSm9ld2YyS21TN2F2MVpYbnA3R0NTOTV1MUFaaVlKeV9NSnBKaA?oc=5",
+          "title": "TBO Tek Ltd posts strong Q1 FY27 performance with early operating leverage driving margin expansion",
+          "source": "ET Hospitality",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUjBRRi1OT3dlNGtVWXJWM0EzSmVuV2FVWlcyeTRaQm5RZTBKa0FiMVpmdTlkQ3dwR1NLXzRkZWxYMFNTS0YxdEthbnpIYUxPTjNUT0JZQmpCSXZnbDFla3pxLXpZbjBwVWJ5bU5PcnY2YjA1SzVvSUJRSnBwYnBBc3J5ODF2THhYdzh4Z1VrYmFXR2pYbUhDS0JyQmNtM2lEQXpsUm5GRlFkZE5XUTNVQ01UMGcxQnphOWsyalBBaWgyR0xfenZxaUZZTG5RNnRZWjhjRmV0V1hZXzA3MFQyLTlSaUd5anMzMXRHczhlT2VSVWlTZDQzZTh4RE1kanM?oc=5",
           "summary": ""
         }
       ]
@@ -187,16 +187,16 @@
         },
         {
           "date": "2026.07.29",
-          "title": "HBX Group raises guidance on travel recovery",
-          "source": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaXRSSElJanNEWWlURHNRVGtsSGNTQy1BOTFiTDhXR3dxWVBKTlV6X0t5NGJQS290VGhfVmU3Q0VFRzVzaHduc0ctSU5GNmNOa05IVDZWdVpRTmtxUG9udGE0ZmVndUUwX0FiNEdYNDBMLWhWY2ZiSDJPOFBVX3dpMW5FdUZGNzFLdWwtUzQ4SXJaYi1aVFFyODRfbU9GdDE3d2t3VUstbXpqN21GRVdabDh2cmo?oc=5",
+          "title": "Spain's HBX lifts low end of transaction value guidance as Q3 shows signs of recovery",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUGU1WENRbWdMRjRsTDFNa0tJYlFjaGFxY1RSbjNtRFRpVDMyYmpjdnhhN19iblZSRWltbzllNlhYY0ViTFRRdE1ma3lHU1JSR2JGWEdUUV9neUFOX1pVeFVBb0dSTWYxcm43OXlfRnRiUGJvVmJCT21ONlFpUzBBYkM4WkhjSFdLZFgyVXFIS2xYZS1iY0JNSEh0ZUQtQnV5Z1BMUDlKVW5ZcFFMMGtn?oc=5",
           "summary": ""
         },
         {
           "date": "2026.07.29",
-          "title": "Spanish travel tech firm HBX posts 12% higher transaction value for Q3",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUGU1WENRbWdMRjRsTDFNa0tJYlFjaGFxY1RSbjNtRFRpVDMyYmpjdnhhN19iblZSRWltbzllNlhYY0ViTFRRdE1ma3lHU1JSR2JGWEdUUV9neUFOX1pVeFVBb0dSTWYxcm43OXlfRnRiUGJvVmJCT21ONlFpUzBBYkM4WkhjSFdLZFgyVXFIS2xYZS1iY0JNSEh0ZUQtQnV5Z1BMUDlKVW5ZcFFMMGtn?oc=5",
+          "title": "HBX Group raises guidance on travel recovery",
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTzZma25NdHFsOUtCRXBzUkg3Q2Z2Zy1GcVdqQzZKam9EeXlYRXVWeEF2OG1EcnQtQjNzZ0lfbGdTVVR5cGlpMUFjTFM0REFuR3I3WHJScFBiOVBHS0Uya2ozQnBaaDVqMzN2OW5Pczg4MExRQlBmUzRwaWF6M0lHenlSMEdJenJGVlY0TG5fZ2JGelRnM05TT1lSSHMxSWRNcWtBUk5Jc0g4UQ?oc=5",
           "summary": ""
         }
       ]
