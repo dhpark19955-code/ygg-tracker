@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-07T01:43:23+00:00",
+  "generated_at_utc": "2026-08-07T23:39:58+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -43,9 +43,16 @@
       "news": [
         {
           "date": "2026.08.05",
-          "title": "Web Travel's Fundamantals Intact Despite Unresolved Spanish Inquiry",
+          "title": "Web Travel Group: Spanish Inquiry Still Not Put to Bed but Fundamentals Solid",
           "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1E1QWlzRHBYalRGNGxFamtZMW4xTGNkVjd4NVNMSXBVWjlES2JZZHJRc3h0SXdfMUp6TDh0TDBSRjRFaTh3LVIwUHBzWUkzOE5HNTVVOVdadkRKLXRtYjVGeml5UXZJTmppenZTUGIwYTQ4bU55TlpiOEhQZEViMmQ5THEtOTBrT01MbkFtU2ZKN1o4MDBXRVNMZldSVkZKblVneTZFcUJLVEdFUC1CR1dsR1ppT2VYVGc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ3RzWEFjSjlHRVA2TVFuTHdVcVB1UHdROThla3huOUp3UTRQaWptWnkyVFF4RUV2LVZYVGV2VUE1VHI3LVVsemYzQmNoT0JtYkREYTJXd3hjYXdDUW1nVGlEdTJNRHJicFdHdk9KNHBOV1FGcVYzdi1xR2gxRzNBM0J4X0dzVk1yV0lWLVNLVmV3a2pHU3ZuVE1QdE1QWDZLUHdOTDdYMWxyd2daaVRRSThXTi1lbUxOZjdBU0lHZV82UHlHendUQTNtbVVCTEZnTmMyeGo5WWJNTkVoODRHbw?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.08.07",
+          "title": "Why Are WEB Travel Group (ASX:WEB) Shares Drawing Attention Today?",
+          "source": "Kalkine",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSFU1OHpwU3pZRl9mc2RhUEl0bDBWcV9jS0RQakhuZG5BYmNxNkllREJmejJRTU5SWWgwT1hTeDNyZms3U2R2c0tZTVlUXzNiWENKOWhwZWk5U3FPQUpNOWVHYW5GZU1ZOVJ2OFAtRWNXLWFZWHAzLWQzbnp6SEM4M3pSaHNFSFhmRHFzanNidHl3dXc4NDIyRWJtRFNCQ2gz?oc=5",
           "summary": ""
         },
         {
@@ -60,13 +67,6 @@
           "title": "WebBeds Number of Employees 2026 | Employee Count & Headcount Data",
           "source": "Revelio Labs",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FaDg4Q1hUcXpyRDI1bjhUaFVZcEJBalpYbFowT0JJcUp2T3VGS2szQ1hGU1o1Mi1OQk1zeWRXM1NFS2lJcGVPMEtzal9SYzVCWGlPTEEtRTlhRWEwb2hSbGx2bV9sUQ?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.06.02",
-          "title": "Web Travel Group acquires hotel rebooking platform Pruvo",
-          "source": "PhocusWire",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSzhqUzVfWlNGRmNNemlzQzZzSW5UanNISkxJTHJBRmh6U29HLTlFRURzY1BORkNSNVUtQVFqdm9vOFdELUpCbmgtLXkwREtzbFIxUjJXSml5MkIyM3lqZTBMVVZRU1NHVEsxTWVqNmdCa3NCOTM4UFNQXzdSYjA4bGxmc1hGSDhnYmIw?oc=5",
           "summary": ""
         }
       ]
@@ -121,17 +121,17 @@
           "summary": ""
         },
         {
+          "date": "2026.08.07",
+          "title": "TBO Tek Consolidated June 2026 Net Sales at Rs 925.78 crore, up 81.07% Y-o-Y",
+          "source": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbGtTVm91NENvQWF4OHZIejVVczJ5amlORmduOVFybjEzQVRfSEJ4a2xBbEdxaFpyT1d6aE81alQxbGtrSEVvenl3N2NWcWhBV3E0aEMyWFBsV0JqX3dVNWwyS1VIbmRsZEtGVHkzWHRaZGp4aHB0MDRUSjBkNkdnLTFFRjJydm9IeE1zaExIMlc1dGZXUko1UTV1WWRlNGxoZUE3aUx4NzYyTkhnMEhIUi1oZ3NYNG12bUczUDRXTmdYVXlzcnN0WldOUkxvU1o2LS1LNkhJaDhpRjFt0gHcAUFVX3lxTE1sa1NWb3U0Q29BYXg4dkh6NVVzMnlqaU5GZ245UXJuMTNBVF9IQnhrbEFsR3FoWnJPV3poTzVqVDFsa2tIRW96eXc3Y1ZxaEFXcTRoQzJYUGxXQmpfd1U1bDJLVUhuZGxkS0ZUeTNYdFpkanhocHQwNFRKMGQ2R2ctMUVGMnJ2b0h4TXNoTEgyVzV0ZldSSjVRNXVZZGU0bGhlQTdpTHg3NjJOSGcwSEhSLWhnc1g0bXZtRzNQNFdOZ1hVeXNyc3RaV05STG9TWjYtLUs2SEloOGlGMW0?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.07.30",
           "title": "Earnings call transcript: TBO Tek misses Q1 2026 estimates as growth holds up",
           "source": "Investing.com",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWJXb2pSSXJCTjdrOWRyblVKQ0F1SmZWOFZZS19wM0dpYXpFV0o3UVpzTWVCRk1LaVpBZFRNWnlVaGtzdlZ0QzlrZ2tteGJrbTI4QzBFZWlkSGljelR6QVBQd3VIeGprQmR3OUdiTy1YRVBQdFVSbDVuZll6emNVT2MtTWlxNVFKdDloZDJBbjh2LXRXRWFNbmptempjM2drY0JRZ1d0TWs2TmxqbWlvVUtsNWk3ODM0bFlZdnU3NjdQRGpHQXpBU2k0ZTQ?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.08.05",
-          "title": "Market Trading Guide: TBO Tek among 2 stock recommendations for Thursday",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZE5DX1BEMGFOVW8zU0hETWZMWlFSTEdBTTFrQmpVWEszeUhRanRuUUY4akRuZTRNb2hMSW5uY2oxT0QyTzRZTW5jb1EtdXp3N1Z4N0MtTEUzN1FOZ0RlR2h6MmNNdVJ4NnNSZnFxYzlZWmpMZzhEY3N3MU9pem5ZQUN1bVBVX1JpYWxZZzBaRWt6ZnVwVFNhUjllUFhma3pGMEVSVFJRR1BsdF82SFgxX1l1eFdDTHZzUVVsbnZoVl9QT2ZIdmJZWFZEUXNoZlEybUN2R1E1R3BKRXVkVHYyZThLYWpyZDRxcVE?oc=5",
           "summary": ""
         }
       ]
