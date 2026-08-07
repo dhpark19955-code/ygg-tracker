@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-06T00:05:07+00:00",
+  "generated_at_utc": "2026-08-07T01:43:23+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,6 +42,20 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.08.05",
+          "title": "Web Travel's Fundamantals Intact Despite Unresolved Spanish Inquiry",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1E1QWlzRHBYalRGNGxFamtZMW4xTGNkVjd4NVNMSXBVWjlES2JZZHJRc3h0SXdfMUp6TDh0TDBSRjRFaTh3LVIwUHBzWUkzOE5HNTVVOVdadkRKLXRtYjVGeml5UXZJTmppenZTUGIwYTQ4bU55TlpiOEhQZEViMmQ5THEtOTBrT01MbkFtU2ZKN1o4MDBXRVNMZldSVkZKblVneTZFcUJLVEdFUC1CR1dsR1ppT2VYVGc?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.08.04",
+          "title": "Analysts’ Top Consumer Cyclical Picks: WEB Travel Group (WEBJF), Breville Group (BVILF)",
+          "source": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUE8xcDlxS1NWUmNzNEQzTE1fWjEwekNWYm80eXdBQno3TGJLS1J5TTN1TGJjcE5RU0xNRXpwbTFkZDRzbldaejRTSEQyMW1HSzBQN3BnaHkxV2EyOUI3OXZSR2tPQmdhQlppSVlvdVNyTzVhT3NxN2pkejlhZGRzMkNXSlBGQXBoZU9GNkdKdERSaE13cXJFSGYwLU1XbmlaamhzTjBDLTlQR29WY2N2U2FLV18zbm9NdlJEZzl6STJ2UkVUSGZ6bGNXMzBwWkg0aTJ2UFBvdEhMa1cxNHhNSlc3WHpaa19oMDE5OHo3cG1SbXFoR2JjUFVR?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.07.29",
           "title": "WebBeds Number of Employees 2026 | Employee Count & Headcount Data",
           "source": "Revelio Labs",
@@ -49,24 +63,10 @@
           "summary": ""
         },
         {
-          "date": "2026.05.27",
-          "title": "Web Travel Group Delivers Solid Results, Despite Middle East Uncertainty",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ052N054Y1MzWjlsMGd1UUpjbEFNd29rcS1DOTBXRWF3bnVpNG9tLUNZM25ZMGFBbHNsM05PUWVlLXliOGdmdkxha3B2SmhrMWZfQkpEZmNfaTFjcUl0NzRmb0xKWThzQzBCVEpyVThKeS1UcWxiZGpEd0lUd1ZRaTNxN1ZEaVN4dGRfbzRMMHZmTVc0Zms4TUR1Q1loUjFSSjl0OENjbmNyeHkwSElCckplU0RpLUlfYW0tUFJod0w?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.07.31",
-          "title": "WEB Travel Group limited Revenue Breakdown – BX:WBJ",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DLVRfc2lTenlFVmp5SUxBOWtLd2FXb0VoMF9zdlBxekF2VDJZaUtIUk9ucWFaZVhDUFdGU3RzSmkzdW9ROGJoUFpKZzJsRHI1VlpLRDV3TUNEWFduMGRNSUlkbXl4Z2ZmdGtkeWdyTG4?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.08.03",
-          "title": "Web Travel Group vows to fight class action",
-          "source": "travelweekly.com.au",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MSDAzQVBpUnFfamtNYmJab1NlbFp5QV8wSGQ0OGJ6eVIyQV9zakc4Vl83UHBYNmRWLWpYVElxeGQ3eFdCbEFiaFk0emc2Z29iOXUya0NsWU9NUkpnZWhtR1hJazVuSGJTckNxMUdhRE9DaGlSU0p0RjlUZDQ?oc=5",
+          "date": "2026.06.02",
+          "title": "Web Travel Group acquires hotel rebooking platform Pruvo",
+          "source": "PhocusWire",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSzhqUzVfWlNGRmNNemlzQzZzSW5UanNISkxJTHJBRmh6U29HLTlFRURzY1BORkNSNVUtQVFqdm9vOFdELUpCbmgtLXkwREtzbFIxUjJXSml5MkIyM3lqZTBMVVZRU1NHVEsxTWVqNmdCa3NCOTM4UFNQXzdSYjA4bGxmc1hGSDhnYmIw?oc=5",
           "summary": ""
         }
       ]
@@ -107,10 +107,10 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.08.05",
-          "title": "Market Trading Guide: TBO Tek among 2 stock recommendations for Thursday",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZE5DX1BEMGFOVW8zU0hETWZMWlFSTEdBTTFrQmpVWEszeUhRanRuUUY4akRuZTRNb2hMSW5uY2oxT0QyTzRZTW5jb1EtdXp3N1Z4N0MtTEUzN1FOZ0RlR2h6MmNNdVJ4NnNSZnFxYzlZWmpMZzhEY3N3MU9pem5ZQUN1bVBVX1JpYWxZZzBaRWt6ZnVwVFNhUjllUFhma3pGMEVSVFJRR1BsdF82SFgxX1l1eFdDTHZzUVVsbnZoVl9QT2ZIdmJZWFZEUXNoZlEybUN2R1E1R3BKRXVkVHYyZThLYWpyZDRxcVE?oc=5",
+          "date": "2026.07.30",
+          "title": "TBO Tek Ltd (NSE:TBOTEK) (Q1 2027) Earnings Call Highlights: Resilient Growth Amid Middle East ...",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMmUwdl9PZjRnaGxuVkxFaEJla1hHUEZ1eDZOdWNoNDJoUVlBcWdwVE9BQVVFZUhTWUJnSTBDa2ZHMVBHR00xeHJVamVweGxMa2xSQmdrNjA3R3VKWjhuUWd5S0xoUUpXRDY5SUU4RlZraEp3ZHlTUXZxbzZFQnFRMUNzQ2QwYVNYLVBJcEV4SDI?oc=5",
           "summary": ""
         },
         {
@@ -121,17 +121,17 @@
           "summary": ""
         },
         {
-          "date": "2026.08.05",
-          "title": "TBO Tek posts 81% revenue surge in Q1FY27, highlights operating leverage",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY0R3VmtYVC1HU1FtcGN4Vzd1bXlwT0VNN3Q5VDd0X00wM052MHlBeG05YUwyN0RRU2VYdFQ2RmVNdWhQZXljd1NtbGtfN2dXM3hXcDRTTlBLQUsxNWJxQ2tmT2FMYllpTzlzNHgzNTBGZG41Ri05bDdGS3BWckVnOG9TRHQwSUpqemVQa1M2NkVaSk1VSk9OdDBOTmMtWnBHNHhwWVlwOWVER09CVzduYndR?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.07.30",
           "title": "Earnings call transcript: TBO Tek misses Q1 2026 estimates as growth holds up",
           "source": "Investing.com",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWJXb2pSSXJCTjdrOWRyblVKQ0F1SmZWOFZZS19wM0dpYXpFV0o3UVpzTWVCRk1LaVpBZFRNWnlVaGtzdlZ0QzlrZ2tteGJrbTI4QzBFZWlkSGljelR6QVBQd3VIeGprQmR3OUdiTy1YRVBQdFVSbDVuZll6emNVT2MtTWlxNVFKdDloZDJBbjh2LXRXRWFNbmptempjM2drY0JRZ1d0TWs2TmxqbWlvVUtsNWk3ODM0bFlZdnU3NjdQRGpHQXpBU2k0ZTQ?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.08.05",
+          "title": "Market Trading Guide: TBO Tek among 2 stock recommendations for Thursday",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZE5DX1BEMGFOVW8zU0hETWZMWlFSTEdBTTFrQmpVWEszeUhRanRuUUY4akRuZTRNb2hMSW5uY2oxT0QyTzRZTW5jb1EtdXp3N1Z4N0MtTEUzN1FOZ0RlR2h6MmNNdVJ4NnNSZnFxYzlZWmpMZzhEY3N3MU9pem5ZQUN1bVBVX1JpYWxZZzBaRWt6ZnVwVFNhUjllUFhma3pGMEVSVFJRR1BsdF82SFgxX1l1eFdDTHZzUVVsbnZoVl9QT2ZIdmJZWFZEUXNoZlEybUN2R1E1R3BKRXVkVHYyZThLYWpyZDRxcVE?oc=5",
           "summary": ""
         }
       ]
@@ -186,17 +186,17 @@
           "summary": ""
         },
         {
-          "date": "2026.08.02",
-          "title": "HBX Group expands global distribution through Sabre partnership",
-          "source": "TradeArabia",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmx3cjVUX2FwQlRrMjZfQ244UFZHN1gwRUJxT1pDblVTaVc4QllKcG10WkF5N0xLamJodGpEdGE2bWt6NGpRWEljYXlhNFRwRFhwZ2xiS3diY3VzVHo5MGhmMm4tZnFyeEZzQUV0UC00S1J2cTd5M0pHWUtqZjJSVHoweDlBdXpSUGZuOWlFcmhLVjZpRDhtdjRRVl9ocFB6YWRCdDF3?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.07.29",
           "title": "HBX Group CEO Nicolas Huss to retire",
           "source": "PhocusWire",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdmdlRmdSU1o5bGROay10dDFNYUQ4d04tN3hqR2x2cDJkQ19vUFhubWZ4MGN4VXdZc2pxbnhHSHRnYm4tYlU3cHlwQ0hOdTMtOXp2bS1YanY5c1ljdXM5WFRHcUozekVMZGttaEVlNVhkSW0wcWtlQkI0OGVzSmVVag?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.08.02",
+          "title": "HBX Group expands global distribution through Sabre partnership",
+          "source": "TradeArabia",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmx3cjVUX2FwQlRrMjZfQ244UFZHN1gwRUJxT1pDblVTaVc4QllKcG10WkF5N0xLamJodGpEdGE2bWt6NGpRWEljYXlhNFRwRFhwZ2xiS3diY3VzVHo5MGhmMm4tZnFyeEZzQUV0UC00S1J2cTd5M0pHWUtqZjJSVHoweDlBdXpSUGZuOWlFcmhLVjZpRDhtdjRRVl9ocFB6YWRCdDF3?oc=5",
           "summary": ""
         }
       ]
