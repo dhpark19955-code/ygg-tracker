@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-10T23:41:44+00:00",
+  "generated_at_utc": "2026-08-11T23:50:46+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -56,17 +56,17 @@
           "summary": ""
         },
         {
-          "date": "2026.08.05",
-          "title": "Web Travel Group: Spanish Inquiry Still Not Put to Bed but Fundamentals Solid",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ3RzWEFjSjlHRVA2TVFuTHdVcVB1UHdROThla3huOUp3UTRQaWptWnkyVFF4RUV2LVZYVGV2VUE1VHI3LVVsemYzQmNoT0JtYkREYTJXd3hjYXdDUW1nVGlEdTJNRHJicFdHdk9KNHBOV1FGcVYzdi1xR2gxRzNBM0J4X0dzVk1yV0lWLVNLVmV3a2pHU3ZuVE1QdE1QWDZLUHdOTDdYMWxyd2daaVRRSThXTi1lbUxOZjdBU0lHZV82UHlHendUQTNtbVVCTEZnTmMyeGo5WWJNTkVoODRHbw?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.07.29",
           "title": "WebBeds Number of Employees 2026 | Employee Count & Headcount Data",
           "source": "Revelio Labs",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FaDg4Q1hUcXpyRDI1bjhUaFVZcEJBalpYbFowT0JJcUp2T3VGS2szQ1hGU1o1Mi1OQk1zeWRXM1NFS2lJcGVPMEtzal9SYzVCWGlPTEEtRTlhRWEwb2hSbGx2bV9sUQ?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.08.11",
+          "title": "WEB Travel Group (ASX:WEB) — Can Its WebBeds Business Keep the Growth Story on Track?",
+          "source": "Kalkine",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNzdMdVFpb09oSUttRUJjTWFNelBzVU5OUUg5ak53R0lTMDRPRzBkVUxmcEpPWk5CVUF0cEpId0p4VmhWTHQwWDJlQVNLRm5pX1E0RVZyNjlyWDZSMHZ4YjhoZjVtSVd1NnhNeXROYUtDZTJxNW9jVGNaNjFtVkVGOEpSUmFwc2t6ZEdmOTRFSTg1cHFNbnExa1duR2hoX2JJRXlna2hOV2wzdGpvX3JlYXZKQy1KdjA?oc=5",
           "summary": ""
         }
       ]
@@ -107,6 +107,13 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.08.11",
+          "title": "TBOTEK Share Price Today - TBO Tek on NSE/BSE",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ib0NtRVlJVlFxdGhyZzJkLTY0cUFGREVQcU5ERkNnVzJiRXVwTU5ZTmVkMkV4QXU3clk0WXE0NmJ1NFBlVUlVUHQycDZzRzhv?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.08.03",
           "title": "Earnings Beat: TBO Tek Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",
           "source": "simplywall.st",
@@ -114,24 +121,17 @@
           "summary": ""
         },
         {
+          "date": "2026.05.28",
+          "title": "TBO Tek Limited Reports Earnings Results for the Fourth Quarter and Full Year Ended March 31, 2026",
+          "source": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRndwcDI4UFM3eWQwa2g4NnRZTHlRVWNJd21ta3k4cGNKbnJyTi1wdW1HdzctVC1rMDloQU5MMHpzbXRVR3hDOXlVS3VvYS01dkhwTDJaNWxUckV6TjlGTUlQYXE5dVhrUWNsSzBPclE4YzNIRml2QVI3NnFqcEFqeU5JOElUSkEwVm1DTVU5LV9EdXNNT0VmQkRDQ3hJWlhteEQ2YVhHdS1xSzg0RS01aFhaY1FQSTdrTXhqVjRYQzZrWnkwbXRIWFVHUW16d3VSZzlmdjdUMHRXM2hLczJvMFhnWnY?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.07.30",
           "title": "TBO Tek Ltd posts strong Q1 FY27 performance with early operating leverage driving margin expansion",
           "source": "ET Hospitality",
           "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUjBRRi1OT3dlNGtVWXJWM0EzSmVuV2FVWlcyeTRaQm5RZTBKa0FiMVpmdTlkQ3dwR1NLXzRkZWxYMFNTS0YxdEthbnpIYUxPTjNUT0JZQmpCSXZnbDFla3pxLXpZbjBwVWJ5bU5PcnY2YjA1SzVvSUJRSnBwYnBBc3J5ODF2THhYdzh4Z1VrYmFXR2pYbUhDS0JyQmNtM2lEQXpsUm5GRlFkZE5XUTNVQ01UMGcxQnphOWsyalBBaWgyR0xfenZxaUZZTG5RNnRZWjhjRmV0V1hZXzA3MFQyLTlSaUd5anMzMXRHczhlT2VSVWlTZDQzZTh4RE1kanM?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.07.31",
-          "title": "Hold TBO Tek; target of Rs 1550: ICICI Securities",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdlIxR05HcW9INm9lWTRkbXVMZU00TjJiVWlFYjE4ZXZxbTREdUg2SmNqS1RoTkNITXhxRGNFUGJqX2JoVFZSdjdNc3ZJMkZuNjZHQkF4M2JtV2N6VzA3WGJucFdOaE9FdzR6MkZQTDdFQjhQaVhZRy1heHROTmJwSFFJbUQ2RkFfUGNsZDlUd0VTRDBQaTFQWFNkVGk4LWVnTFVoOUFpM1RPaExEaVIw?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.07.29",
-          "title": "TBO Tek Q1: Profit Surges 32% YoY To ₹83.3 Cr",
-          "source": "Inc42",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX1JVQzNLUGhIc3hkUDJpa2p6Qm5kWUlwcmZ6ZFNNSEF6LU5oQXVpXzg2b2ltaEVtb1ZWdXhuZDJaNVVkSVFaeW10aVBtRURYRm1BcmxPNEZhbVNBSm9ld2YyS21TN2F2MVpYbnA3R0NTOTV1MUFaaVlKeV9NSnBKaA?oc=5",
           "summary": ""
         }
       ]
@@ -172,17 +172,17 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.08.08",
-          "title": "Hotelbeds shifts Corporate Volunteering Program to virtual activities",
-          "source": "Travel2Latam",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0RBeDJyak44d1AzLWYxWlBJZnFrLTJQSlJsY3VFM0hNWHNTeGFpV01TVFRzbzdJaFVEUm5rbm1VT0UySE5JRFRaN2NoUHk0MmUxWjBmdGt2RThkYk5Zd3ZRWGJWcGdFcllWVXJFN1k2U2xjMjljMGtyb2YtMDZVcFBmVmNnZVZUWW56SDBmbW0zU3ZQYkdwMXZESlZFUEx0UUxpVFMtNmI0cDFxUjlsZmh5QQ?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.07.28",
           "title": "Hotelbeds Group Number of Employees 2026 | Employee Count & Headcount Data",
           "source": "Revelio Labs",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VWVl3amhXcVlENXNfZFh0UGt0dno0emJGbjNydVVuYjVVZ3VGWU5qbGdLTHdJUUY4MS1YcDIzaFotemJabWY0MThGeEM2T01odC1lcU9fR0FnX29QTm1uWnU2NlJRZmZtWk9oZ0pZMko?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.08.08",
+          "title": "Hotelbeds shifts Corporate Volunteering Program to virtual activities",
+          "source": "Travel2Latam",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0RBeDJyak44d1AzLWYxWlBJZnFrLTJQSlJsY3VFM0hNWHNTeGFpV01TVFRzbzdJaFVEUm5rbm1VT0UySE5JRFRaN2NoUHk0MmUxWjBmdGt2RThkYk5Zd3ZRWGJWcGdFcllWVXJFN1k2U2xjMjljMGtyb2YtMDZVcFBmVmNnZVZUWW56SDBmbW0zU3ZQYkdwMXZESlZFUEx0UUxpVFMtNmI0cDFxUjlsZmh5QQ?oc=5",
           "summary": ""
         },
         {
