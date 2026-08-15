@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-14T23:28:12+00:00",
+  "generated_at_utc": "2026-08-15T23:26:40+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,13 +42,6 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.08.10",
-          "title": "WEB Travel Group Says Macquarie's Stake Declines",
-          "source": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONWlQODRzSUxwWDBrcC1aejBjVU5JOWI5VjBZQjlSNFhHMkkxRlo1Z3AtNlU0bXFhU3d6SXlldU5LY01BSDhETkE5ejdFSDZPNEpLLW9ONzZTTlduQnU3VmVPZGdWVTlOS2E4SDRNdUJpSzg3TzA4bjg0M1hDelAzRXJ6VGo0cjJRUldUVndweGduS0FQ?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.07.29",
           "title": "WebBeds Number of Employees 2026 | Employee Count & Headcount Data",
           "source": "Revelio Labs",
@@ -56,10 +49,10 @@
           "summary": ""
         },
         {
-          "date": "2026.08.12",
-          "title": "WEB Travel Group Limited (ASX:WEB) Share Price Declines as Investors Monitor Travel Demand and WebBeds Performance",
-          "source": "kalkine.com.au",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSllOdDJQS050V1ZaaFBPQUQxMkoxd1J2Um41dUp4dmZ4WXlaZnhNN2ZDUFpQZFZwLURBMHpqaTNNZ3NEbzVUX3hRVGFZTnE5RTJadExtS2ZuLTRta2J1NER2OUprWWt6S2lXeTlUMG1SUWdySWhETXdSWm8xaURISzFld3ZJMWNIcDFCRFdERTN6OWlpTmYya3NwVmNfSDFMQnVXSWZyZEUzZHdyUWQ1ZGd5a29uWDJiUEV1U2gxcGo4ODZrdGpsRm9fQlBhNi1ic1V4TERMem5oYkZTNjVR?oc=5",
+          "date": "2026.08.10",
+          "title": "WEB Travel Group Says Macquarie's Stake Declines",
+          "source": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONWlQODRzSUxwWDBrcC1aejBjVU5JOWI5VjBZQjlSNFhHMkkxRlo1Z3AtNlU0bXFhU3d6SXlldU5LY01BSDhETkE5ejdFSDZPNEpLLW9ONzZTTlduQnU3VmVPZGdWVTlOS2E4SDRNdUJpSzg3TzA4bjg0M1hDelAzRXJ6VGo0cjJRUldUVndweGduS0FQ?oc=5",
           "summary": ""
         },
         {
@@ -67,6 +60,13 @@
           "title": "Web Travel Group Delivers Solid Results, Despite Middle East Uncertainty",
           "source": "Morningstar",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ052N054Y1MzWjlsMGd1UUpjbEFNd29rcS1DOTBXRWF3bnVpNG9tLUNZM25ZMGFBbHNsM05PUWVlLXliOGdmdkxha3B2SmhrMWZfQkpEZmNfaTFjcUl0NzRmb0xKWThzQzBCVEpyVThKeS1UcWxiZGpEd0lUd1ZRaTNxN1ZEaVN4dGRfbzRMMHZmTVc0Zms4TUR1Q1loUjFSSjl0OENjbmNyeHkwSElCckplU0RpLUlfYW0tUFJod0w?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.06.02",
+          "title": "Web Travel Group acquires hotel rebooking platform Pruvo",
+          "source": "PhocusWire",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSzhqUzVfWlNGRmNNemlzQzZzSW5UanNISkxJTHJBRmh6U29HLTlFRURzY1BORkNSNVUtQVFqdm9vOFdELUpCbmgtLXkwREtzbFIxUjJXSml5MkIyM3lqZTBMVVZRU1NHVEsxTWVqNmdCa3NCOTM4UFNQXzdSYjA4bGxmc1hGSDhnYmIw?oc=5",
           "summary": ""
         }
       ]
@@ -193,10 +193,10 @@
           "summary": ""
         },
         {
-          "date": "2026.08.08",
-          "title": "Hotelbeds shifts Corporate Volunteering Program to virtual activities",
-          "source": "Travel2Latam",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0RBeDJyak44d1AzLWYxWlBJZnFrLTJQSlJsY3VFM0hNWHNTeGFpV01TVFRzbzdJaFVEUm5rbm1VT0UySE5JRFRaN2NoUHk0MmUxWjBmdGt2RThkYk5Zd3ZRWGJWcGdFcllWVXJFN1k2U2xjMjljMGtyb2YtMDZVcFBmVmNnZVZUWW56SDBmbW0zU3ZQYkdwMXZESlZFUEx0UUxpVFMtNmI0cDFxUjlsZmh5QQ?oc=5",
+          "date": "2026.04.01",
+          "title": "HBX Group acquires full ownership of PerfectStay",
+          "source": "Hospitality Net",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcElKa09fWWQtUHZiZjN0YnZsQ25oRVVXOHllNEN5RTNrOVdXaU1uamswQjFCZE94MlYzdzNKU0V4SnBrbVFia0NGLTRLeUI3enlYN1BPcTRzaUx0b3puV0Fhdi1wY21EX3ROTWxyTUg4WVNpenowTjBfMU14cmgwUWd1cVYzVFprUHRXaW1QZzJjS1hXNWow?oc=5",
           "summary": ""
         }
       ]
