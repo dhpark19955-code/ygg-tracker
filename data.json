@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15T23:26:40+00:00",
+  "generated_at_utc": "2026-08-16T23:26:56+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -49,13 +49,6 @@
           "summary": ""
         },
         {
-          "date": "2026.08.10",
-          "title": "WEB Travel Group Says Macquarie's Stake Declines",
-          "source": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONWlQODRzSUxwWDBrcC1aejBjVU5JOWI5VjBZQjlSNFhHMkkxRlo1Z3AtNlU0bXFhU3d6SXlldU5LY01BSDhETkE5ejdFSDZPNEpLLW9ONzZTTlduQnU3VmVPZGdWVTlOS2E4SDRNdUJpSzg3TzA4bjg0M1hDelAzRXJ6VGo0cjJRUldUVndweGduS0FQ?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.05.27",
           "title": "Web Travel Group Delivers Solid Results, Despite Middle East Uncertainty",
           "source": "Morningstar",
@@ -67,6 +60,13 @@
           "title": "Web Travel Group acquires hotel rebooking platform Pruvo",
           "source": "PhocusWire",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSzhqUzVfWlNGRmNNemlzQzZzSW5UanNISkxJTHJBRmh6U29HLTlFRURzY1BORkNSNVUtQVFqdm9vOFdELUpCbmgtLXkwREtzbFIxUjJXSml5MkIyM3lqZTBMVVZRU1NHVEsxTWVqNmdCa3NCOTM4UFNQXzdSYjA4bGxmc1hGSDhnYmIw?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.08.10",
+          "title": "WEB Travel Group Says Macquarie's Stake Declines",
+          "source": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONWlQODRzSUxwWDBrcC1aejBjVU5JOWI5VjBZQjlSNFhHMkkxRlo1Z3AtNlU0bXFhU3d6SXlldU5LY01BSDhETkE5ejdFSDZPNEpLLW9ONzZTTlduQnU3VmVPZGdWVTlOS2E4SDRNdUJpSzg3TzA4bjg0M1hDelAzRXJ6VGo0cjJRUldUVndweGduS0FQ?oc=5",
           "summary": ""
         }
       ]
@@ -107,13 +107,6 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.08.11",
-          "title": "TBOTEK Share Price Today - TBO Tek on NSE/BSE",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ib0NtRVlJVlFxdGhyZzJkLTY0cUFGREVQcU5ERkNnVzJiRXVwTU5ZTmVkMkV4QXU3clk0WXE0NmJ1NFBlVUlVUHQycDZzRzhv?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.08.03",
           "title": "Earnings Beat: TBO Tek Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",
           "source": "simplywall.st",
@@ -130,8 +123,15 @@
         {
           "date": "2026.02.11",
           "title": "TBO’s North America Deal Begins to Show Up in the Numbers",
-          "source": "Skift",
+          "source": "skift.com",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ21qWTBvNnlKUzFzUFRYdVE5Z1BGbGwybFl2d19ocUwyM3JNdzRiWF82amdNa19mYkpfUHdSY2poSi03Wkt2amxvc1JNN1Y2endGVDk1MmZEeWNRdWFNSXhxZGNNUmNnb0xZNmdzU21iQkFSWFVkQldGYWlwWGJVMEZaRE9zT0V1Z21LSXU4Yw?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.07.30",
+          "title": "TBO Tek Ltd posts strong Q1 FY27 performance with early operating leverage driving margin expansion",
+          "source": "hospitality.economictimes.indiatimes.com",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUjBRRi1OT3dlNGtVWXJWM0EzSmVuV2FVWlcyeTRaQm5RZTBKa0FiMVpmdTlkQ3dwR1NLXzRkZWxYMFNTS0YxdEthbnpIYUxPTjNUT0JZQmpCSXZnbDFla3pxLXpZbjBwVWJ5bU5PcnY2YjA1SzVvSUJRSnBwYnBBc3J5ODF2THhYdzh4Z1VrYmFXR2pYbUhDS0JyQmNtM2lEQXpsUm5GRlFkZE5XUTNVQ01UMGcxQnphOWsyalBBaWgyR0xfenZxaUZZTG5RNnRZWjhjRmV0V1hZXzA3MFQyLTlSaUd5anMzMXRHczhlT2VSVWlTZDQzZTh4RE1kanM?oc=5",
           "summary": ""
         }
       ]
