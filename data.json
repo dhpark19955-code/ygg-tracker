@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-27T04:28:15+00:00",
+  "generated_at_utc": "2026-08-28T06:51:26+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,31 +42,31 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.08.27",
+          "title": "Web Travel Group Raises H1 Guidance",
+          "source": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ0pBZDAteEhqZWR3QUNEb0d0QllyelBacmM4TWMySVI2WWVQX0h0VHNHVjRxRDhLS3pLWUR3czc0QVdqZHdHOHFLNTNGZUNrQWFOekhwLXRrT21EdXk1OXFVRlpFck12N1VCRjRqQkRna1Z6SXRJWjA1djlwcVVjS1FKRQ?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.08.27",
+          "title": "WEB Travel Group Period Underlying Earnings Up, Revenue Up",
+          "source": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdkRSUi1wUUtGbTAwdk9UTkxmN0FTRWpXOFlONkVfMHNvN0NSdXQ1MHExdno5czFxMkZzTnpvZDcyTnh1RnNMQnE2NHNvVnNfMEdVSW5scVBaTk03cmVESFg5cVJIMFdLdkNpR0tURTlnSlZIUFpDYmZKQmNqcjZGbkxDVm9FOENTa05jVzhLV2RYV1lGbUJvNzAwY3BZeWxVYXBYTXg3clpWWC1zeFdZ?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.08.27",
+          "title": "Web Travel Group upgrades guidance as shareholders back executive bonus",
+          "source": "travelweekly.com.au",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWDA2QnJnVjI4NDBndlFYN2N3aW5wZWd6YTdEcHJBV2xLZlZNMlcyaFhMeUhvUl9PcUNUUG9LYmh3eXFEUmhUcDNlRjBESEN2TmdxanVRVFg2cDk3dENXbXNkZk1wVl9CZ2ZINHlPbWtzM05YRFZVWHNwLS1rUmxxVHlhLXZBbUtqTU1hUWxpTWo1d2lvemJ0emRiQ1ZkSkJTeVE?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.06.02",
           "title": "Web Travel Group acquires hotel rebooking platform Pruvo",
           "source": "PhocusWire",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSzhqUzVfWlNGRmNNemlzQzZzSW5UanNISkxJTHJBRmh6U29HLTlFRURzY1BORkNSNVUtQVFqdm9vOFdELUpCbmgtLXkwREtzbFIxUjJXSml5MkIyM3lqZTBMVVZRU1NHVEsxTWVqNmdCa3NCOTM4UFNQXzdSYjA4bGxmc1hGSDhnYmIw?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.07.29",
-          "title": "WebBeds Number of Employees 2026 | Employee Count & Headcount Data",
-          "source": "Revelio Labs",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FaDg4Q1hUcXpyRDI1bjhUaFVZcEJBalpYbFowT0JJcUp2T3VGS2szQ1hGU1o1Mi1OQk1zeWRXM1NFS2lJcGVPMEtzal9SYzVCWGlPTEEtRTlhRWEwb2hSbGx2bV9sUQ?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.06.02",
-          "title": "Statutory Profit Doesn't Reflect How Good Web Travel Group's (ASX:WEB) Earnings Are",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTl1NUNGd25qM3dGdlhoUkY1ck1mQmZSNThpYnFib3pvcGNHOVdUOUNvVzhlZlVTRDFFRGxLWTJLYWRQMHRPRVJUVUtLQ0J2X0F3eXBpdHZuejNKYjFiTHN2RVBmN0xtMnh6emh5dFdqb0l2Z3VHVGQzbVFib3k5N1VYTlctVFZvU2VPNUt3YUtnSDBBUHJLVFRhMTlwQm9fb0pz?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.05.27",
-          "title": "Web Travel Group Delivers Solid Results, Despite Middle East Uncertainty",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ052N054Y1MzWjlsMGd1UUpjbEFNd29rcS1DOTBXRWF3bnVpNG9tLUNZM25ZMGFBbHNsM05PUWVlLXliOGdmdkxha3B2SmhrMWZfQkpEZmNfaTFjcUl0NzRmb0xKWThzQzBCVEpyVThKeS1UcWxiZGpEd0lUd1ZRaTNxN1ZEaVN4dGRfbzRMMHZmTVc0Zms4TUR1Q1loUjFSSjl0OENjbmNyeHkwSElCckplU0RpLUlfYW0tUFJod0w?oc=5",
           "summary": ""
         }
       ]
@@ -114,6 +114,13 @@
           "summary": ""
         },
         {
+          "date": "2026.08.27",
+          "title": "TBO Tek shareholders approve re-appointment of four independent directors",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV3JfQ1ZHTVVDQkJmdFkxdWJHNmpDMWdqWkpvenNlQmtyX2JneEYtWmY5NE4xbHBHOUtSMmhRSmJHZldNMkxLNWxLOXRzdnlIZzBXNW9Jb25sUXBBb0FKdUpLcHhSZFV5NTdmcS01V1Q5X3B3X1pfVnlsWkltaWhoWkZHenhYWnBMd25jWU1SME1XWGJra2JaTFAtWmxxV18tMTNMZlZJUUpFNVAxMENxWA?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.08.19",
           "title": "TBO Tek Well Positioned for North America's Luxury Travel Growth, Says Jefferies; Check Target Price",
           "source": "NDTV Profit",
@@ -125,13 +132,6 @@
           "title": "Earnings Beat: TBO Tek Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",
           "source": "simplywall.st",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc19aYWU5NVY2OTdKNW1ua1VmVWhoNThFYzFCbVBncVN3UFdsRHQ2ZEZ1OHJrQ0F0YWtpN3BndVBkQ3V4OEQ0eU9rVFZMS19sVXFJMl9LUlZxcjlMd2FYaWxlLUFobG14eVNUaXZjc25YRGFiTEF2WDVlaGJWNnZiQUgzTDlwTXg0WFBxTXhNUHd2S3pSZmRHcjF4azlrQUViSFR5Vjk5NndTSWd5Qk45ZkpTeFRxRkhmYllOTFV0Vjk1WjRYVUNDejFqTURMUEkwd2drb1RjQ0fSAd4BQVVfeXFMUGdtN2N2dU52cEQwZ3VQRWMtVHdjY3Z2bzBjSy1raDdLX25tZnM1N3dfVXhPWUJick1zQVZpdVdYUFdjS0l2aTJHbGVyWl8xclU2T213WTVQWkhSNmVyYWw3UEdFWGIxeTdEN2VmQ1ROcVluOUF1emN0YUdQSy1uTFdtbnJnVlg1ZmRvcUdmSUVORkp4Sy1NVHZodjB6ZlJZbGxmckVDQWt1UFB1ZERWdEx5TUFwenU3ZFNwQkVEUUdGNkJYMUotODlKS0pma3dIVHdlOGw2dU56aVJIUkV3?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.02.11",
-          "title": "TBO’s North America Deal Begins to Show Up in the Numbers",
-          "source": "Skift",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ21qWTBvNnlKUzFzUFRYdVE5Z1BGbGwybFl2d19ocUwyM3JNdzRiWF82amdNa19mYkpfUHdSY2poSi03Wkt2amxvc1JNN1Y2endGVDk1MmZEeWNRdWFNSXhxZGNNUmNnb0xZNmdzU21iQkFSWFVkQldGYWlwWGJVMEZaRE9zT0V1Z21LSXU4Yw?oc=5",
           "summary": ""
         }
       ]
@@ -172,17 +172,17 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.07.29",
-          "title": "HBX GROUP ANNOUNCES THIRD QUARTER 2026 TRADING UPDATE",
-          "source": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ0NkT2lTRjhFelNqdDZrSEtGc09SQkhKR3dHMDhwWnVxRkxPeXJWVHVMb3ZZT09wX252b1NXQUdscmVHd3dVQzEwNWhFTmxmUnkzSnpRcGxxRkozWkpNa2RPdXh2cHo1ZUlZQXV1UWNyNWhkZUM2SnoxY3dseHVHUG0xSTE3R2pxMWRyNlRfRklJbGZhVFFBQmYtRTIzX1duX1VZYU8tMXZRMkF6YWc?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.08.12",
           "title": "AI transformation in travel: Javier Cabrerizo of HBX Group",
           "source": "PhocusWire",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPanhrZ013bGV6eXl1NkhCU0dLR0V6SVlDZ0p3QnJSM1hTb2Z5LUVraVFnVTVjZ2lNM2Y1NlVZU1hieEtOZkVKVWs3bnlVOG9iWkd5bjE5Y2pjTm5CaVlPQ3RVamV5QUhPc2xONE9rYTN0dFA5M1lpamJsUUMyUDNXY2pKMW5Da1JzcVlkMVZWalZIXzJ3SG1qLVdEYVFTeHB3X3lpWEVfZE1oUQ?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.07.29",
+          "title": "HBX GROUP ANNOUNCES THIRD QUARTER 2026 TRADING UPDATE",
+          "source": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ0NkT2lTRjhFelNqdDZrSEtGc09SQkhKR3dHMDhwWnVxRkxPeXJWVHVMb3ZZT09wX252b1NXQUdscmVHd3dVQzEwNWhFTmxmUnkzSnpRcGxxRkozWkpNa2RPdXh2cHo1ZUlZQXV1UWNyNWhkZUM2SnoxY3dseHVHUG0xSTE3R2pxMWRyNlRfRklJbGZhVFFBQmYtRTIzX1duX1VZYU8tMXZRMkF6YWc?oc=5",
           "summary": ""
         },
         {
