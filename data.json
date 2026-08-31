@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-30T01:12:05+00:00",
+  "generated_at_utc": "2026-08-31T01:19:18+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,6 +42,13 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.08.30",
+          "title": "WEJTY: Static price chart | WebBeds Group Limited | US9477001005",
+          "source": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWi1UT2hWb3dHaXBDTjJMVHJOSk1aUmNrX2tINU1SY3RkbFRKNUdPSDRXT3JHaUNKZEpScDcxSTlySzY2cVgxbWh1VmF4OHNoTXhhMHBqbUl3OGVuV04wQ2JJZmdOekoxV0hhNlB0SW9KVkh5MXozREdaX2xYU0NXQXNtcURQejFmOE0yOTJiQll4NVlqbnNUUlJJbw?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.08.27",
           "title": "Web Travel Group Raises H1 Guidance",
           "source": "Moomoo",
@@ -56,17 +63,10 @@
           "summary": ""
         },
         {
-          "date": "2026.08.26",
-          "title": "Web Travel Group Raises H1 Guidance",
-          "source": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdWZHN3lzQUJ0Z3pEaHd0NjdaRlBMRE1Od1o0YmpzWFl3SG5IZHdQQ29wLUxLd2pBZTlteVFKeUMtelMtY1UweVFlelB0dHJwdTVFdzdveVNOb1VFX1FhUloxdWJyUmgyVHNBSmJqanpNNk5HV3VPWDE3M2VNbmdqaldQd21wTHpWelQtN2x1VTdCUQ?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.08.27",
-          "title": "Web Travel Group upgrades guidance as shareholders back executive bonus",
-          "source": "travelweekly.com.au",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWDA2QnJnVjI4NDBndlFYN2N3aW5wZWd6YTdEcHJBV2xLZlZNMlcyaFhMeUhvUl9PcUNUUG9LYmh3eXFEUmhUcDNlRjBESEN2TmdxanVRVFg2cDk3dENXbXNkZk1wVl9CZ2ZINHlPbWtzM05YRFZVWHNwLS1rUmxxVHlhLXZBbUtqTU1hUWxpTWo1d2lvemJ0emRiQ1ZkSkJTeVE?oc=5",
+          "date": "2026.06.02",
+          "title": "Web Travel Group acquires hotel rebooking platform Pruvo",
+          "source": "PhocusWire",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSzhqUzVfWlNGRmNNemlzQzZzSW5UanNISkxJTHJBRmh6U29HLTlFRURzY1BORkNSNVUtQVFqdm9vOFdELUpCbmgtLXkwREtzbFIxUjJXSml5MkIyM3lqZTBMVVZRU1NHVEsxTWVqNmdCa3NCOTM4UFNQXzdSYjA4bGxmc1hGSDhnYmIw?oc=5",
           "summary": ""
         }
       ]
@@ -114,10 +114,10 @@
           "summary": ""
         },
         {
-          "date": "2026.08.27",
-          "title": "TBO Tek shareholders approve re-appointment of four independent directors",
+          "date": "2026.08.30",
+          "title": "TBO Tek promoter Manish Dhingra declares no encumbrance on shares for FY 2025-26",
           "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV3JfQ1ZHTVVDQkJmdFkxdWJHNmpDMWdqWkpvenNlQmtyX2JneEYtWmY5NE4xbHBHOUtSMmhRSmJHZldNMkxLNWxLOXRzdnlIZzBXNW9Jb25sUXBBb0FKdUpLcHhSZFV5NTdmcS01V1Q5X3B3X1pfVnlsWkltaWhoWkZHenhYWnBMd25jWU1SME1XWGJra2JaTFAtWmxxV18tMTNMZlZJUUpFNVAxMENxWA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdU94TkdUUWk1TlM2S29JNVpIOVJ4RTlYU1oyYVlveExnaUtQbFBPeGtvTkJmXzZnenpXa1NSdnlzYzY1eUtIampZWlg2RlFOZllOSkl4MDFaVXFXZEtycUdzTTZUcWVaaUJuRWhlSjN3MG5ONFhBRmNVcmVnRGpPdDBWSU9lckdzdzFrSDRvck00UUxKWmQ3S2ZLWWlmS1czbUkzZFBEek5Pay1IOFlJWGMta012eVJjU1hBbHFn?oc=5",
           "summary": ""
         },
         {
