@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-01T01:45:50+00:00",
+  "generated_at_utc": "2026-09-02T00:57:45+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -49,13 +49,6 @@
           "summary": ""
         },
         {
-          "date": "2026.08.31",
-          "title": "Analysts Offer Insights on Consumer Cyclical Companies: DoorDash (DASH) and WEB Travel Group (OtherWEBJF)",
-          "source": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQU0kxTVFQSko5RUtBcmJhbGFlaWMtSElqRzRjQUFjbWJPVmQydTVFYnk3S0tpaGN6aW1tTmVQclNCSDA3WDM1bUZpcEozNFZOVlV5czRFeUJQVncxLThId2VHZTMtTHFDdnlFSFE3OW9QQk1TZDdkM3pIRTlCYnhTdzhjbWgwYUxxM1FDcXZhcVlqVHFZbXVFbFdpYncxZWJZdzJyVWlMeV9IUlE3X051ZFhQelBfV2RuYXZweTU5S3hVZVpNaUg0Rzl6c3UwczhCVWlWbTRDck91Z2ZtM1ViZXRoUGFyQmRCYlVVdXhIa2FjUExDR3hZR3VQTEhTamRkbm9zbU95YnBfM0paaVE?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.08.27",
           "title": "Web Travel Group Raises H1 Guidance",
           "source": "Moomoo",
@@ -64,9 +57,16 @@
         },
         {
           "date": "2026.08.31",
-          "title": "WebBeds Group Buys Back 292,086 Shares on 31 August 2026",
-          "source": "Kalkine",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdi11cGpoeW9tRk9nbThTWVBkckZwV1kwX1pLeElzQ2h4bEFucGt3ak1zb2I3dU1EUEhHY0VKRGQ3aUJjWFpiX2h2WmdidlotMjlSTDZqVmxycTExeXNwSHFXdC1FWFNtR3VwSFpxX29OQ2Zkc3RQNmlZd0RZNXU3dnlpUk1NR1pncFpiak95d0txSUpWUFAwdkhsYUlGZw?oc=5",
+          "title": "Analysts Offer Insights on Consumer Cyclical Companies: DoorDash (DASH) and WEB Travel Group (OtherWEBJF)",
+          "source": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQU0kxTVFQSko5RUtBcmJhbGFlaWMtSElqRzRjQUFjbWJPVmQydTVFYnk3S0tpaGN6aW1tTmVQclNCSDA3WDM1bUZpcEozNFZOVlV5czRFeUJQVncxLThId2VHZTMtTHFDdnlFSFE3OW9QQk1TZDdkM3pIRTlCYnhTdzhjbWgwYUxxM1FDcXZhcVlqVHFZbXVFbFdpYncxZWJZdzJyVWlMeV9IUlE3X051ZFhQelBfV2RuYXZweTU5S3hVZVpNaUg0Rzl6c3UwczhCVWlWbTRDck91Z2ZtM1ViZXRoUGFyQmRCYlVVdXhIa2FjUExDR3hZR3VQTEhTamRkbm9zbU95YnBfM0paaVE?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.07.28",
+          "title": "WEB Travel Group Number of Employees 2026 | Employee Count & Headcount Data",
+          "source": "Revelio Labs",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TM0t1dXBTdkd5N01nR3hVaXdIMEsyakFvQVYwZ3lEUmdBa0x1MW5yT0VkcWpfMG1Nd1Nlbl91ak1hQ2w2bGsxS3VaZklwZjJoZlZ4UF9VMzNaeU1sWW9qU2tvbzdnTnpsV0tSZm1lTTBodw?oc=5",
           "summary": ""
         }
       ]
@@ -107,23 +107,23 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.08.31",
+          "date": "2026.08.19",
+          "title": "TBO Tek Well Positioned for North America's Luxury Travel Growth, Says Jefferies; Check Target Price",
+          "source": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEQ1MW5vZlE2eHJVXzRzaWwwWmVvWG9XZHFuTjM0aEN2ZlRGWHlHcDJWQVRTb1FNRGJnUUcycHRPWENCNjZCMXZqcUZuS3huNy16c25KT1FXazl5QXFGZXhNNWNhTWVUYW0xbzBEUHFIbUt5YU5PbUszekhqYmFKbE1mcE5KTk5fSHhGRmNUbFFid1RHTWcybWV4NXgyS0xndE9WOG1qbjh1QXVZZDlZa0V3OF9nOU1kNmZLZXhOQUZBR3kzenJDZGlIbzJtaERIYUd5NlhoSy3SAeABQVVfeXFMUF9naDI0TnY1RE11SkRQd0EyTjdBUVgwYnhyNGNvc1BTWF9WOVlNc0ZBbm83ZnNYc2ZvMmZPUXV2Xzk2ejAyQ0xwRXRRTUV1WHpOLW0wMmo1RXBRMlc3ZGVsbFVsMktEbDR0b0lhQmpDN2NQWEJKZ3RNQW5jTjRULVNKQnNhMmFwa01wT2tCQk1MUGNxY3RCZWRqRFVuandBem9MRWVZMEdGRDY3RF83Qm94ZHFNcHNCVXY0Skpwd0xZUE50MGhLazZ4R3ZnT29GcGlsSlpXYzh2TmxnQVhnSUs?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.09.01",
           "title": "TBO Tek shareholders approve re-appointment of four independent directors",
           "source": "scanx.trade",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV3JfQ1ZHTVVDQkJmdFkxdWJHNmpDMWdqWkpvenNlQmtyX2JneEYtWmY5NE4xbHBHOUtSMmhRSmJHZldNMkxLNWxLOXRzdnlIZzBXNW9Jb25sUXBBb0FKdUpLcHhSZFV5NTdmcS01V1Q5X3B3X1pfVnlsWkltaWhoWkZHenhYWnBMd25jWU1SME1XWGJra2JaTFAtWmxxV18tMTNMZlZJUUpFNVAxMENxWA?oc=5",
           "summary": ""
         },
         {
-          "date": "2026.08.19",
-          "title": "TBO Tek Well Positioned for North America's Luxury Travel Growth, Says Jefferies; Check Target Price",
-          "source": "ndtvprofit.com",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEQ1MW5vZlE2eHJVXzRzaWwwWmVvWG9XZHFuTjM0aEN2ZlRGWHlHcDJWQVRTb1FNRGJnUUcycHRPWENCNjZCMXZqcUZuS3huNy16c25KT1FXazl5QXFGZXhNNWNhTWVUYW0xbzBEUHFIbUt5YU5PbUszekhqYmFKbE1mcE5KTk5fSHhGRmNUbFFid1RHTWcybWV4NXgyS0xndE9WOG1qbjh1QXVZZDlZa0V3OF9nOU1kNmZLZXhOQUZBR3kzenJDZGlIbzJtaERIYUd5NlhoSy3SAeABQVVfeXFMUF9naDI0TnY1RE11SkRQd0EyTjdBUVgwYnhyNGNvc1BTWF9WOVlNc0ZBbm83ZnNYc2ZvMmZPUXV2Xzk2ejAyQ0xwRXRRTUV1WHpOLW0wMmo1RXBRMlc3ZGVsbFVsMktEbDR0b0lhQmpDN2NQWEJKZ3RNQW5jTjRULVNKQnNhMmFwa01wT2tCQk1MUGNxY3RCZWRqRFVuandBem9MRWVZMEdGRDY3RF83Qm94ZHFNcHNCVXY0Skpwd0xZUE50MGhLazZ4R3ZnT29GcGlsSlpXYzh2TmxnQVhnSUs?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.08.31",
           "title": "TBO Tek Ltd Shareholding Pattern – Promoters, FIIs & DIIs",
-          "source": "valueresearchonline.com",
+          "source": "Value Research",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU2NvQXNDZGFSUFNoSEZfWHFkcWJPYk85dzBmbzkyRmdFQzVQT1h6UU1VbURfdFh0eXMyN0ppM3FRU3p1NDJfVDdkUl90MVVxVEViWEwzUC1yYzFIdlMycU9VdW1iSlA3SEg3Uk5VSV90b2VJVEJBVHdoWHlrQUJYQQ?oc=5",
           "summary": ""
         },
@@ -195,7 +195,7 @@
         {
           "date": "2026.07.28",
           "title": "Hotelbeds Group Number of Employees 2026 | Employee Count & Headcount Data",
-          "source": "reveliolabs.com",
+          "source": "Revelio Labs",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VWVl3amhXcVlENXNfZFh0UGt0dno0emJGbjNydVVuYjVVZ3VGWU5qbGdLTHdJUUY4MS1YcDIzaFotemJabWY0MThGeEM2T01odC1lcU9fR0FnX29QTm1uWnU2NlJRZmZtWk9oZ0pZMko?oc=5",
           "summary": ""
         }
