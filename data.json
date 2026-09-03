@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-02T00:57:45+00:00",
+  "generated_at_utc": "2026-09-03T01:02:54+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,6 +42,13 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.08.31",
+          "title": "Analysts Offer Insights on Consumer Cyclical Companies: DoorDash (DASH) and WEB Travel Group (OtherWEBJF)",
+          "source": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZHpUNVJTM2ZhSWdjQ3BUaHJHSnVlUjE1VnZWeHc1SGJqeDZCcnhES2szbDdsdWkxVkJCeDVIT1Q4TDc4bmszd1ZBTWZIWS1LXzNwZDI2bzZhcmgzS2JqU1FBR2hnZWVFbW9Ec3RkcEpzczZFNkpEdUU5YllWeV9vUmlLSmNkSHN0cDJnTWZqNVpRSmZsRmhWc1I0UkViOG5QbUlsU0hlZE1nalVhdzhScGVVekZ3b2czRkVDSGw0WUVNOTR3YXNNekVXRU1hOElITmg0a2Z3OTAwaGVFX3REZzZpVTlEUzZpY2cxZFhFR1F3X0Nva2tSRGtLSk5oX2lrN3lrRDl0LUZIQlVSVmFGZlRfTnY?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.09.01",
           "title": "Web Travel Group Limited will Change its Name to WebBeds Group Limited",
           "source": "marketscreener.com",
@@ -49,24 +56,17 @@
           "summary": ""
         },
         {
-          "date": "2026.08.27",
-          "title": "Web Travel Group Raises H1 Guidance",
-          "source": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ0pBZDAteEhqZWR3QUNEb0d0QllyelBacmM4TWMySVI2WWVQX0h0VHNHVjRxRDhLS3pLWUR3czc0QVdqZHdHOHFLNTNGZUNrQWFOekhwLXRrT21EdXk1OXFVRlpFck12N1VCRjRqQkRna1Z6SXRJWjA1djlwcVVjS1FKRQ?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.08.31",
-          "title": "Analysts Offer Insights on Consumer Cyclical Companies: DoorDash (DASH) and WEB Travel Group (OtherWEBJF)",
-          "source": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQU0kxTVFQSko5RUtBcmJhbGFlaWMtSElqRzRjQUFjbWJPVmQydTVFYnk3S0tpaGN6aW1tTmVQclNCSDA3WDM1bUZpcEozNFZOVlV5czRFeUJQVncxLThId2VHZTMtTHFDdnlFSFE3OW9QQk1TZDdkM3pIRTlCYnhTdzhjbWgwYUxxM1FDcXZhcVlqVHFZbXVFbFdpYncxZWJZdzJyVWlMeV9IUlE3X051ZFhQelBfV2RuYXZweTU5S3hVZVpNaUg0Rzl6c3UwczhCVWlWbTRDck91Z2ZtM1ViZXRoUGFyQmRCYlVVdXhIa2FjUExDR3hZR3VQTEhTamRkbm9zbU95YnBfM0paaVE?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.07.28",
           "title": "WEB Travel Group Number of Employees 2026 | Employee Count & Headcount Data",
           "source": "Revelio Labs",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TM0t1dXBTdkd5N01nR3hVaXdIMEsyakFvQVYwZ3lEUmdBa0x1MW5yT0VkcWpfMG1Nd1Nlbl91ak1hQ2w2bGsxS3VaZklwZjJoZlZ4UF9VMzNaeU1sWW9qU2tvbzdnTnpsV0tSZm1lTTBodw?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.06.02",
+          "title": "Web Travel Group acquires hotel rebooking platform Pruvo",
+          "source": "PhocusWire",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSzhqUzVfWlNGRmNNemlzQzZzSW5UanNISkxJTHJBRmh6U29HLTlFRURzY1BORkNSNVUtQVFqdm9vOFdELUpCbmgtLXkwREtzbFIxUjJXSml5MkIyM3lqZTBMVVZRU1NHVEsxTWVqNmdCa3NCOTM4UFNQXzdSYjA4bGxmc1hGSDhnYmIw?oc=5",
           "summary": ""
         }
       ]
@@ -114,10 +114,10 @@
           "summary": ""
         },
         {
-          "date": "2026.09.01",
-          "title": "TBO Tek shareholders approve re-appointment of four independent directors",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV3JfQ1ZHTVVDQkJmdFkxdWJHNmpDMWdqWkpvenNlQmtyX2JneEYtWmY5NE4xbHBHOUtSMmhRSmJHZldNMkxLNWxLOXRzdnlIZzBXNW9Jb25sUXBBb0FKdUpLcHhSZFV5NTdmcS01V1Q5X3B3X1pfVnlsWkltaWhoWkZHenhYWnBMd25jWU1SME1XWGJra2JaTFAtWmxxV18tMTNMZlZJUUpFNVAxMENxWA?oc=5",
+          "date": "2026.02.11",
+          "title": "TBO’s North America Deal Begins to Show Up in the Numbers",
+          "source": "Skift",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ21qWTBvNnlKUzFzUFRYdVE5Z1BGbGwybFl2d19ocUwyM3JNdzRiWF82amdNa19mYkpfUHdSY2poSi03Wkt2amxvc1JNN1Y2endGVDk1MmZEeWNRdWFNSXhxZGNNUmNnb0xZNmdzU21iQkFSWFVkQldGYWlwWGJVMEZaRE9zT0V1Z21LSXU4Yw?oc=5",
           "summary": ""
         },
         {
@@ -128,10 +128,10 @@
           "summary": ""
         },
         {
-          "date": "2026.02.11",
-          "title": "TBO’s North America Deal Begins to Show Up in the Numbers",
-          "source": "Skift",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ21qWTBvNnlKUzFzUFRYdVE5Z1BGbGwybFl2d19ocUwyM3JNdzRiWF82amdNa19mYkpfUHdSY2poSi03Wkt2amxvc1JNN1Y2endGVDk1MmZEeWNRdWFNSXhxZGNNUmNnb0xZNmdzU21iQkFSWFVkQldGYWlwWGJVMEZaRE9zT0V1Z21LSXU4Yw?oc=5",
+          "date": "2026.08.30",
+          "title": "TBO Tek promoter Manish Dhingra declares no encumbrance on shares for FY 2025-26",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdU94TkdUUWk1TlM2S29JNVpIOVJ4RTlYU1oyYVlveExnaUtQbFBPeGtvTkJmXzZnenpXa1NSdnlzYzY1eUtIampZWlg2RlFOZllOSkl4MDFaVXFXZEtycUdzTTZUcWVaaUJuRWhlSjN3MG5ONFhBRmNVcmVnRGpPdDBWSU9lckdzdzFrSDRvck00UUxKWmQ3S2ZLWWlmS1czbUkzZFBEek5Pay1IOFlJWGMta012eVJjU1hBbHFn?oc=5",
           "summary": ""
         }
       ]
@@ -172,24 +172,17 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.08.28",
-          "title": "What Hotelbeds’ Shrinking Margins Mean for Hotel Distribution",
-          "source": "Skift",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3ZCd3RTd1ZPcW1aN3ZnOFRDZXlqN3I5LXY0UHR1ekJSVzRTYTY5NkE0YzhqZ3d4YnM3MEQ3YlpqYm5Ia2UzVlRoZVFDdnpUb2VNenNBeHVhN01mamwtTVBqUTlMVUt2WTU1TEpMSnFnVlo0N1Y3dUE1TjJBVkZqVmZXWkh6UHBVY0k5N1RoSUI1RFFf?oc=5",
+          "date": "2026.09.02",
+          "title": "HBX Group drops agentic commercial workflows for hotels with Vorsee",
+          "source": "travolution.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1lhWDhQeW5mNWctdlJhdGZ2ZzEtV3hmOTVTZEwxUmFFU01YX2d5VmlaVk81VWJQU3puNk05eTdKVlEwU2tpQ2V5X29iOW4yOHZENTlnMmcyT0xWZ1dmdU5QbDkxVXF0aDFqdGZmTUl2azRNSmthZ0pQbzRKdlJiV3Jwa0RobUNWZE9Sa0Z1RXNmWTB4ZHFFX2E0ZmExZmxwVHNnaDhabk5pdUx2SGJGSTBDMk9MWW1tMmtFakNLcXNpalpNNE55a3NR?oc=5",
           "summary": ""
         },
         {
           "date": "2026.07.29",
           "title": "HBX GROUP ANNOUNCES THIRD QUARTER 2026 TRADING UPDATE",
-          "source": "PR Newswire",
+          "source": "prnewswire.com",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ0NkT2lTRjhFelNqdDZrSEtGc09SQkhKR3dHMDhwWnVxRkxPeXJWVHVMb3ZZT09wX252b1NXQUdscmVHd3dVQzEwNWhFTmxmUnkzSnpRcGxxRkozWkpNa2RPdXh2cHo1ZUlZQXV1UWNyNWhkZUM2SnoxY3dseHVHUG0xSTE3R2pxMWRyNlRfRklJbGZhVFFBQmYtRTIzX1duX1VZYU8tMXZRMkF6YWc?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.08.12",
-          "title": "AI transformation in travel: Javier Cabrerizo of HBX Group",
-          "source": "PhocusWire",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPanhrZ013bGV6eXl1NkhCU0dLR0V6SVlDZ0p3QnJSM1hTb2Z5LUVraVFnVTVjZ2lNM2Y1NlVZU1hieEtOZkVKVWs3bnlVOG9iWkd5bjE5Y2pjTm5CaVlPQ3RVamV5QUhPc2xONE9rYTN0dFA5M1lpamJsUUMyUDNXY2pKMW5Da1JzcVlkMVZWalZIXzJ3SG1qLVdEYVFTeHB3X3lpWEVfZE1oUQ?oc=5",
           "summary": ""
         },
         {
@@ -197,6 +190,13 @@
           "title": "Hotelbeds Group Number of Employees 2026 | Employee Count & Headcount Data",
           "source": "Revelio Labs",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VWVl3amhXcVlENXNfZFh0UGt0dno0emJGbjNydVVuYjVVZ3VGWU5qbGdLTHdJUUY4MS1YcDIzaFotemJabWY0MThGeEM2T01odC1lcU9fR0FnX29QTm1uWnU2NlJRZmZtWk9oZ0pZMko?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.04.29",
+          "title": "HBX Group reveals how the travel industry is adapting to volatility at MarketHub Europe",
+          "source": "Hospitality Net",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQjVra19oXzJnbnQydTRGZXhkWno3TWZZYzFYWE01SG9RTHJiZXhFYnpTLXhKNG1acEZ1b0NYTzVUNC1WU3I0QnF0aDJ0WV9WZ2RPME1CRjNzSWJ5bjZLcXV6OUI0ZVR1dVRXUTZTTFhHUmxoREtwUVFNUnZqVkJwcFlCVFBtMThpOUxYVDZkblRtVTFJczM3YzROajF1ZnYxbDVHVGpkVzBxcndjT1pRVElxX2lYWUgtNGE4dFNrWk01M3FUSlJGRTRwUQ?oc=5",
           "summary": ""
         }
       ]
