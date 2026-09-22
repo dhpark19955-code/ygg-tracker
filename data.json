@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-21T00:58:21+00:00",
+  "generated_at_utc": "2026-09-22T01:33:14+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,9 +42,16 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.09.21",
+          "title": "WEB Travel Group (WBJ) Q4 2024 Earnings Report - Results, Call & Slides",
+          "source": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FQ1l1OXlfNVFrYkJFekVGUVVkV0xnYUpteWtwME5Uc2hzbmpLa1djeFk0YlY2YmJNbXNEWkJyOTR0NG1CTjh2dFVTZVl5M0ZraGY4bF9mWmVCci1RVDZiRFZyX3AtYWdQT2J3WjRLNA?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.09.16",
           "title": "WEBBeds Continues On-Market Share Buy-Back Program With Daily Update",
-          "source": "theglobeandmail.com",
+          "source": "The Globe and Mail",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZnc2dmhOejAzTTY2Y3ZXRnljNllKS2x2VFNuWWVPWU5fdFNRMGM0VFdKTnZ4bU1SVVlVQ1AwYzgzcFNZLXlPYThUTlNpYnJDZFRnZUFJSHhJeGpZb201dmxmWDh6ekhIUGJBRHNTTUlzVGQ1akhZR3JZNjFFVU95MV9rZWhfV2pFUU9VR3c0eDlFYVJfWWIzWGFWZGZ3dDhqRHdrQWRmZUJqRmJBblVIWGhfMjMzODFiaDBUVFNlZ2YxbDVqT1pCVEFEN3ktWnJYY291V2g5SG9tUFRWeEdkTnRUQXAtZERLOWc?oc=5",
           "summary": ""
         },
@@ -53,13 +60,6 @@
           "title": "Jarden Initiates WEB TRAVEL GROUP LTD(WEBJF.US) With Buy Rating, Announces Target Price $3.93",
           "source": "Moomoo",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkdxWEllR0t2bDFHUUgzTGFPRFo3VDA2b0JEemRBcWJVTDJiQWNGQTRWMlAtTGt6cXcteEJFeUxOQjVqVXRLWWtpdXpHbk0wV1ZPanZQdVY1bUxhb0h2VkdFX25GN3RWamlPZnBISEpFT3J3ajRlT1JibXdwbDg1dVlHVXFJa3JmYXBWd3VPWV9Lckp5TWRtbWtsZ3k0eWJRY09TcEZR?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.09.17",
-          "title": "WEB Travel Group (WEB) Q4 2026 Earnings Report - Results, Call & Slides",
-          "source": "TipRanks",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nM0ZCUXBNaEVIT243N2kzNldMVXhEUzhneDlUX3hpNDdrZlBCNE1mVF9aWThSZk9IZ1YxcEZCM1o2QkVpaEd1b0RFaTdIM0NUU0RKQ3c2X3RzZFhvb0pUR29DMnNVU09XR2JGTmxZVQ?oc=5",
           "summary": ""
         },
         {
@@ -107,13 +107,6 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.07.30",
-          "title": "Earnings call transcript: TBO Tek misses Q1 2026 estimates as growth holds up",
-          "source": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWJXb2pSSXJCTjdrOWRyblVKQ0F1SmZWOFZZS19wM0dpYXpFV0o3UVpzTWVCRk1LaVpBZFRNWnlVaGtzdlZ0QzlrZ2tteGJrbTI4QzBFZWlkSGljelR6QVBQd3VIeGprQmR3OUdiTy1YRVBQdFVSbDVuZll6emNVT2MtTWlxNVFKdDloZDJBbjh2LXRXRWFNbmptempjM2drY0JRZ1d0TWs2TmxqbWlvVUtsNWk3ODM0bFlZdnU3NjdQRGpHQXpBU2k0ZTQ?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.08.19",
           "title": "TBO Tek Well Positioned for North America's Luxury Travel Growth, Says Jefferies; Check Target Price",
           "source": "NDTV Profit",
@@ -121,10 +114,10 @@
           "summary": ""
         },
         {
-          "date": "2026.08.02",
-          "title": "Earnings Beat: TBO Tek Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",
-          "source": "webull.com",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KNXFxOTF3SXZxNW5mdWdzUWF5T0xlQkpadkx4MTBuRndBSmd2TE9RRzBpYTU3ZHNKZEhrWmJnMVE5UU5fUmRCNFp5SEUtUDFSRVNhYTlRUHQ?oc=5",
+          "date": "2026.07.30",
+          "title": "Earnings call transcript: TBO Tek misses Q1 2026 estimates as growth holds up",
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWJXb2pSSXJCTjdrOWRyblVKQ0F1SmZWOFZZS19wM0dpYXpFV0o3UVpzTWVCRk1LaVpBZFRNWnlVaGtzdlZ0QzlrZ2tteGJrbTI4QzBFZWlkSGljelR6QVBQd3VIeGprQmR3OUdiTy1YRVBQdFVSbDVuZll6emNVT2MtTWlxNVFKdDloZDJBbjh2LXRXRWFNbmptempjM2drY0JRZ1d0TWs2TmxqbWlvVUtsNWk3ODM0bFlZdnU3NjdQRGpHQXpBU2k0ZTQ?oc=5",
           "summary": ""
         },
         {
@@ -132,6 +125,13 @@
           "title": "TBO’s North America Deal Begins to Show Up in the Numbers",
           "source": "Skift",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ21qWTBvNnlKUzFzUFRYdVE5Z1BGbGwybFl2d19ocUwyM3JNdzRiWF82amdNa19mYkpfUHdSY2poSi03Wkt2amxvc1JNN1Y2endGVDk1MmZEeWNRdWFNSXhxZGNNUmNnb0xZNmdzU21iQkFSWFVkQldGYWlwWGJVMEZaRE9zT0V1Z21LSXU4Yw?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.08.25",
+          "title": "TBO Tek Schedules Analyst and Investor Meetings for September 2nd and 18th",
+          "source": "Sahi",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHJWZ0JaRzQzUkd5YkJ3UzRZckdGREU1UjBueXFGeHhHTGtkZ251a3dEcnNmd19oWVVBQkFZdXJEQnJWTXNjVXNvYkg4YzhWaWpqZ09TN2hVTC1EbDY0endBNjFZR1RkYmdmMXoyVjhRejU2eUhhZ2dPSDZKR3VCZk01V0YxUlo5R3NuODM0VGt4c2hMRVRJb0tvYVFSeFB4ZXlYLURLZnlfaXlrZUVtRl8tSQ?oc=5",
           "summary": ""
         }
       ]
@@ -179,24 +179,24 @@
           "summary": ""
         },
         {
-          "date": "2026.09.08",
-          "title": "HBX Group and Vorsee Partnership: Predictive Travel Intelligence for Hotels | 2026 - News and Statistics",
-          "source": "IndexBox",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHVETjBHTlZFck5uQWotcUYyNHpWYkNVeno5NlFRNE9HdThrV0piOV9UYXN0TDlHSHk2dkR6QnBwSngxY3FfRUlKWHJFNjZLQkxuajFTUXdrZTJOMlRPTk9WUE9lNEZaMkFFdXNEanhuRkNZTVM2eVZaSVVCckxZMGdLYmF6MS1SVGgzTjdidnN6OTBLZEtsVUhmVkpiel9jTGIyTy1fMWh5dGtqWXc?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.07.29",
           "title": "HBX GROUP ANNOUNCES THIRD QUARTER 2026 TRADING UPDATE",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUjBYNVgzOU5PM193TXI0V3ctZWlTOGpuN1RIQmNtNHVieXRYWTRadUd2T0RkdkFpOHJXQmZva0NkaGNmS3BQdHhuY2dHWVhid2RfVnphMFR2NjVhZGFaQW5yM0JKM1VWcVJJWWdfS3BTajNSeWtVT2F0LWZhX28wa2xGclo2RGVDd0J2SHZZVUtMY2ZDbUZNaV96Q1pNTnA2aV83QjJTTzk5YV9PY3ptT2ktNkE?oc=5",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnhYLVMtTzZRV0gtbnFNTTdPM2hON3FhMDVETVJKdkR1dEU5c1pLN05CaDVNY3lYQ1BjbXdwSUp2bTVybjhyTEpvYWNMUHpLWXlUelJtSlhpVEU0RWVqMlNHSFVTZ1RBYm1WZ28yUHRHdXhtMmlDNGxlVXYyekJBallURmhwaDZNRGtDWG9zRnY2T2hIZmJDcFpXWHprNTQ?oc=5",
           "summary": ""
         },
         {
           "date": "2026.09.04",
           "title": "HBX Group partners with Vorsee to bring predictive AI and agentic commercial workflows to hotels",
-          "source": "breakingtravelnews.com",
+          "source": "Breaking Travel News",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaUlzZG51dmUtdjAwd2dBTHBXTmZIcFZreURjUE13Z2tRLXc1Mzd1STYtd0pWSm9wTHN3Z3VTcmxlem16RlhOTUx3U0xsLWhJd01sVUlvX0pLMXlqNFBnRmUyWEo1eU5EZXBUazYyUVZtbzBHbHAtUjVDeW9lLW5EZG5PWFh6M1B3bUx6TE1QTnRraXBOc1E2Q0pqbzh0RW5PXzQ3eDlfYVNoYVRxN04ybWI1NGRHR3lzVWNVcy1YdnlMQQ?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.09.02",
+          "title": "HBX Group Signs Strategic Partnership With Swiss Travel AI Company Vorsee",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ2piUFFWbVVCYms0M2tSWXM3eFBtZEc4NmU2VmQyZHhRdjRId21OOU41Q01vcjNOSmdFRlN2VlFsMGV2NldaSnpsY0ZlUHhlMm1mVkMxX1ZxVGc0dXVYN0xfWDl2c29lcGFfeWVUY0RoM3luZ1AteGMyV2FLeUVKWkZ4MkYyNUNrUmkzOE5YcnNLLWpHT0p1eUl6YW9QUVFWVGJnT214RkpCdmw0Z3R5dXA3bzBsbThReVp1ZC1UZDdZRWlXQmJKelJJWTFVX052cXlEdFJYMnBNUHc?oc=5",
           "summary": ""
         }
       ]
