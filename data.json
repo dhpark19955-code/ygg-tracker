@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-27T01:17:06+00:00",
+  "generated_at_utc": "2026-09-28T01:31:03+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,6 +42,13 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.09.28",
+          "title": "Where Does WebBeds (ASX:WEB) Stand as Its Interim Period Ends?",
+          "source": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkVWUEJWVEh4SVFMUW1qOGl1cDhROWEyUnJ1eEN0d01DalZJT29fcWJLQ3dzXzlGd2VCc3NyYmJXejBuT1VSSFNhVEJ0Q3FvdjRRT0dpVzkzS0JSeEtWSzFpN1k2djFqY202WUE1OGVEc09FOW9nNUcyaXFSbmFSMThWOVZscHl2YUJ0bXhFc1dVYXpMSzRrWTRMeTR2UXI2eHNoZg?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.06.02",
           "title": "Statutory Profit Doesn't Reflect How Good Web Travel Group's (ASX:WEB) Earnings Are",
           "source": "Yahoo Finance",
@@ -60,13 +67,6 @@
           "title": "WEBBeds Continues On-Market Share Buy-Back Program With Daily Update",
           "source": "The Globe and Mail",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZnc2dmhOejAzTTY2Y3ZXRnljNllKS2x2VFNuWWVPWU5fdFNRMGM0VFdKTnZ4bU1SVVlVQ1AwYzgzcFNZLXlPYThUTlNpYnJDZFRnZUFJSHhJeGpZb201dmxmWDh6ekhIUGJBRHNTTUlzVGQ1akhZR3JZNjFFVU95MV9rZWhfV2pFUU9VR3c0eDlFYVJfWWIzWGFWZGZ3dDhqRHdrQWRmZUJqRmJBblVIWGhfMjMzODFiaDBUVFNlZ2YxbDVqT1pCVEFEN3ktWnJYY291V2g5SG9tUFRWeEdkTnRUQXAtZERLOWc?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.09.21",
-          "title": "WEB Travel Group (WBJ) Q4 2024 Earnings Report - Results, Call & Slides",
-          "source": "TipRanks",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FQ1l1OXlfNVFrYkJFekVGUVVkV0xnYUpteWtwME5Uc2hzbmpLa1djeFk0YlY2YmJNbXNEWkJyOTR0NG1CTjh2dFVTZVl5M0ZraGY4bF9mWmVCci1RVDZiRFZyX3AtYWdQT2J3WjRLNA?oc=5",
           "summary": ""
         }
       ]
@@ -121,17 +121,17 @@
           "summary": ""
         },
         {
-          "date": "2026.09.22",
-          "title": "Broker’s call: TBO Tek (Buy)",
-          "source": "BusinessLine",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWExaLWRpUnJxYnZhY0RNaW1PSE41RDN5WENMakJYWTJzSTFxN0UyZjg5cFYyMXB5d1o2anFORWZiMDZwWWNsNXlWaGJfMzltVXo0b3laNnlPbU9zbG5wVnhoMVRnN3RXZ0I0M205NjZTVGxfVmF1eUQ2UFhudkY4NzZkUFhPd1BVek5VVk5FclRuUHfSAZoBQVVfeXFMT3hqUmdFZDZxdDQxV1k2OWkzU1hfRVM3RVlBLVdzN1pGaGFkc2x5akM3Q01Yek1FOFRaT2xUVV9NUk1BdHRDcTFUd2VnbDE4U2hDdk4xUXdnZ2JubFF3V3l5M2J2VlBmTnpQX0ZnclZhOG8wQU84U1owSFhzZ3hCbXdLR0g1THFPdV9HS1kyYUFBYXAyVlNPbjBXZw?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.07.30",
           "title": "Earnings call transcript: TBO Tek misses Q1 2026 estimates as growth holds up",
           "source": "Investing.com",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWJXb2pSSXJCTjdrOWRyblVKQ0F1SmZWOFZZS19wM0dpYXpFV0o3UVpzTWVCRk1LaVpBZFRNWnlVaGtzdlZ0QzlrZ2tteGJrbTI4QzBFZWlkSGljelR6QVBQd3VIeGprQmR3OUdiTy1YRVBQdFVSbDVuZll6emNVT2MtTWlxNVFKdDloZDJBbjh2LXRXRWFNbmptempjM2drY0JRZ1d0TWs2TmxqbWlvVUtsNWk3ODM0bFlZdnU3NjdQRGpHQXpBU2k0ZTQ?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.09.22",
+          "title": "Broker’s call: TBO Tek (Buy)",
+          "source": "BusinessLine",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWExaLWRpUnJxYnZhY0RNaW1PSE41RDN5WENMakJYWTJzSTFxN0UyZjg5cFYyMXB5d1o2anFORWZiMDZwWWNsNXlWaGJfMzltVXo0b3laNnlPbU9zbG5wVnhoMVRnN3RXZ0I0M205NjZTVGxfVmF1eUQ2UFhudkY4NzZkUFhPd1BVek5VVk5FclRuUHfSAZoBQVVfeXFMT3hqUmdFZDZxdDQxV1k2OWkzU1hfRVM3RVlBLVdzN1pGaGFkc2x5akM3Q01Yek1FOFRaT2xUVV9NUk1BdHRDcTFUd2VnbDE4U2hDdk4xUXdnZ2JubFF3V3l5M2J2VlBmTnpQX0ZnclZhOG8wQU84U1owSFhzZ3hCbXdLR0g1THFPdV9HS1kyYUFBYXAyVlNPbjBXZw?oc=5",
           "summary": ""
         }
       ]
@@ -179,13 +179,6 @@
           "summary": ""
         },
         {
-          "date": "2026.09.26",
-          "title": "HBX Group expands Virtuoso partnership globally to widen luxury travel offering",
-          "source": "ET TravelWorld",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMHE2VkM3SE5qcV8zQWxURmVaU3g4Sk5ZcVEzX1ZsZl9UMWY0ZHcxWmhhYUJCN1pVVC12YXNWRERxUXVZUHd4ZlI3djFvUTBudnFpalBDVUFVMnUycDZCM01jTml4dkdXLUExVHNjT2NaU3BsalRDUmhNMUFwVFQyYnhnRVJJZzBhMGM4YkI1MGNSZWZGWWtvQTJqcFpsbV9aVnFMajNKNlRhdlNLTmNIVEpIR21VdjZJUlBPUzl6S0dnMXZrS1RaNUQzOWpNQTV0TXVnSGZ2LVNWNmNLbXZTZ25RQWVaMEXSAesBQVVfeXFMTnU4OXFIbnBEQ20tR05Pb0VUUHA4d3JHbnRWNkpaUmpuWlhqSHF2ak5aaU1XZkVtU25Tb3ZJbXVab1hYam5HemFxWXd3cFVtOVJqZVN0LVFpT3hmSmI0cUc1Rnd3ZEhfTEFWMzBmSjRaMkxaZmY4QnNma2lqTEd6eWNrSWNWcDQtbS1rR0ZwZ1Q0dVJqUjJldmVNOVo3YTNMZzM2MmVhWkNTaWpFZ09OamEwUW56dW4zR3oxeklINTA4bkducWVZdUV0Y2Y5QmNRWG9DV3hRcnNBR2dsYkw1empBUmdPamZJbllONA?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.09.24",
           "title": "HBX Group and Virtuoso Expand Partnership Globally, Giving Advisors Access to Bedsonline",
           "source": "IndexBox",
@@ -197,6 +190,13 @@
           "title": "HBX Group Announces Global Expansion Of Its Partnership With Virtuoso",
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcjN3R0JuWEpkUjFfV0hYUU81UUZ4ek5FQVk3WkRDZ1g3RWRTc1gtMGhRWFRPT1dTM2JpQko4ZzlPS2RjeDZ4NFJIX1E1TDFGbXUwUjZOTFR2VmJkMTI1a2F4T2o2b1VsOWNHdXE3SE9YbWNJdGtIdmtaR3Q2RHY2Szc2NmtUenlDalZYZmpnSXE4S25kYS0zY09iRDZ1X2ZhZ2FIUjlYOWJ1VnZnVlBoazZhZE1sWlZpX0ljeEdfNDJjb0IxUC16WkdjMTVjT2R3NDgzWVZB?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.09.25",
+          "title": "HBX Group International PLC (Q1D.SG) Q2 FY2026 earnings call transcript",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSTJCRFplM19CbkhVUEVRSXRxdW90bDF4MTJzMEdBbEpwRFE5R0NueEd6T1hvTkZuZnFEZDR2eS04aHZsUkVBWUJadWtHZ2psTk1JalQ3SFNSS0hqcHhaQ3Zxa3NmM1JxRmxDaW5sNFNKZzFySnF6X21aM0tNQ3J3b0sxMVhoajBlOGp2VmhxVEo1V2s?oc=5",
           "summary": ""
         }
       ]
