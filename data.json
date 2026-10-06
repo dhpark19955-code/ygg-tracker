@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-05T01:47:51+00:00",
+  "generated_at_utc": "2026-10-06T02:51:06+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -40,7 +40,36 @@
         ]
       },
       "usd_market_cap": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026.10.06",
+          "title": "WebBeds Group Reports Lapse of 154,500 Performance Rights",
+          "source": "Kalkine",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3JXdjRCVEUxZmx6QVlhSkRjSHpBbFVtMlJoNHdRRy1PVUpPNXhkQU93NnBiWUJVbGVJLW83a1RRbFByN2dZczFIbFVfMklWT1U2S3FXSUUxRkJUeFYzcDh6alo2dFVWWm11U3VFNFVVTkN2elJwMXkwdi1WV3lPdzU0OUplbHlzVkpKbW1HQXViMHJNSE5Ha1lLRFItdnc?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.06.02",
+          "title": "Web Travel Group acquires hotel rebooking platform Pruvo",
+          "source": "PhocusWire",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSzhqUzVfWlNGRmNNemlzQzZzSW5UanNISkxJTHJBRmh6U29HLTlFRURzY1BORkNSNVUtQVFqdm9vOFdELUpCbmgtLXkwREtzbFIxUjJXSml5MkIyM3lqZTBMVVZRU1NHVEsxTWVqNmdCa3NCOTM4UFNQXzdSYjA4bGxmc1hGSDhnYmIw?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.06.02",
+          "title": "Statutory Profit Doesn't Reflect How Good Web Travel Group's (ASX:WEB) Earnings Are",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTl1NUNGd25qM3dGdlhoUkY1ck1mQmZSNThpYnFib3pvcGNHOVdUOUNvVzhlZlVTRDFFRGxLWTJLYWRQMHRPRVJUVUtLQ0J2X0F3eXBpdHZuejNKYjFiTHN2RVBmN0xtMnh6emh5dFdqb0l2Z3VHVGQzbVFib3k5N1VYTlctVFZvU2VPNUt3YUtnSDBBUHJLVFRhMTlwQm9fb0pz?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.05.26",
+          "title": "Earnings call transcript: Web Travel Group FY 2026 showcases strong growth",
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUTBGaFlJeXRMbzJBNFNhVFREWUJCcW9IWjdVU0Zyd2g5YVg1Q015em1lbHh2TkJRLUlmVGgwN1ZSYUpReUg5VE9OSWxGWDdPRkp0NVZkWDJYNHpzQXFPeWhRelQ1MktRMHk3c0ZJRVhtb0J3VHEwcEJfS0NfTEw4QjVpX3AwSEVnVG0ta3Y5MGpnNURyMUFKUThYZ2pSc1JVU0RoanpzMldweWZwRDBrTEZwMUdKZHl3VXhSQzZNSUZQODMwRTlNTw?oc=5",
+          "summary": ""
+        }
+      ]
     },
     "TBO": {
       "name": "TBO Tek",
@@ -76,7 +105,36 @@
         ]
       },
       "usd_market_cap": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026.10.01",
+          "title": "TBO Tek shares gain 3%; Nuvama initiates 'Buy' with Rs 2,200 target",
+          "source": "inkl",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSF95UlB1NWhZRVlvSUxjVG9VRUpCRTdkS1VDOXZwT1JYSVNFTlpNaGxzdlpHU2NST3V2RlF0WEs5N2NHWklTME9oMVdjaUl6NjhUUUJ5WF9JUFlvaWNNU1VySEpvN0tOOGhPQXpQTTlERDU2ZWR2SWpMdzhrTHpZbEpBQ1pzRGFiR0pBeHBQdEtLUHc?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.07.30",
+          "title": "TBO Tek Ltd (NSE:TBOTEK) (Q1 2027) Earnings Call Highlights: Resilient Growth Amid Middle East ...",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMmUwdl9PZjRnaGxuVkxFaEJla1hHUEZ1eDZOdWNoNDJoUVlBcWdwVE9BQVVFZUhTWUJnSTBDa2ZHMVBHR00xeHJVamVweGxMa2xSQmdrNjA3R3VKWjhuUWd5S0xoUUpXRDY5SUU4RlZraEp3ZHlTUXZxbzZFQnFRMUNzQ2QwYVNYLVBJcEV4SDI?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.05.28",
+          "title": "TBO Tek Limited Reports Earnings Results for the Fourth Quarter and Full Year Ended March 31, 2026",
+          "source": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRndwcDI4UFM3eWQwa2g4NnRZTHlRVWNJd21ta3k4cGNKbnJyTi1wdW1HdzctVC1rMDloQU5MMHpzbXRVR3hDOXlVS3VvYS01dkhwTDJaNWxUckV6TjlGTUlQYXE5dVhrUWNsSzBPclE4YzNIRml2QVI3NnFqcEFqeU5JOElUSkEwVm1DTVU5LV9EdXNNT0VmQkRDQ3hJWlhteEQ2YVhHdS1xSzg0RS01aFhaY1FQSTdrTXhqVjRYQzZrWnkwbXRIWFVHUW16d3VSZzlmdjdUMHRXM2hLczJvMFhnWnY?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.08.19",
+          "title": "TBO Tek Well Positioned for North America's Luxury Travel Growth, Says Jefferies; Check Target Price",
+          "source": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEQ1MW5vZlE2eHJVXzRzaWwwWmVvWG9XZHFuTjM0aEN2ZlRGWHlHcDJWQVRTb1FNRGJnUUcycHRPWENCNjZCMXZqcUZuS3huNy16c25KT1FXazl5QXFGZXhNNWNhTWVUYW0xbzBEUHFIbUt5YU5PbUszekhqYmFKbE1mcE5KTk5fSHhGRmNUbFFid1RHTWcybWV4NXgyS0xndE9WOG1qbjh1QXVZZDlZa0V3OF9nOU1kNmZLZXhOQUZBR3kzenJDZGlIbzJtaERIYUd5NlhoSy3SAeABQVVfeXFMUF9naDI0TnY1RE11SkRQd0EyTjdBUVgwYnhyNGNvc1BTWF9WOVlNc0ZBbm83ZnNYc2ZvMmZPUXV2Xzk2ejAyQ0xwRXRRTUV1WHpOLW0wMmo1RXBRMlc3ZGVsbFVsMktEbDR0b0lhQmpDN2NQWEJKZ3RNQW5jTjRULVNKQnNhMmFwa01wT2tCQk1MUGNxY3RCZWRqRFVuandBem9MRWVZMEdGRDY3RF83Qm94ZHFNcHNCVXY0Skpwd0xZUE50MGhLazZ4R3ZnT29GcGlsSlpXYzh2TmxnQVhnSUs?oc=5",
+          "summary": ""
+        }
+      ]
     },
     "HBX": {
       "name": "HBX Group",
@@ -112,7 +170,36 @@
         ]
       },
       "usd_market_cap": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026.07.29",
+          "title": "HBX GROUP ANNOUNCES THIRD QUARTER 2026 TRADING UPDATE",
+          "source": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ0NkT2lTRjhFelNqdDZrSEtGc09SQkhKR3dHMDhwWnVxRkxPeXJWVHVMb3ZZT09wX252b1NXQUdscmVHd3dVQzEwNWhFTmxmUnkzSnpRcGxxRkozWkpNa2RPdXh2cHo1ZUlZQXV1UWNyNWhkZUM2SnoxY3dseHVHUG0xSTE3R2pxMWRyNlRfRklJbGZhVFFBQmYtRTIzX1duX1VZYU8tMXZRMkF6YWc?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.08.28",
+          "title": "What Hotelbeds’ Shrinking Margins Mean for Hotel Distribution",
+          "source": "Skift",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3ZCd3RTd1ZPcW1aN3ZnOFRDZXlqN3I5LXY0UHR1ekJSVzRTYTY5NkE0YzhqZ3d4YnM3MEQ3YlpqYm5Ia2UzVlRoZVFDdnpUb2VNenNBeHVhN01mamwtTVBqUTlMVUt2WTU1TEpMSnFnVlo0N1Y3dUE1TjJBVkZqVmZXWkh6UHBVY0k5N1RoSUI1RFFf?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.09.24",
+          "title": "HBX Group and Virtuoso expand global partnership to enhance luxury travel offering",
+          "source": "Hospitality Net",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeDBrd3pMZkt5dUhFZS15c1ZLVXBKUVlobkY5b1NDakRwYWJfZVNSZUd4d3VLdjZTMzhYbV9hR09kcWdYeUR4ck1BUjFRWlJxQ19pcndHSnpoalluUkkwdGJVNTJ0Sy1kUFVJanVDb216OUpESXJTUlk5M1hrbzJsNFVrU2xJSXE3RFJ0cjBxd2Z3alFCU1pYRllDSGVVTnlWUVdVVDltRVRhOFRKa2ltNG5FNDBUOXRrandrMzZiMk9uaWFB?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.09.30",
+          "title": "HBX Group launches Bedsonline+ with expanded products and AI tools for travel advisors",
+          "source": "travel.economictimes.indiatimes.com",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZGVldHZvSHAyQURlZ2lzVjlIemtCQzMxQ2t1VnkyMTB0R1ZsY2NMTE1DSW5nSE1XZUludmE2eUdRT3BpYWsyN1lsdmFaLUdOeV9SV2ZQc3J0TjVWc1QxWktucUNIc0VYOHU4VFA4Z0VVSWRabFpPOWZIQ0tSX1BFMEFQTVdhUlV1TWhZQVFmVjRPZ2tDY2xLUHlOblk2Mk9HcjdKYWxDMm05QzdQR2RrMW9hb0I0X3Q0RUJuei16OHdRdllkTjhfODEtc0gxTy1JenlzdDMtYzVVdTBqSFVIazRwazdtZUdsLWfSAe8BQVVfeXFMT1M1dm5EQ09TMzl1ZlN6dERFY3JPNURLNGpVMkJrdGotRVNwWl9kdTI0aVZycktmeHJ4SFZjN0xQb1l6dkRvbml3cEhxQW1jM1BuMHdOZnVOTTNkeEgtWFhUQm5XMkh2MXBIaTNHSVdjOFY0RkNGd09OcXBrc2NyS083Vm8zZlJCT19SQ2gtWlB0SjFkSDBNOEhMU0NxVGx2eVpJTk1XTDJPcGtRM1VpWlJ0MnhjWWtMRFVTYkkwZlgyS0Y5N1JsMktIdFFwZkpaaFRzNzB1c0dZWTZpdVBvc0Z0aTRfQlJZc2hESXhBZWM?oc=5",
+          "summary": ""
+        }
+      ]
     }
   },
   "schema_version": 3,
