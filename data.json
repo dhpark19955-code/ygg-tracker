@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-06T02:51:06+00:00",
+  "generated_at_utc": "2026-10-07T02:12:48+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,13 +42,6 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.10.06",
-          "title": "WebBeds Group Reports Lapse of 154,500 Performance Rights",
-          "source": "Kalkine",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3JXdjRCVEUxZmx6QVlhSkRjSHpBbFVtMlJoNHdRRy1PVUpPNXhkQU93NnBiWUJVbGVJLW83a1RRbFByN2dZczFIbFVfMklWT1U2S3FXSUUxRkJUeFYzcDh6alo2dFVWWm11U3VFNFVVTkN2elJwMXkwdi1WV3lPdzU0OUplbHlzVkpKbW1HQXViMHJNSE5Ha1lLRFItdnc?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.06.02",
           "title": "Web Travel Group acquires hotel rebooking platform Pruvo",
           "source": "PhocusWire",
@@ -67,6 +60,13 @@
           "title": "Earnings call transcript: Web Travel Group FY 2026 showcases strong growth",
           "source": "Investing.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUTBGaFlJeXRMbzJBNFNhVFREWUJCcW9IWjdVU0Zyd2g5YVg1Q015em1lbHh2TkJRLUlmVGgwN1ZSYUpReUg5VE9OSWxGWDdPRkp0NVZkWDJYNHpzQXFPeWhRelQ1MktRMHk3c0ZJRVhtb0J3VHEwcEJfS0NfTEw4QjVpX3AwSEVnVG0ta3Y5MGpnNURyMUFKUThYZ2pSc1JVU0RoanpzMldweWZwRDBrTEZwMUdKZHl3VXhSQzZNSUZQODMwRTlNTw?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.10.06",
+          "title": "WebBeds Group Reports Lapse of 154,500 Performance Rights",
+          "source": "Kalkine",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3JXdjRCVEUxZmx6QVlhSkRjSHpBbFVtMlJoNHdRRy1PVUpPNXhkQU93NnBiWUJVbGVJLW83a1RRbFByN2dZczFIbFVfMklWT1U2S3FXSUUxRkJUeFYzcDh6alo2dFVWWm11U3VFNFVVTkN2elJwMXkwdi1WV3lPdzU0OUplbHlzVkpKbW1HQXViMHJNSE5Ha1lLRFItdnc?oc=5",
           "summary": ""
         }
       ]
@@ -121,17 +121,17 @@
           "summary": ""
         },
         {
+          "date": "2026.07.30",
+          "title": "Earnings call transcript: TBO Tek misses Q1 2026 estimates as growth holds up",
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWJXb2pSSXJCTjdrOWRyblVKQ0F1SmZWOFZZS19wM0dpYXpFV0o3UVpzTWVCRk1LaVpBZFRNWnlVaGtzdlZ0QzlrZ2tteGJrbTI4QzBFZWlkSGljelR6QVBQd3VIeGprQmR3OUdiTy1YRVBQdFVSbDVuZll6emNVT2MtTWlxNVFKdDloZDJBbjh2LXRXRWFNbmptempjM2drY0JRZ1d0TWs2TmxqbWlvVUtsNWk3ODM0bFlZdnU3NjdQRGpHQXpBU2k0ZTQ?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.05.28",
           "title": "TBO Tek Limited Reports Earnings Results for the Fourth Quarter and Full Year Ended March 31, 2026",
           "source": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRndwcDI4UFM3eWQwa2g4NnRZTHlRVWNJd21ta3k4cGNKbnJyTi1wdW1HdzctVC1rMDloQU5MMHpzbXRVR3hDOXlVS3VvYS01dkhwTDJaNWxUckV6TjlGTUlQYXE5dVhrUWNsSzBPclE4YzNIRml2QVI3NnFqcEFqeU5JOElUSkEwVm1DTVU5LV9EdXNNT0VmQkRDQ3hJWlhteEQ2YVhHdS1xSzg0RS01aFhaY1FQSTdrTXhqVjRYQzZrWnkwbXRIWFVHUW16d3VSZzlmdjdUMHRXM2hLczJvMFhnWnY?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.08.19",
-          "title": "TBO Tek Well Positioned for North America's Luxury Travel Growth, Says Jefferies; Check Target Price",
-          "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEQ1MW5vZlE2eHJVXzRzaWwwWmVvWG9XZHFuTjM0aEN2ZlRGWHlHcDJWQVRTb1FNRGJnUUcycHRPWENCNjZCMXZqcUZuS3huNy16c25KT1FXazl5QXFGZXhNNWNhTWVUYW0xbzBEUHFIbUt5YU5PbUszekhqYmFKbE1mcE5KTk5fSHhGRmNUbFFid1RHTWcybWV4NXgyS0xndE9WOG1qbjh1QXVZZDlZa0V3OF9nOU1kNmZLZXhOQUZBR3kzenJDZGlIbzJtaERIYUd5NlhoSy3SAeABQVVfeXFMUF9naDI0TnY1RE11SkRQd0EyTjdBUVgwYnhyNGNvc1BTWF9WOVlNc0ZBbm83ZnNYc2ZvMmZPUXV2Xzk2ejAyQ0xwRXRRTUV1WHpOLW0wMmo1RXBRMlc3ZGVsbFVsMktEbDR0b0lhQmpDN2NQWEJKZ3RNQW5jTjRULVNKQnNhMmFwa01wT2tCQk1MUGNxY3RCZWRqRFVuandBem9MRWVZMEdGRDY3RF83Qm94ZHFNcHNCVXY0Skpwd0xZUE50MGhLazZ4R3ZnT29GcGlsSlpXYzh2TmxnQVhnSUs?oc=5",
           "summary": ""
         }
       ]
@@ -172,6 +172,13 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.10.06",
+          "title": "HBX Group Partners With Bioscore To Help Hotels Achieve Recognised Sustainability Certification",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQOWZlc3BpcC1VSmF5NFNCdHFMdUF2X3l2bVpsVEZJZ1J6eEU4RmloZHJ2UVE2WFpUYnVCOGowbmVQZFVZLUNwby0yeVJXTVBscmxmMW9NVGwtWW9mS21UNXJDSHBfbnBLY19XdnlMZkxod21iaGkxZzBLcS1adTMyLWd1SEJ5MlVTWjZKeXI3WkQtaGtMMFd4LXg4TENKRllDSjI2TmxPZUJFUi1qY25LdW5rZm5KajFPNGFyZTdNV3VNT2lObk5kcEswemdhaFlrNnQ2V1JmSGVJZ3pwQ3k0WlhxV1ZHallSb1gyS19uamp0NlN0a080MQ?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.07.29",
           "title": "HBX GROUP ANNOUNCES THIRD QUARTER 2026 TRADING UPDATE",
           "source": "PR Newswire",
@@ -190,13 +197,6 @@
           "title": "HBX Group and Virtuoso expand global partnership to enhance luxury travel offering",
           "source": "Hospitality Net",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeDBrd3pMZkt5dUhFZS15c1ZLVXBKUVlobkY5b1NDakRwYWJfZVNSZUd4d3VLdjZTMzhYbV9hR09kcWdYeUR4ck1BUjFRWlJxQ19pcndHSnpoalluUkkwdGJVNTJ0Sy1kUFVJanVDb216OUpESXJTUlk5M1hrbzJsNFVrU2xJSXE3RFJ0cjBxd2Z3alFCU1pYRllDSGVVTnlWUVdVVDltRVRhOFRKa2ltNG5FNDBUOXRrandrMzZiMk9uaWFB?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.09.30",
-          "title": "HBX Group launches Bedsonline+ with expanded products and AI tools for travel advisors",
-          "source": "travel.economictimes.indiatimes.com",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZGVldHZvSHAyQURlZ2lzVjlIemtCQzMxQ2t1VnkyMTB0R1ZsY2NMTE1DSW5nSE1XZUludmE2eUdRT3BpYWsyN1lsdmFaLUdOeV9SV2ZQc3J0TjVWc1QxWktucUNIc0VYOHU4VFA4Z0VVSWRabFpPOWZIQ0tSX1BFMEFQTVdhUlV1TWhZQVFmVjRPZ2tDY2xLUHlOblk2Mk9HcjdKYWxDMm05QzdQR2RrMW9hb0I0X3Q0RUJuei16OHdRdllkTjhfODEtc0gxTy1JenlzdDMtYzVVdTBqSFVIazRwazdtZUdsLWfSAe8BQVVfeXFMT1M1dm5EQ09TMzl1ZlN6dERFY3JPNURLNGpVMkJrdGotRVNwWl9kdTI0aVZycktmeHJ4SFZjN0xQb1l6dkRvbml3cEhxQW1jM1BuMHdOZnVOTTNkeEgtWFhUQm5XMkh2MXBIaTNHSVdjOFY0RkNGd09OcXBrc2NyS083Vm8zZlJCT19SQ2gtWlB0SjFkSDBNOEhMU0NxVGx2eVpJTk1XTDJPcGtRM1VpWlJ0MnhjWWtMRFVTYkkwZlgyS0Y5N1JsMktIdFFwZkpaaFRzNzB1c0dZWTZpdVBvc0Z0aTRfQlJZc2hESXhBZWM?oc=5",
           "summary": ""
         }
       ]
