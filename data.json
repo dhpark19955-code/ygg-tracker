@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-12T02:13:38+00:00",
+  "generated_at_utc": "2026-10-13T03:28:00+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -42,6 +42,13 @@
       "usd_market_cap": null,
       "news": [
         {
+          "date": "2026.10.09",
+          "title": "WEBBEDS cancels 2.8 million shares after on-market buy-back",
+          "source": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2FLbEsxN1FQMGZXWGZkUHFiOGxLeFpQVzBSc0JFVVRUelo1MDR0dm41X1VOSUZSOC1BbTh4bnVkYWF4bW00OUdNYWMzRmhoQnZfS3ZyMFNKaThxV3B2ZGxjWGFrQ3BFbTk2cnhjOEhxU29BZlFWRHdLbUlJcXNKX3RVODhoOWNvaVZSQmcxRjhkSURKRWhCdUR1RGx5UVZwdDU5M0ZuRjU1bU1VRldsUEJmZmxVN1IzTzNvQnBObUxNUlFnSlEtQXFYeHNvbUhIRENhbHp4QQ?oc=5",
+          "summary": ""
+        },
+        {
           "date": "2026.10.07",
           "title": "Web Travel Group (ASX:WEB): How Do Analysts Rate the Stock After Its Guidance Upgrade?",
           "source": "Kalkine",
@@ -60,13 +67,6 @@
           "title": "Statutory Profit Doesn't Reflect How Good Web Travel Group's (ASX:WEB) Earnings Are",
           "source": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTl1NUNGd25qM3dGdlhoUkY1ck1mQmZSNThpYnFib3pvcGNHOVdUOUNvVzhlZlVTRDFFRGxLWTJLYWRQMHRPRVJUVUtLQ0J2X0F3eXBpdHZuejNKYjFiTHN2RVBmN0xtMnh6emh5dFdqb0l2Z3VHVGQzbVFib3k5N1VYTlctVFZvU2VPNUt3YUtnSDBBUHJLVFRhMTlwQm9fb0pz?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.05.26",
-          "title": "Earnings call transcript: Web Travel Group FY 2026 showcases strong growth",
-          "source": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUTBGaFlJeXRMbzJBNFNhVFREWUJCcW9IWjdVU0Zyd2g5YVg1Q015em1lbHh2TkJRLUlmVGgwN1ZSYUpReUg5VE9OSWxGWDdPRkp0NVZkWDJYNHpzQXFPeWhRelQ1MktRMHk3c0ZJRVhtb0J3VHEwcEJfS0NfTEw4QjVpX3AwSEVnVG0ta3Y5MGpnNURyMUFKUThYZ2pSc1JVU0RoanpzMldweWZwRDBrTEZwMUdKZHl3VXhSQzZNSUZQODMwRTlNTw?oc=5",
           "summary": ""
         }
       ]
@@ -107,17 +107,10 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.10.09",
-          "title": "TBO Tek Ltd. Share Price Today - TBO Tek Ltd. Stock Price Live NSE/BSE",
-          "source": "CNBC TV18",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pa1ZnSV9pRFVTZkx4blUyeVZBZVg3aUJzek85SzQyUGsybzdHcXl6Y3ltZzBwMkFMZnFQUlNxb2QzeUNMQkJSZEhiaUxCbTBqaGNCNGpZQ3R4WjVtUFZwS01uaVdiQXVPaHBhSGVBcVExOWNDV0FsLQ?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.07.30",
-          "title": "TBO Tek Ltd (NSE:TBOTEK) (Q1 2027) Earnings Call Highlights: Resilient Growth Amid Middle East ...",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMmUwdl9PZjRnaGxuVkxFaEJla1hHUEZ1eDZOdWNoNDJoUVlBcWdwVE9BQVVFZUhTWUJnSTBDa2ZHMVBHR00xeHJVamVweGxMa2xSQmdrNjA3R3VKWjhuUWd5S0xoUUpXRDY5SUU4RlZraEp3ZHlTUXZxbzZFQnFRMUNzQ2QwYVNYLVBJcEV4SDI?oc=5",
+          "date": "2026.10.10",
+          "title": "TBO Tek (NSEI:TBOTEK) - Stock Analysis",
+          "source": "Simply Wall Street",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNDhVaVlJR2xFSm1PZWtHSmZlcmQzVkhCNlU3UmFtNXVWSW5wMjFSQW1LNlNIaHlzamphdzVUM295QmFSNnNfamNHSjFsZGJIRmVITWx4TlhSNm5XOVVrcTc3dlNERHRVZmtjUTNPOERtWTc4S0tTNTI2WGJubzhtbg?oc=5",
           "summary": ""
         },
         {
@@ -132,6 +125,13 @@
           "title": "TBO Tek Limited Reports Earnings Results for the Fourth Quarter and Full Year Ended March 31, 2026",
           "source": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRndwcDI4UFM3eWQwa2g4NnRZTHlRVWNJd21ta3k4cGNKbnJyTi1wdW1HdzctVC1rMDloQU5MMHpzbXRVR3hDOXlVS3VvYS01dkhwTDJaNWxUckV6TjlGTUlQYXE5dVhrUWNsSzBPclE4YzNIRml2QVI3NnFqcEFqeU5JOElUSkEwVm1DTVU5LV9EdXNNT0VmQkRDQ3hJWlhteEQ2YVhHdS1xSzg0RS01aFhaY1FQSTdrTXhqVjRYQzZrWnkwbXRIWFVHUW16d3VSZzlmdjdUMHRXM2hLczJvMFhnWnY?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.08.19",
+          "title": "TBO Tek Well Positioned for North America's Luxury Travel Growth, Says Jefferies; Check Target Price",
+          "source": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEQ1MW5vZlE2eHJVXzRzaWwwWmVvWG9XZHFuTjM0aEN2ZlRGWHlHcDJWQVRTb1FNRGJnUUcycHRPWENCNjZCMXZqcUZuS3huNy16c25KT1FXazl5QXFGZXhNNWNhTWVUYW0xbzBEUHFIbUt5YU5PbUszekhqYmFKbE1mcE5KTk5fSHhGRmNUbFFid1RHTWcybWV4NXgyS0xndE9WOG1qbjh1QXVZZDlZa0V3OF9nOU1kNmZLZXhOQUZBR3kzenJDZGlIbzJtaERIYUd5NlhoSy3SAeABQVVfeXFMUF9naDI0TnY1RE11SkRQd0EyTjdBUVgwYnhyNGNvc1BTWF9WOVlNc0ZBbm83ZnNYc2ZvMmZPUXV2Xzk2ejAyQ0xwRXRRTUV1WHpOLW0wMmo1RXBRMlc3ZGVsbFVsMktEbDR0b0lhQmpDN2NQWEJKZ3RNQW5jTjRULVNKQnNhMmFwa01wT2tCQk1MUGNxY3RCZWRqRFVuandBem9MRWVZMEdGRDY3RF83Qm94ZHFNcHNCVXY0Skpwd0xZUE50MGhLazZ4R3ZnT29GcGlsSlpXYzh2TmxnQVhnSUs?oc=5",
           "summary": ""
         }
       ]
@@ -186,17 +186,17 @@
           "summary": ""
         },
         {
-          "date": "2026.10.06",
-          "title": "HBX Group Partners With Bioscore To Help Hotels Achieve Recognised Sustainability Certification",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQOWZlc3BpcC1VSmF5NFNCdHFMdUF2X3l2bVpsVEZJZ1J6eEU4RmloZHJ2UVE2WFpUYnVCOGowbmVQZFVZLUNwby0yeVJXTVBscmxmMW9NVGwtWW9mS21UNXJDSHBfbnBLY19XdnlMZkxod21iaGkxZzBLcS1adTMyLWd1SEJ5MlVTWjZKeXI3WkQtaGtMMFd4LXg4TENKRllDSjI2TmxPZUJFUi1qY25LdW5rZm5KajFPNGFyZTdNV3VNT2lObk5kcEswemdhaFlrNnQ2V1JmSGVJZ3pwQ3k0WlhxV1ZHallSb1gyS19uamp0NlN0a080MQ?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.09.24",
           "title": "HBX Group and Virtuoso expand global partnership to enhance luxury travel offering",
           "source": "Hospitality Net",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeDBrd3pMZkt5dUhFZS15c1ZLVXBKUVlobkY5b1NDakRwYWJfZVNSZUd4d3VLdjZTMzhYbV9hR09kcWdYeUR4ck1BUjFRWlJxQ19pcndHSnpoalluUkkwdGJVNTJ0Sy1kUFVJanVDb216OUpESXJTUlk5M1hrbzJsNFVrU2xJSXE3RFJ0cjBxd2Z3alFCU1pYRllDSGVVTnlWUVdVVDltRVRhOFRKa2ltNG5FNDBUOXRrandrMzZiMk9uaWFB?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.10.06",
+          "title": "HBX Group Partners With Bioscore To Help Hotels Achieve Recognised Sustainability Certification",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQOWZlc3BpcC1VSmF5NFNCdHFMdUF2X3l2bVpsVEZJZ1J6eEU4RmloZHJ2UVE2WFpUYnVCOGowbmVQZFVZLUNwby0yeVJXTVBscmxmMW9NVGwtWW9mS21UNXJDSHBfbnBLY19XdnlMZkxod21iaGkxZzBLcS1adTMyLWd1SEJ5MlVTWjZKeXI3WkQtaGtMMFd4LXg4TENKRllDSjI2TmxPZUJFUi1qY25LdW5rZm5KajFPNGFyZTdNV3VNT2lObk5kcEswemdhaFlrNnQ2V1JmSGVJZ3pwQ3k0WlhxV1ZHallSb1gyS19uamp0NlN0a080MQ?oc=5",
           "summary": ""
         }
       ]
