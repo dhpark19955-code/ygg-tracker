@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-14T02:59:56+00:00",
+  "generated_at_utc": "2026-11-15T02:30:01+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -49,13 +49,6 @@
           "summary": ""
         },
         {
-          "date": "2026.11.13",
-          "title": "WebBeds Group (ASX:WEB): What Is Behind Its Revised FY27 Guidance?",
-          "source": "Kalkine",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb3UwSW5YampLb2kzUm9aOVg5aFJYcE1PQVVRSjloclFsSUZhU0dTaFIxam5lLU1wQ0RuQU1lZU9PVlRDTHBCNnpLb2JVQW5PajA4RFRmMHF5clRnOWJac0x0Q3gzZHYxNmh2ZnhKbGJEUGZzQTYtMmVSVThvb3Z0eWt6ak5HVmlteWJmRGFTUnVqZFF4YmZTLVNZQkU?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.11.03",
           "title": "WebBeds buys Romania's Tale Travel to lock in Eastern Europe",
           "source": "Dealroom",
@@ -67,6 +60,13 @@
           "title": "Web Travel Group acquires hotel rebooking platform Pruvo",
           "source": "PhocusWire",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSzhqUzVfWlNGRmNNemlzQzZzSW5UanNISkxJTHJBRmh6U29HLTlFRURzY1BORkNSNVUtQVFqdm9vOFdELUpCbmgtLXkwREtzbFIxUjJXSml5MkIyM3lqZTBMVVZRU1NHVEsxTWVqNmdCa3NCOTM4UFNQXzdSYjA4bGxmc1hGSDhnYmIw?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.11.13",
+          "title": "WebBeds Group (ASX:WEB): What Is Behind Its Revised FY27 Guidance?",
+          "source": "Kalkine",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb3UwSW5YampLb2kzUm9aOVg5aFJYcE1PQVVRSjloclFsSUZhU0dTaFIxam5lLU1wQ0RuQU1lZU9PVlRDTHBCNnpLb2JVQW5PajA4RFRmMHF5clRnOWJac0x0Q3gzZHYxNmh2ZnhKbGJEUGZzQTYtMmVSVThvb3Z0eWt6ak5HVmlteWJmRGFTUnVqZFF4YmZTLVNZQkU?oc=5",
           "summary": ""
         }
       ]
@@ -107,17 +107,17 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.11.08",
-          "title": "TBO Tek Limited (TBOTEK.NS) Seasonal returns chart",
-          "source": "Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qVkdwdkZOV3FaZjVIX0JLalAxZkxDX1ZDc0F3MjVfa0Y0anZPNVFuWC04MzN4bE5ORFdHY2ZoaXlrYVJCbWJyYjBmREpfZzVNTE5YV3d5LWNCaWg5V0ptTUNTS2V1NldH?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.11.03",
           "title": "TBO Tek Q2 2027 Earnings Call Is Live",
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdFZHMEVNTUJlWkFPZ0dEMExJZzJuUTVZZWVRUW1FRk1EbXhoeHFsUFJ1N19ZMG50SmlBZmVaWUZFNnNyd3psVG1VUzNKUjE1Zk45V0dGTVBueElLOGxEWGVpYzVlRVI0SjZURzdMVGxEcmFKSHBEbzNMTnBHM2dnMWFDd2Y5V2NQWDY5eGRsTTlhcV80alhrb2hETFpKRWNSMTJRYTRTbVRfdw?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.08.18",
+          "title": "TBO Tek Number of Employees 2026 | Employee Count & Headcount Data",
+          "source": "Revelio Labs",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTcGk5bVVVc1JCeU11WFpQRWs0V3lOTGJ0WlNnXzdiQ1c2d2ZqcmVDYnR3X090dGttUmtlZFVmdW5XVl92eExmM253Q2FEdUhuSHhwUUV5TDFzaWVIZWt3TE5MbVV1UQ?oc=5",
           "summary": ""
         },
         {
@@ -128,10 +128,10 @@
           "summary": ""
         },
         {
-          "date": "2026.08.18",
-          "title": "TBO Tek Number of Employees 2026 | Employee Count & Headcount Data",
-          "source": "Revelio Labs",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTcGk5bVVVc1JCeU11WFpQRWs0V3lOTGJ0WlNnXzdiQ1c2d2ZqcmVDYnR3X090dGttUmtlZFVmdW5XVl92eExmM253Q2FEdUhuSHhwUUV5TDFzaWVIZWt3TE5MbVV1UQ?oc=5",
+          "date": "2026.08.19",
+          "title": "TBO Tek Well Positioned for North America's Luxury Travel Growth, Says Jefferies; Check Target Price",
+          "source": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEQ1MW5vZlE2eHJVXzRzaWwwWmVvWG9XZHFuTjM0aEN2ZlRGWHlHcDJWQVRTb1FNRGJnUUcycHRPWENCNjZCMXZqcUZuS3huNy16c25KT1FXazl5QXFGZXhNNWNhTWVUYW0xbzBEUHFIbUt5YU5PbUszekhqYmFKbE1mcE5KTk5fSHhGRmNUbFFid1RHTWcybWV4NXgyS0xndE9WOG1qbjh1QXVZZDlZa0V3OF9nOU1kNmZLZXhOQUZBR3kzenJDZGlIbzJtaERIYUd5NlhoSy3SAeABQVVfeXFMUF9naDI0TnY1RE11SkRQd0EyTjdBUVgwYnhyNGNvc1BTWF9WOVlNc0ZBbm83ZnNYc2ZvMmZPUXV2Xzk2ejAyQ0xwRXRRTUV1WHpOLW0wMmo1RXBRMlc3ZGVsbFVsMktEbDR0b0lhQmpDN2NQWEJKZ3RNQW5jTjRULVNKQnNhMmFwa01wT2tCQk1MUGNxY3RCZWRqRFVuandBem9MRWVZMEdGRDY3RF83Qm94ZHFNcHNCVXY0Skpwd0xZUE50MGhLazZ4R3ZnT29GcGlsSlpXYzh2TmxnQVhnSUs?oc=5",
           "summary": ""
         }
       ]
