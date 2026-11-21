@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-20T03:56:02+00:00",
+  "generated_at_utc": "2026-11-21T03:52:53+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -43,9 +43,16 @@
       "news": [
         {
           "date": "2026.11.20",
-          "title": "WebBeds Group Schedules 1H27 Results Briefing for 25 November 2026",
+          "title": "What WebBeds Group Holders Got Wrong Before The Slide",
+          "source": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWmxKT0U1WV9yd28xR01XZ2gzM3I1RFZ2OFY3d0tFVFcyZHZzQ1JKbHloZTN4SmdSZFJpMVZNVGxQNm5vOFNXMk5CUG01TXBaVG9hUk5IVmNlRkdaMi1EUlZ1N19meVBXUElORTBUcTNSSkpDM2t3bVh5Y3cyTWRMRVpNSFJzYWs?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.11.20",
+          "title": "Web Travel Group (ASX:WEB): How Do WebBeds Results Reflect Hotel Distribution Trends?",
           "source": "Kalkine",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUp6LVhIZUhEUXp0NzdQTThrckxuRzFZbTVQN3czQWJBNDJDc1gyOU9tTnhwbDFBeGJLVXpCWkliMXdOSEVkNkVYM2t5MnI2OENwRXJfelRqNnVIdGQ4YnpOemlzZHRqdVpWeEh1eWNHQWdjR0E4akt1dHYySGVrSkZnbFJ4QzhQYlBub3JjUFd0NzhBVmRZWUxDbkstdWM4VEJYWktpVGM3Rktk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX0l5a1U1SEt0ZmhjZnB3Q1NHSXZsc19tSTVFazBSZTBUeFRIaU5tNU5pSFkxRU1LWUFkV1dabkhFZ3ZUM3hpUnpUekcwcUpteHdkd1czcW5tN0ZTMnpGYkZtTjdqem5YWWFoel95Q2xkT1ctaDBCYllDQXB3VC13SjU0VWJBZy0yb0NIb3laSTFtektSckpEOTNVNWZmemdTQ21ER3NXWUYzX01HYTY1S2l1eHVIdw?oc=5",
           "summary": ""
         },
         {
@@ -60,13 +67,6 @@
           "title": "Web Travel Group acquires hotel rebooking platform Pruvo",
           "source": "PhocusWire",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSzhqUzVfWlNGRmNNemlzQzZzSW5UanNISkxJTHJBRmh6U29HLTlFRURzY1BORkNSNVUtQVFqdm9vOFdELUpCbmgtLXkwREtzbFIxUjJXSml5MkIyM3lqZTBMVVZRU1NHVEsxTWVqNmdCa3NCOTM4UFNQXzdSYjA4bGxmc1hGSDhnYmIw?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.07.30",
-          "title": "Web Travel Group (ASX:WEB) Lifted Guidance, Is The Recovery Already Priced In?",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVDB5cmFOcnYzWDJ0eXdxRGNQSEx4MWJmS2tHLUtEVEZhamR0Y3BrdjFyY3ctR3NjRWNjWnZfcVBpVm9Rd2ZDQ3EzVFV4ZzlpbWt5TXBacHpVV0NSWHF6RFNvcU5waHlUTlNHSDZ4amNtOE1sTTdaUl9XRVIxZTB5WnZLbm9YUVc2dFpXMm1mU1N3MDgtemVldktqTE5NUQ?oc=5",
           "summary": ""
         }
       ]
@@ -114,13 +114,6 @@
           "summary": ""
         },
         {
-          "date": "2026.11.19",
-          "title": "TBO Tek to host UBS institutional investor conference call on November 24",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVDJNOEJZOHBZMllwMUR2UUk2RUhma3NtVHpGSVFnaEZLazFCRTAtZU9yVTd4V0pJNkU0dm5Id1B6bDRTZ3lKRXhqM09ZY2FCNUFfb3dZajFGWXpQMTh1emtwLW5SYVU1bVlxOGtKUVFvdUlZRnJQTmMtcXVweTFmdUZmai1UNHU5TzdaXzk2dlVyTnhmbHFiaE1aWjB6WUNMLWI3aVpFRDdINGJPX05FSE1LdDdQV3NLcHlTVmplYWpWdw?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.08.18",
           "title": "TBO Tek Number of Employees 2026 | Employee Count & Headcount Data",
           "source": "Revelio Labs",
@@ -132,6 +125,13 @@
           "title": "TBO Tek Q2 2027 Earnings Call Is Live",
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdFZHMEVNTUJlWkFPZ0dEMExJZzJuUTVZZWVRUW1FRk1EbXhoeHFsUFJ1N19ZMG50SmlBZmVaWUZFNnNyd3psVG1VUzNKUjE1Zk45V0dGTVBueElLOGxEWGVpYzVlRVI0SjZURzdMVGxEcmFKSHBEbzNMTnBHM2dnMWFDd2Y5V2NQWDY5eGRsTTlhcV80alhrb2hETFpKRWNSMTJRYTRTbVRfdw?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.11.03",
+          "title": "Earnings call transcript: TBO Tek posts slight Q2 2026 EPS beat as growth holds",
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGI4cnZQbWtneHZCSU5iOFgtYlVGSWNpQVVvdlJyOWl2VVJQVGpDTmw5WDB6cE00REY0TGw0X3hHRnk0X3ZYanMyRzZBRVlZdTJITWlmUXZzT0p3Wkl5TXB6anRZamN3WU9LcnF3OUN3TUtOY0MwSHdueVE2WDgyRWZveDRzZ2g3cnhpVG10WVlaRmljSlJTbGhJXzZCZDNMMlIwNUpGbzBmcXRYUnlZYl9rOW9VbEcwM1pNM0NYeEJJSDhNdzd1cHRhOVVyYzA?oc=5",
           "summary": ""
         }
       ]
@@ -179,13 +179,6 @@
           "summary": ""
         },
         {
-          "date": "2026.11.20",
-          "title": "HBX Group partners Cleartrip to expand international hotel offerings for Indian travellers",
-          "source": "ET TravelWorld",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaldYcGFKMExsWC1PM0FNUFpLQzJEanE5OFVaNzFuMjRvcTVpcWkxZjBweks4b05USmluc05RVUl0LXhBZ0EyS0F0WXVVNUJIQTBHQlBwT0RCUzVrQ1VJX2xWUm83VEJDS1hWWmlFS2hDNXpxSXk2ZnpfWF9PcFExM3pmcE1mT0tORS1SNlRIdDdpYTVJNVJFaHM2S2swZDdGQlBjel9FUjc1T3RpRDZOYjlTX1g1bXd0YTRZa2JHUDA2YUx5Nzk5eWU4ZTkxa2k0c3V6aC1maFJTTktPMnJoQVVJRTBLOE5mMzlEOEp2YTBDUdIB9gFBVV95cUxNSlNkcHBoR1ZKMzEzYTgzMGFYaHJ2V1ktWjl6bDU2eUZ2a2JhY01Fbk5DSUpub01KSzBmNVdUQlVmWFYwUzhRZ2NjRHNCal91cmdNVzJqNi1wT1RyVzQ1RjgwTkEwc1FQQUYtYVRNQTRSSm56bFE4bVd3NERqU2d6YXM4Y2NvRGZXbU9TYjlhdEI5UEJWQUw4YVZYLTh2eTVyMlNSSTZoRVlfS2FzNjJuVTR4eEdaYjk5MHlBUmZ5ZWxuSHBCSlQ0T3FxMjFoTUQwZm5QWXFVYnhkTkJnakNKeTZtLXBhM1BQZnEtbEdmcVBIQzBrMWc?oc=5",
-          "summary": ""
-        },
-        {
           "date": "2026.11.19",
           "title": "HBX Group partners with Cleartrip for hotel expansion",
           "source": "Travel Daily Media",
@@ -197,6 +190,13 @@
           "title": "What Hotelbeds’ Shrinking Margins Mean for Hotel Distribution",
           "source": "Skift",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3ZCd3RTd1ZPcW1aN3ZnOFRDZXlqN3I5LXY0UHR1ekJSVzRTYTY5NkE0YzhqZ3d4YnM3MEQ3YlpqYm5Ia2UzVlRoZVFDdnpUb2VNenNBeHVhN01mamwtTVBqUTlMVUt2WTU1TEpMSnFnVlo0N1Y3dUE1TjJBVkZqVmZXWkh6UHBVY0k5N1RoSUI1RFFf?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.11.20",
+          "title": "HBX Group partners Cleartrip to expand international hotel offerings for Indian travellers",
+          "source": "ET TravelWorld",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaldYcGFKMExsWC1PM0FNUFpLQzJEanE5OFVaNzFuMjRvcTVpcWkxZjBweks4b05USmluc05RVUl0LXhBZ0EyS0F0WXVVNUJIQTBHQlBwT0RCUzVrQ1VJX2xWUm83VEJDS1hWWmlFS2hDNXpxSXk2ZnpfWF9PcFExM3pmcE1mT0tORS1SNlRIdDdpYTVJNVJFaHM2S2swZDdGQlBjel9FUjc1T3RpRDZOYjlTX1g1bXd0YTRZa2JHUDA2YUx5Nzk5eWU4ZTkxa2k0c3V6aC1maFJTTktPMnJoQVVJRTBLOE5mMzlEOEp2YTBDUdIB9gFBVV95cUxNSlNkcHBoR1ZKMzEzYTgzMGFYaHJ2V1ktWjl6bDU2eUZ2a2JhY01Fbk5DSUpub01KSzBmNVdUQlVmWFYwUzhRZ2NjRHNCal91cmdNVzJqNi1wT1RyVzQ1RjgwTkEwc1FQQUYtYVRNQTRSSm56bFE4bVd3NERqU2d6YXM4Y2NvRGZXbU9TYjlhdEI5UEJWQUw4YVZYLTh2eTVyMlNSSTZoRVlfS2FzNjJuVTR4eEdaYjk5MHlBUmZ5ZWxuSHBCSlQ0T3FxMjFoTUQwZm5QWXFVYnhkTkJnakNKeTZtLXBhM1BQZnEtbEdmcVBIQzBrMWc?oc=5",
           "summary": ""
         }
       ]
