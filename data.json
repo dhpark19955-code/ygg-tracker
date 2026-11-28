@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-27T04:54:25+00:00",
+  "generated_at_utc": "2026-11-28T04:39:35+00:00",
   "fx_to_usd": {
     "AUD": 0.65,
     "INR": 0.012,
@@ -172,24 +172,10 @@
       "usd_market_cap": null,
       "news": [
         {
-          "date": "2026.11.25",
-          "title": "HBX Group International plc (HBX.MC) Stock Price, News, Quote & History",
-          "source": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lMGNuNXVjX0lRbGp0MDhVaTNfeTBDS3dXOGlWSnhrbFd5OGxGUTRjb1FYS0k4b1dDU3dtQmI5cVlfVjlPR0plemhKNjNsUllrZF9pMw?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.11.25",
-          "title": "HBX Group International plc (HBX) Announces FY2026 Results; Figures Not Included",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM25QSHR1T1hhRjdSMWZ2OGNCbC1CdXIyYnA4Z2x4NWV2NGgyRlNHNDJKUEJ2ei1kd2ZPcW5XU0lpcFRKQkdBX1JIS1Q3THhsRGp4U2NDc0d4S1NPNm9LOU53THptdHBKeDVncEhIajJPNVJtMzZpREdzdEpBSjBFQk1ZTmNjQ2wwakhlakpZTWY0TUdFZDZUY2hIX0l2YlVxb21jRTNEdTYwTXVZSHBMd3dMMWI2d05GZnNhdVhIRjJZWlBUQ09DaVZ0ZElVZGZGdHU3YkhR?oc=5",
-          "summary": ""
-        },
-        {
-          "date": "2026.11.24",
-          "title": "Morgan Stanley: HBX Group to Face Another Partly Transitional Year in FY27",
-          "source": "www.marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVV9Dc3pyamFYNkl2LWdqcm1VSTJhRXVqelN1ZTg3QUV4ZnQyQkVmWHlYa2txT3dWTVhDYkEwMGlYZllBanh2NlhMTzRyZWs3MEtMMDRfSjNkdjMzRFdNNjktcWlIc3VobUlaQ2l4WEpqVHVKaWVpb1ZCNVZKZzE1X2V1SFVXQUt3SU1nRW5NRkhZSFFkX2QwQ1dVSmZFUDVoMGNsMXl1SWlhUE5UdV81UzhQamw4NlJfUWZ1eDZQVENNeWlG?oc=5",
+          "date": "2026.11.27",
+          "title": "Hotelbeds’ $112 Million Bet as Its Core Business Comes Under Pressure",
+          "source": "Skift",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN012THExSVFuSldJb2xobmVVcDdpMzM4ZnprQXpsUTlmbU94R3FLSTJuaGNzdHo2NWRVUnh6QjlPcmhiM3dBRmpaMkYyOGZjTG4yaVNPdnp2TlIzUGQ3MmFLUzlpVjhGdjF2S19jdUg2dGRmdWJRdl9iQnVKQWRTNUFtWlh6eTIxTUp4bm44eDlDVEZKYnJ3Y2ZEc3Rudw?oc=5",
           "summary": ""
         },
         {
@@ -197,6 +183,20 @@
           "title": "HBX GROUP ANNOUNCES FULL YEAR 2026 FINANCIAL RESULTS",
           "source": "PR Newswire",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWplQjRndnVmSjJmdzBPMW1NcXZxVmVoYUFZYmJSdlZBMWN2ZWx4bllpRmxNY3VrLUtSckxrLWs4MDhMWUswd2FCS2xIUXB5Yk53UnZyTXZmdXpHT0t6d1hlWHA1WjdYWkF6M1NPRTd2S0tyeGszcFp4OVVqbDc4OC1oRFhPZXhZNlBBUWxPYnNOek9SemxIRzJtLUlIU3RaMV9XQ1B2RzQ2dVZ0?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.11.25",
+          "title": "HBX Group Annual Transaction Value Rises 14% as Revenue Falls 2%",
+          "source": "Securities.io",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdXJfWjJVcFhubk1LMnpkWHpFX0ZTUVFqeXUwa1JaTzA2bGFIejJ4b1VwVXF2dWtWX3d3N1VYUlktT19sWVUyQUt6YnVQWFR4ZlpXZVpLRXhzOTVBdDdPUVRjekh2MzRMaW9TbUw1dDZsaDEtTmV0X1dzZ3RnY0lkTGZIa0NGYVJ2MzhpVkctZWpVV3c?oc=5",
+          "summary": ""
+        },
+        {
+          "date": "2026.07.29",
+          "title": "HBX Group CEO Nicolas Huss to retire",
+          "source": "PhocusWire",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdmdlRmdSU1o5bGROay10dDFNYUQ4d04tN3hqR2x2cDJkQ19vUFhubWZ4MGN4VXdZc2pxbnhHSHRnYm4tYlU3cHlwQ0hOdTMtOXp2bS1YanY5c1ljdXM5WFRHcUozekVMZGttaEVlNVhkSW0wcWtlQkI0OGVzSmVVag?oc=5",
           "summary": ""
         }
       ]
